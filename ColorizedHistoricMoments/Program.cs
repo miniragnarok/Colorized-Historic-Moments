@@ -14,11 +14,13 @@ namespace ColorizedHistoricMoments
         private static readonly string colorizedHistoricMomentsXlp = "ColorizedHistoricMoments.xlp";
         private static readonly string finishedImagesFolder = Path.Combine(currentDirectory, "Textures");
         private static readonly string colorizedHistoricMomentsModInfo = "ColorizedHistoricMoments.modinfo";
+        private static readonly string textureTemplateFileName = "TextureTemplate.tex";
 
         static void Main()
         {
             TransformXlp();
             TransformModInfo();
+            CreateTextureFiles();
         }
 
         private static void TransformXlp()
@@ -96,6 +98,38 @@ namespace ColorizedHistoricMoments
             }
 
             xlp.Save(xlpFilepath);
+        }
+
+        private static void CreateTextureFiles()
+        {
+            foreach (var file in Directory.EnumerateFiles(finishedImagesFolder, "*.dds"))
+            {
+                var textureFileName = Path.GetFileNameWithoutExtension(file) + ".tex";
+                if(!File.Exists(Path.Combine(finishedImagesFolder, textureFileName)))
+                {
+                    var templateFilePath = Path.Combine(currentDirectory, textureTemplateFileName);
+                    var template = XElement.Load(templateFilePath);
+
+                    var sourceFilePathTextAttribute = template.Descendants("m_SourceFilePath")
+                        .SingleOrDefault()
+                        .Attribute("text");
+                    sourceFilePathTextAttribute.Value = sourceFilePathTextAttribute.Value + Path.GetFileName(file);
+
+                    var dataFilesRelativePathTextAttribute = template.Descendants("m_DataFiles")
+                        .SingleOrDefault()
+                        .Descendants("m_RelativePath")
+                        .SingleOrDefault()
+                        .Attribute("text");
+                    dataFilesRelativePathTextAttribute.Value = Path.GetFileName(file);
+
+                    var nameTextAttribute = template.Descendants("m_Name")
+                        .SingleOrDefault()
+                        .Attribute("text");
+                    nameTextAttribute.Value = Path.GetFileNameWithoutExtension(file);
+
+                    template.Save(Path.Combine(finishedImagesFolder, textureFileName));
+                }
+            }
         }
     }
 }

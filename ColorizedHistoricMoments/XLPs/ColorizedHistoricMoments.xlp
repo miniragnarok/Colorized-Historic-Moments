@@ -8,7 +8,12 @@
   </m_Version>
   <m_ClassName text="UITexture" />
   <m_PackageName text="ColorizedHistoricMoments" />
-  <m_Entries />
+  <m_Entries>
+    <Element>
+      <m_EntryID text="bob" />
+      <m_ObjectName text="bob" />
+    </Element>
+  </m_Entries>
   <m_AllowedPlatforms>
     <Element>WINDOWS</Element>
     <Element>LINUX</Element>

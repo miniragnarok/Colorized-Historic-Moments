@@ -87,6 +87,7 @@
   <ItemGroup>
     <None Include="ArtDefs\ColorizedHistoricMoments.artdef" />
     <None Include="ColorizedHistoricMoments.modinfo" />
+    <None Include="TextureTemplate.tex" />
     <None Include="UnmatchedImages\LunarLander.tex" />
     <None Include="UnmatchedImages\LaunchSatellite.tex" />
     <None Include="XLPs\ColorizedHistoricMoments.xlp" />
