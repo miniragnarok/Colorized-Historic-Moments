@@ -8,7 +8,132 @@
   </m_Version>
   <m_ClassName text="UITexture" />
   <m_PackageName text="ColorizedHistoricMoments" />
-  <m_Entries />
+  <m_Entries>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_BuildingRailroadConnecting2Cities" />
+      <m_ObjectName text="CHM_MomentXP2_BuildingRailroadConnecting2Cities" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_City_Built_Near_Volcano" />
+      <m_ObjectName text="CHM_MomentXP2_City_Built_Near_Volcano" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_ClimateChangeAlert" />
+      <m_ObjectName text="CHM_MomentXP2_ClimateChangeAlert" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_EnterFutureEra" />
+      <m_ObjectName text="CHM_MomentXP2_EnterFutureEra" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_ImproveNaturalDisasterYieldTile" />
+      <m_ObjectName text="CHM_MomentXP2_ImproveNaturalDisasterYieldTile" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_Resource_FossilFuel" />
+      <m_ObjectName text="CHM_MomentXP2_Resource_FossilFuel" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_TrainingRenewableEnergyImprovement" />
+      <m_ObjectName text="CHM_MomentXP2_TrainingRenewableEnergyImprovement" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_Training_Toa" />
+      <m_ObjectName text="CHM_MomentXP2_Training_Toa" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Circumnavigation" />
+      <m_ObjectName text="CHM_Moment_Circumnavigation" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_ClearBarbMedieval6Tiles" />
+      <m_ObjectName text="CHM_Moment_ClearBarbMedieval6Tiles" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_DiscoverContinent" />
+      <m_ObjectName text="CHM_Moment_DiscoverContinent" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_DistrictBuiltAerodrome" />
+      <m_ObjectName text="CHM_Moment_DistrictBuiltAerodrome" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_DistrictBuiltEncampment" />
+      <m_ObjectName text="CHM_Moment_DistrictBuiltEncampment" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_DistrictBuiltHolySite" />
+      <m_ObjectName text="CHM_Moment_DistrictBuiltHolySite" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_DistrictBuiltNeighborhood" />
+      <m_ObjectName text="CHM_Moment_DistrictBuiltNeighborhood" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_EliminatedCiv" />
+      <m_ObjectName text="CHM_Moment_EliminatedCiv" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_EraEntry_Atomic" />
+      <m_ObjectName text="CHM_Moment_EraEntry_Atomic" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_EraEntry_Information" />
+      <m_ObjectName text="CHM_Moment_EraEntry_Information" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_EraEntry_Medieval" />
+      <m_ObjectName text="CHM_Moment_EraEntry_Medieval" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_EraEntry_Modern" />
+      <m_ObjectName text="CHM_Moment_EraEntry_Modern" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_EraEntry_Renaissance" />
+      <m_ObjectName text="CHM_Moment_EraEntry_Renaissance" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Government_Autocracy" />
+      <m_ObjectName text="CHM_Moment_Government_Autocracy" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Government_ClassicalRepublic" />
+      <m_ObjectName text="CHM_Moment_Government_ClassicalRepublic" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Government_Democracy" />
+      <m_ObjectName text="CHM_Moment_Government_Democracy" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Government_Monarchy" />
+      <m_ObjectName text="CHM_Moment_Government_Monarchy" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_LaunchedSatellite" />
+      <m_ObjectName text="CHM_Moment_LaunchedSatellite" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_MetCivPlayer" />
+      <m_ObjectName text="CHM_Moment_MetCivPlayer" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_MoonLanding" />
+      <m_ObjectName text="CHM_Moment_MoonLanding" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NewContinentCity" />
+      <m_ObjectName text="CHM_Moment_NewContinentCity" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_SpyPromoted" />
+      <m_ObjectName text="CHM_Moment_SpyPromoted" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Tradepost_AllCities" />
+      <m_ObjectName text="CHM_Moment_Tradepost_AllCities" />
+    </Element>
+  </m_Entries>
   <m_AllowedPlatforms>
     <Element>WINDOWS</Element>
     <Element>LINUX</Element>

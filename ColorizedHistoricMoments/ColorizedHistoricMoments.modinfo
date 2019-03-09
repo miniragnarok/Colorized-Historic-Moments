@@ -17,15 +17,77 @@
       <File priority="10">SQL/UpdateTextures.sql</File>
     </UpdateDatabase>
     <UpdateArt id="CHM_UpdateArt">
-      <File priority="10">Colored Historic Moments.dep</File>
+      <File priority="10">Colorized Historic Moments.dep</File>
     </UpdateArt>
   </InGameActions>
   <Files>
-    <File>Colored Historic Moments.dep</File>
+    <File>Colorized Historic Moments.dep</File>
     <File>Platforms/MacOS/BLPs/ColorizedHistoricMoments.blp</File>
     <File>Platforms/Windows/BLPs/ColorizedHistoricMoments.blp</File>
     <File>ArtDefs/ColorizedHistoricMoments.artdef</File>
     <File>SQL/UpdateTextures.sql</File>
+    <File>Textures/CHM_MomentXP2_BuildingRailroadConnecting2Cities.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingRailroadConnecting2Cities.tex</File>
+    <File>Textures/CHM_MomentXP2_City_Built_Near_Volcano.dds</File>
+    <File>Textures/CHM_MomentXP2_City_Built_Near_Volcano.tex</File>
+    <File>Textures/CHM_MomentXP2_ClimateChangeAlert.dds</File>
+    <File>Textures/CHM_MomentXP2_ClimateChangeAlert.tex</File>
+    <File>Textures/CHM_MomentXP2_EnterFutureEra.dds</File>
+    <File>Textures/CHM_MomentXP2_EnterFutureEra.tex</File>
+    <File>Textures/CHM_MomentXP2_ImproveNaturalDisasterYieldTile.dds</File>
+    <File>Textures/CHM_MomentXP2_ImproveNaturalDisasterYieldTile.tex</File>
+    <File>Textures/CHM_MomentXP2_Resource_FossilFuel.dds</File>
+    <File>Textures/CHM_MomentXP2_Resource_FossilFuel.tex</File>
+    <File>Textures/CHM_MomentXP2_TrainingRenewableEnergyImprovement.dds</File>
+    <File>Textures/CHM_MomentXP2_TrainingRenewableEnergyImprovement.tex</File>
+    <File>Textures/CHM_MomentXP2_Training_Toa.dds</File>
+    <File>Textures/CHM_MomentXP2_Training_Toa.tex</File>
+    <File>Textures/CHM_Moment_Circumnavigation.dds</File>
+    <File>Textures/CHM_Moment_Circumnavigation.tex</File>
+    <File>Textures/CHM_Moment_ClearBarbMedieval6Tiles.dds</File>
+    <File>Textures/CHM_Moment_ClearBarbMedieval6Tiles.tex</File>
+    <File>Textures/CHM_Moment_DiscoverContinent.dds</File>
+    <File>Textures/CHM_Moment_DiscoverContinent.tex</File>
+    <File>Textures/CHM_Moment_DistrictBuiltAerodrome.dds</File>
+    <File>Textures/CHM_Moment_DistrictBuiltAerodrome.tex</File>
+    <File>Textures/CHM_Moment_DistrictBuiltEncampment.dds</File>
+    <File>Textures/CHM_Moment_DistrictBuiltEncampment.tex</File>
+    <File>Textures/CHM_Moment_DistrictBuiltHolySite.dds</File>
+    <File>Textures/CHM_Moment_DistrictBuiltHolySite.tex</File>
+    <File>Textures/CHM_Moment_DistrictBuiltNeighborhood.dds</File>
+    <File>Textures/CHM_Moment_DistrictBuiltNeighborhood.tex</File>
+    <File>Textures/CHM_Moment_EliminatedCiv.dds</File>
+    <File>Textures/CHM_Moment_EliminatedCiv.tex</File>
+    <File>Textures/CHM_Moment_EraEntry_Atomic.dds</File>
+    <File>Textures/CHM_Moment_EraEntry_Atomic.tex</File>
+    <File>Textures/CHM_Moment_EraEntry_Information.dds</File>
+    <File>Textures/CHM_Moment_EraEntry_Information.tex</File>
+    <File>Textures/CHM_Moment_EraEntry_Medieval.dds</File>
+    <File>Textures/CHM_Moment_EraEntry_Medieval.tex</File>
+    <File>Textures/CHM_Moment_EraEntry_Modern.dds</File>
+    <File>Textures/CHM_Moment_EraEntry_Modern.tex</File>
+    <File>Textures/CHM_Moment_EraEntry_Renaissance.dds</File>
+    <File>Textures/CHM_Moment_EraEntry_Renaissance.tex</File>
+    <File>Textures/CHM_Moment_Government_Autocracy.dds</File>
+    <File>Textures/CHM_Moment_Government_Autocracy.tex</File>
+    <File>Textures/CHM_Moment_Government_ClassicalRepublic.dds</File>
+    <File>Textures/CHM_Moment_Government_ClassicalRepublic.tex</File>
+    <File>Textures/CHM_Moment_Government_Democracy.dds</File>
+    <File>Textures/CHM_Moment_Government_Democracy.tex</File>
+    <File>Textures/CHM_Moment_Government_Monarchy.dds</File>
+    <File>Textures/CHM_Moment_Government_Monarchy.tex</File>
+    <File>Textures/CHM_Moment_LaunchedSatellite.dds</File>
+    <File>Textures/CHM_Moment_LaunchedSatellite.tex</File>
+    <File>Textures/CHM_Moment_MetCivPlayer.dds</File>
+    <File>Textures/CHM_Moment_MetCivPlayer.tex</File>
+    <File>Textures/CHM_Moment_MoonLanding.dds</File>
+    <File>Textures/CHM_Moment_MoonLanding.tex</File>
+    <File>Textures/CHM_Moment_NewContinentCity.dds</File>
+    <File>Textures/CHM_Moment_NewContinentCity.tex</File>
+    <File>Textures/CHM_Moment_SpyPromoted.dds</File>
+    <File>Textures/CHM_Moment_SpyPromoted.tex</File>
+    <File>Textures/CHM_Moment_Tradepost_AllCities.dds</File>
+    <File>Textures/CHM_Moment_Tradepost_AllCities.tex</File>
     <File>XLPs/ColorizedHistoricMoments.xlp</File>
   </Files>
 </Mod>
