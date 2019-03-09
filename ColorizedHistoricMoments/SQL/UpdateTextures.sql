@@ -110,9 +110,9 @@
 --set Texture = 'CHM_MomentXP2_CompleteCivic_Future.dds'
 --where Texture = 'MomentXP2_CompleteCivic_Future.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_CompleteFirstFutureEraTech.dds'
---where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_CompleteFirstFutureEraTech.dds'
+where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_MomentXP2_PromoteGovernor_GrandVizier.dds'
@@ -166,25 +166,25 @@
 --set Texture = 'CHM_MomentXP2_FindingWhiteDesert.dds'
 --where Texture = 'MomentXP2_FindingWhiteDesert.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteTech_Information.dds'
---where Texture = 'Moment_CompleteTech_Information.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Information.dds'
+where Texture = 'Moment_CompleteTech_Information.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_CompleteTech_Medieval.dds'
 --where Texture = 'Moment_CompleteTech_Medieval.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteTech_Renaissance.dds'
---where Texture = 'Moment_CompleteTech_Renaissance.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Renaissance.dds'
+where Texture = 'Moment_CompleteTech_Renaissance.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_CompleteTech_Industrial.dds'
 --where Texture = 'Moment_CompleteTech_Industrial.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteTech_Modern.dds'
---where Texture = 'Moment_CompleteTech_Modern.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Modern.dds'
+where Texture = 'Moment_CompleteTech_Modern.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_CompleteCivicInformation.dds'
@@ -394,17 +394,17 @@
 --set Texture = 'CHM_Moment_CompleteCivicClassical.dds'
 --where Texture = 'Moment_CompleteCivicClassical.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteTech_Classical.dds'
---where Texture = 'Moment_CompleteTech_Classical.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Classical.dds'
+where Texture = 'Moment_CompleteTech_Classical.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_FirstAirUnitEarlyGame.dds'
 --where Texture = 'Moment_FirstAirUnitEarlyGame.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_FirstSeaUnitEarly.dds'
---where Texture = 'Moment_FirstSeaUnitEarly.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_FirstSeaUnitEarly.dds'
+where Texture = 'Moment_FirstSeaUnitEarly.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_EraEntry_Ancient.dds'
@@ -908,9 +908,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_LaunchedSatellite.dds'
 where BackgroundTexture = 'Moment_LaunchedSatellite.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_PM_FoundedReligion.dds'
---where BackgroundTexture = 'PM_FoundedReligion.dds';
+update Moments
+set BackgroundTexture = 'CHM_PM_FoundedReligion.dds'
+where BackgroundTexture = 'PM_FoundedReligion.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_SpyPromoted.dds'

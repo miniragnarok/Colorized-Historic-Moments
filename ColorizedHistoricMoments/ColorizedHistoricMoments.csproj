@@ -40,6 +40,7 @@
     <Content Include="Textures\CHM_MomentXP2_BuildingRailroadConnecting2Cities.dds" />
     <Content Include="Textures\CHM_MomentXP2_City_Built_Near_Volcano.dds" />
     <Content Include="Textures\CHM_MomentXP2_ClimateChangeAlert.dds" />
+    <Content Include="Textures\CHM_MomentXP2_CompleteFirstFutureEraTech.dds" />
     <Content Include="Textures\CHM_MomentXP2_EnterFutureEra.dds" />
     <Content Include="Textures\CHM_MomentXP2_ImproveNaturalDisasterYieldTile.dds" />
     <Content Include="Textures\CHM_MomentXP2_Resource_FossilFuel.dds" />
@@ -47,6 +48,10 @@
     <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
     <Content Include="Textures\CHM_Moment_Circumnavigation.dds" />
     <Content Include="Textures\CHM_Moment_ClearBarbMedieval6Tiles.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteTech_Classical.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteTech_Information.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteTech_Modern.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteTech_Renaissance.dds" />
     <Content Include="Textures\CHM_Moment_DiscoverContinent.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltAerodrome.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltEncampment.dds" />
@@ -58,6 +63,7 @@
     <Content Include="Textures\CHM_Moment_EraEntry_Medieval.dds" />
     <Content Include="Textures\CHM_Moment_EraEntry_Modern.dds" />
     <Content Include="Textures\CHM_Moment_EraEntry_Renaissance.dds" />
+    <Content Include="Textures\CHM_Moment_FirstSeaUnitEarly.dds" />
     <Content Include="Textures\CHM_Moment_Government_Autocracy.dds" />
     <Content Include="Textures\CHM_Moment_Government_ClassicalRepublic.dds" />
     <Content Include="Textures\CHM_Moment_Government_Democracy.dds" />
@@ -68,20 +74,14 @@
     <Content Include="Textures\CHM_Moment_NewContinentCity.dds" />
     <Content Include="Textures\CHM_Moment_SpyPromoted.dds" />
     <Content Include="Textures\CHM_Moment_Tradepost_AllCities.dds" />
-    <Content Include="UnmatchedImages\Build the first Galley.dds" />
+    <Content Include="Textures\CHM_PM_FoundedReligion.dds" />
     <Content Include="UnmatchedImages\Create your first flying unit, %28with a jet, might be another version for biplane%29.dds" />
-    <Content Include="UnmatchedImages\Discover of AI in future era.dds" />
-    <Content Include="UnmatchedImages\Discovery of Cartography.dds" />
-    <Content Include="UnmatchedImages\Discovery of Computers in the Atmoic Era.dds" />
-    <Content Include="UnmatchedImages\Discovery of Currency.dds" />
-    <Content Include="UnmatchedImages\Discovery of Flight while entering the mordern era.dds" />
     <Content Include="UnmatchedImages\Entering the information era, %28achieved via researching satellites%29.dds" />
     <Content Include="UnmatchedImages\First Caravel.dds" />
     <Content Include="UnmatchedImages\First new type of military unit, first time you build a death robot, jet, knight etc.dds" />
     <Content Include="UnmatchedImages\Having one of your cities reach a high e.g. %2815, 20%29 population %28don%27t know if used for all population size acomplishments%29.dds" />
     <Content Include="UnmatchedImages\Launch the end game space mission.dds" />
     <Content Include="UnmatchedImages\Successfully completing a city state Emergency .dds" />
-    <Content Include="UnmatchedImages\Using GP in Holy site.dds" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ArtDefs\ColorizedHistoricMoments.artdef" />
@@ -90,6 +90,7 @@
     <None Include="Textures\CHM_MomentXP2_BuildingRailroadConnecting2Cities.tex" />
     <None Include="Textures\CHM_MomentXP2_City_Built_Near_Volcano.tex" />
     <None Include="Textures\CHM_MomentXP2_ClimateChangeAlert.tex" />
+    <None Include="Textures\CHM_MomentXP2_CompleteFirstFutureEraTech.tex" />
     <None Include="Textures\CHM_MomentXP2_EnterFutureEra.tex" />
     <None Include="Textures\CHM_MomentXP2_ImproveNaturalDisasterYieldTile.tex" />
     <None Include="Textures\CHM_MomentXP2_Resource_FossilFuel.tex" />
@@ -97,6 +98,10 @@
     <None Include="Textures\CHM_MomentXP2_Training_Toa.tex" />
     <None Include="Textures\CHM_Moment_Circumnavigation.tex" />
     <None Include="Textures\CHM_Moment_ClearBarbMedieval6Tiles.tex" />
+    <None Include="Textures\CHM_Moment_CompleteTech_Classical.tex" />
+    <None Include="Textures\CHM_Moment_CompleteTech_Information.tex" />
+    <None Include="Textures\CHM_Moment_CompleteTech_Modern.tex" />
+    <None Include="Textures\CHM_Moment_CompleteTech_Renaissance.tex" />
     <None Include="Textures\CHM_Moment_DiscoverContinent.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltAerodrome.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltEncampment.tex" />
@@ -108,6 +113,7 @@
     <None Include="Textures\CHM_Moment_EraEntry_Medieval.tex" />
     <None Include="Textures\CHM_Moment_EraEntry_Modern.tex" />
     <None Include="Textures\CHM_Moment_EraEntry_Renaissance.tex" />
+    <None Include="Textures\CHM_Moment_FirstSeaUnitEarly.tex" />
     <None Include="Textures\CHM_Moment_Government_Autocracy.tex" />
     <None Include="Textures\CHM_Moment_Government_ClassicalRepublic.tex" />
     <None Include="Textures\CHM_Moment_Government_Democracy.tex" />
@@ -118,6 +124,7 @@
     <None Include="Textures\CHM_Moment_NewContinentCity.tex" />
     <None Include="Textures\CHM_Moment_SpyPromoted.tex" />
     <None Include="Textures\CHM_Moment_Tradepost_AllCities.tex" />
+    <None Include="Textures\CHM_PM_FoundedReligion.tex" />
     <None Include="TextureTemplate.tex" />
     <None Include="XLPs\ColorizedHistoricMoments.xlp" />
   </ItemGroup>

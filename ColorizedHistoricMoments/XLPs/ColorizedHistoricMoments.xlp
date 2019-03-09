@@ -22,6 +22,10 @@
       <m_ObjectName text="CHM_MomentXP2_ClimateChangeAlert" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_MomentXP2_CompleteFirstFutureEraTech" />
+      <m_ObjectName text="CHM_MomentXP2_CompleteFirstFutureEraTech" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_MomentXP2_EnterFutureEra" />
       <m_ObjectName text="CHM_MomentXP2_EnterFutureEra" />
     </Element>
@@ -48,6 +52,22 @@
     <Element>
       <m_EntryID text="CHM_Moment_ClearBarbMedieval6Tiles" />
       <m_ObjectName text="CHM_Moment_ClearBarbMedieval6Tiles" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteTech_Classical" />
+      <m_ObjectName text="CHM_Moment_CompleteTech_Classical" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteTech_Information" />
+      <m_ObjectName text="CHM_Moment_CompleteTech_Information" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteTech_Modern" />
+      <m_ObjectName text="CHM_Moment_CompleteTech_Modern" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteTech_Renaissance" />
+      <m_ObjectName text="CHM_Moment_CompleteTech_Renaissance" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_DiscoverContinent" />
@@ -94,6 +114,10 @@
       <m_ObjectName text="CHM_Moment_EraEntry_Renaissance" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_Moment_FirstSeaUnitEarly" />
+      <m_ObjectName text="CHM_Moment_FirstSeaUnitEarly" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_Moment_Government_Autocracy" />
       <m_ObjectName text="CHM_Moment_Government_Autocracy" />
     </Element>
@@ -132,6 +156,10 @@
     <Element>
       <m_EntryID text="CHM_Moment_Tradepost_AllCities" />
       <m_ObjectName text="CHM_Moment_Tradepost_AllCities" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_PM_FoundedReligion" />
+      <m_ObjectName text="CHM_PM_FoundedReligion" />
     </Element>
   </m_Entries>
   <m_AllowedPlatforms>

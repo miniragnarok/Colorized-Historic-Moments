@@ -32,6 +32,8 @@
     <File>Textures/CHM_MomentXP2_City_Built_Near_Volcano.tex</File>
     <File>Textures/CHM_MomentXP2_ClimateChangeAlert.dds</File>
     <File>Textures/CHM_MomentXP2_ClimateChangeAlert.tex</File>
+    <File>Textures/CHM_MomentXP2_CompleteFirstFutureEraTech.dds</File>
+    <File>Textures/CHM_MomentXP2_CompleteFirstFutureEraTech.tex</File>
     <File>Textures/CHM_MomentXP2_EnterFutureEra.dds</File>
     <File>Textures/CHM_MomentXP2_EnterFutureEra.tex</File>
     <File>Textures/CHM_MomentXP2_ImproveNaturalDisasterYieldTile.dds</File>
@@ -46,6 +48,14 @@
     <File>Textures/CHM_Moment_Circumnavigation.tex</File>
     <File>Textures/CHM_Moment_ClearBarbMedieval6Tiles.dds</File>
     <File>Textures/CHM_Moment_ClearBarbMedieval6Tiles.tex</File>
+    <File>Textures/CHM_Moment_CompleteTech_Classical.dds</File>
+    <File>Textures/CHM_Moment_CompleteTech_Classical.tex</File>
+    <File>Textures/CHM_Moment_CompleteTech_Information.dds</File>
+    <File>Textures/CHM_Moment_CompleteTech_Information.tex</File>
+    <File>Textures/CHM_Moment_CompleteTech_Modern.dds</File>
+    <File>Textures/CHM_Moment_CompleteTech_Modern.tex</File>
+    <File>Textures/CHM_Moment_CompleteTech_Renaissance.dds</File>
+    <File>Textures/CHM_Moment_CompleteTech_Renaissance.tex</File>
     <File>Textures/CHM_Moment_DiscoverContinent.dds</File>
     <File>Textures/CHM_Moment_DiscoverContinent.tex</File>
     <File>Textures/CHM_Moment_DistrictBuiltAerodrome.dds</File>
@@ -68,6 +78,8 @@
     <File>Textures/CHM_Moment_EraEntry_Modern.tex</File>
     <File>Textures/CHM_Moment_EraEntry_Renaissance.dds</File>
     <File>Textures/CHM_Moment_EraEntry_Renaissance.tex</File>
+    <File>Textures/CHM_Moment_FirstSeaUnitEarly.dds</File>
+    <File>Textures/CHM_Moment_FirstSeaUnitEarly.tex</File>
     <File>Textures/CHM_Moment_Government_Autocracy.dds</File>
     <File>Textures/CHM_Moment_Government_Autocracy.tex</File>
     <File>Textures/CHM_Moment_Government_ClassicalRepublic.dds</File>
@@ -88,6 +100,8 @@
     <File>Textures/CHM_Moment_SpyPromoted.tex</File>
     <File>Textures/CHM_Moment_Tradepost_AllCities.dds</File>
     <File>Textures/CHM_Moment_Tradepost_AllCities.tex</File>
+    <File>Textures/CHM_PM_FoundedReligion.dds</File>
+    <File>Textures/CHM_PM_FoundedReligion.tex</File>
     <File>XLPs/ColorizedHistoricMoments.xlp</File>
   </Files>
 </Mod>
