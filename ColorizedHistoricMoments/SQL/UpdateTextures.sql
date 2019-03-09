@@ -3,4 +3,4 @@
 --------------------------------------------------------------
 
 UPDATE MomentIllustrations 
-SET Texture = 'CHM_Moment_FirstSeaUnitEarly.dds'
+SET Texture = 'LunarLander.dds'

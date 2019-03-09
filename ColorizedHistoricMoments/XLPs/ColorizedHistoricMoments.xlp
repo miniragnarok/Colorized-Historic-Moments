@@ -10,9 +10,13 @@
 	<m_PackageName text="ColorizedHistoricMoments"/>
 	<m_Entries>
 		<Element>
-			<m_EntryID text="CHM_Moment_FirstSeaUnitEarly"/>
-			<m_ObjectName text="CHM_Moment_FirstSeaUnitEarly"/>
+			<m_EntryID text="Satellite"/>
+			<m_ObjectName text="Satellite"/>
 		</Element>
+    <Element>
+      <m_EntryID text="LunarLander"/>
+      <m_ObjectName text="LunarLander"/>
+    </Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

@@ -37,12 +37,17 @@
   <ItemGroup>
     <Content Include="Mod.Art.xml" />
     <Content Include="SQL\UpdateTextures.sql" />
-    <Content Include="Textures\CHM_Moment_FirstSeaUnitEarly.dds" />
+    <Content Include="UnmatchedImages\Satellite.dds" />
+    <Content Include="UnmatchedImages\LunarLander.dds" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ArtDefs\ColorizedHistoricMoments.artdef" />
-    <None Include="Textures\CHM_Moment_FirstSeaUnitEarly.tex" />
+    <None Include="UnmatchedImages\LunarLander.tex" />
+    <None Include="UnmatchedImages\Satellite.tex" />
     <None Include="XLPs\ColorizedHistoricMoments.xlp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Textures\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
