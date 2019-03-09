@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a01ede98-fa74-422e-bdcf-96179cfe125b" version="1">
+  <Properties>
+    <Name>ColorizedHistoricMoments</Name>
+    <Description>Replaces the historic moment art with custom colorized art.</Description>
+    <Teaser>Replaces the historic moment art with custom colorized art.</Teaser>
+    <Authors>miniragnarok</Authors>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <FrontEndActions />
+  <InGameActions>
+    <UpdateDatabase id="CHM_UpdateTextures">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File priority="10">SQL/UpdateTextures.sql</File>
+    </UpdateDatabase>
+    <UpdateArt id="CHM_UpdateArt">
+      <File priority="10">Colored Historic Moments.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>Colored Historic Moments.dep</File>
+    <File>Platforms/MacOS/BLPs/ColorizedHistoricMoments.blp</File>
+    <File>Platforms/Windows/BLPs/ColorizedHistoricMoments.blp</File>
+    <File>ArtDefs/ColorizedHistoricMoments.artdef</File>
+    <File>SQL/UpdateTextures.sql</File>
+    <File>XLPs/ColorizedHistoricMoments.xlp</File>
+  </Files>
+</Mod>

@@ -13,10 +13,12 @@ namespace ColorizedHistoricMoments
         private static readonly string currentDirectory = Path.Combine(Directory.GetCurrentDirectory(), @"..\..\");
         private static readonly string colorizedHistoricMomentsXlp = "ColorizedHistoricMoments.xlp";
         private static readonly string finishedImagesFolder = Path.Combine(currentDirectory, "Textures");
+        private static readonly string colorizedHistoricMomentsModInfo = "ColorizedHistoricMoments.modinfo";
 
         static void Main()
         {
             TransformXlp();
+            TransformModInfo();
         }
 
         private static void TransformXlp()
@@ -61,6 +63,39 @@ namespace ColorizedHistoricMoments
             }
 
             return imageNames;
+        }
+
+        private static void TransformModInfo()
+        {
+            var xlpFilepath = Path.Combine(currentDirectory, colorizedHistoricMomentsModInfo);
+
+            var xlp = XElement.Load(xlpFilepath);
+            var entries = xlp.Descendants("Files").SingleOrDefault();
+            entries.Elements()
+                .Where(m => !m.Value.EndsWith(".dep")
+                    && !m.Value.EndsWith(".blp")
+                ).Remove();
+
+            var pathDelimiter = '/';
+            var fileDirectories = new List<string>
+            {
+                "ArtDefs",
+                "SQL",
+                "Textures",
+                "XLPs"
+            };
+
+            foreach (var directoryName in fileDirectories)
+            {
+                foreach(var file in Directory.EnumerateFiles(Path.Combine(currentDirectory, directoryName)))
+                {
+                    var fileElement = new XElement("File");
+                    fileElement.Add(directoryName + pathDelimiter + Path.GetFileName(file));
+                    entries.Add(fileElement);
+                }
+            }
+
+            xlp.Save(xlpFilepath);
         }
     }
 }
