@@ -4,7 +4,9 @@
     <Name>ColorizedHistoricMoments</Name>
     <Description>Replaces the historic moment art with custom colorized art.</Description>
     <Teaser>Replaces the historic moment art with custom colorized art.</Teaser>
-    <Authors>miniragnarok</Authors>
+    <Authors>
+      MiniRagnarok and GreenEigenlicht
+    </Authors>
     <AffectsSavedGames>0</AffectsSavedGames>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </Properties>
@@ -62,6 +64,8 @@
     <File>Textures/CHM_Moment_DistrictBuiltAerodrome.tex</File>
     <File>Textures/CHM_Moment_DistrictBuiltEncampment.dds</File>
     <File>Textures/CHM_Moment_DistrictBuiltEncampment.tex</File>
+    <File>Textures/CHM_Moment_DistrictBuiltHarbor.dds</File>
+    <File>Textures/CHM_Moment_DistrictBuiltHarbor.tex</File>
     <File>Textures/CHM_Moment_DistrictBuiltHolySite.dds</File>
     <File>Textures/CHM_Moment_DistrictBuiltHolySite.tex</File>
     <File>Textures/CHM_Moment_DistrictBuiltNeighborhood.dds</File>
@@ -70,6 +74,10 @@
     <File>Textures/CHM_Moment_EliminatedCiv.tex</File>
     <File>Textures/CHM_Moment_EraEntry_Atomic.dds</File>
     <File>Textures/CHM_Moment_EraEntry_Atomic.tex</File>
+    <File>Textures/CHM_Moment_EraEntry_Classical.dds</File>
+    <File>Textures/CHM_Moment_EraEntry_Classical.tex</File>
+    <File>Textures/CHM_Moment_EraEntry_Industrial.dds</File>
+    <File>Textures/CHM_Moment_EraEntry_Industrial.tex</File>
     <File>Textures/CHM_Moment_EraEntry_Information.dds</File>
     <File>Textures/CHM_Moment_EraEntry_Information.tex</File>
     <File>Textures/CHM_Moment_EraEntry_Medieval.dds</File>
@@ -78,6 +86,12 @@
     <File>Textures/CHM_Moment_EraEntry_Modern.tex</File>
     <File>Textures/CHM_Moment_EraEntry_Renaissance.dds</File>
     <File>Textures/CHM_Moment_EraEntry_Renaissance.tex</File>
+    <File>Textures/CHM_Moment_FirstCityToReach10Pop.dds</File>
+    <File>Textures/CHM_Moment_FirstCityToReach10Pop.tex</File>
+    <File>Textures/CHM_Moment_FirstCityToReach15Pop.dds</File>
+    <File>Textures/CHM_Moment_FirstCityToReach15Pop.tex</File>
+    <File>Textures/CHM_Moment_FirstFleet.dds</File>
+    <File>Textures/CHM_Moment_FirstFleet.tex</File>
     <File>Textures/CHM_Moment_FirstSeaUnitEarly.dds</File>
     <File>Textures/CHM_Moment_FirstSeaUnitEarly.tex</File>
     <File>Textures/CHM_Moment_Government_Autocracy.dds</File>
@@ -86,14 +100,24 @@
     <File>Textures/CHM_Moment_Government_ClassicalRepublic.tex</File>
     <File>Textures/CHM_Moment_Government_Democracy.dds</File>
     <File>Textures/CHM_Moment_Government_Democracy.tex</File>
+    <File>Textures/CHM_Moment_Government_Merchant.dds</File>
+    <File>Textures/CHM_Moment_Government_Merchant.tex</File>
     <File>Textures/CHM_Moment_Government_Monarchy.dds</File>
     <File>Textures/CHM_Moment_Government_Monarchy.tex</File>
+    <File>Textures/CHM_Moment_Government_Oligarchy.dds</File>
+    <File>Textures/CHM_Moment_Government_Oligarchy.tex</File>
+    <File>Textures/CHM_Moment_Government_Theocracy.dds</File>
+    <File>Textures/CHM_Moment_Government_Theocracy.tex</File>
+    <File>Textures/CHM_Moment_JoinEmergency.dds</File>
+    <File>Textures/CHM_Moment_JoinEmergency.tex</File>
     <File>Textures/CHM_Moment_LaunchedSatellite.dds</File>
     <File>Textures/CHM_Moment_LaunchedSatellite.tex</File>
     <File>Textures/CHM_Moment_MetCivPlayer.dds</File>
     <File>Textures/CHM_Moment_MetCivPlayer.tex</File>
     <File>Textures/CHM_Moment_MoonLanding.dds</File>
     <File>Textures/CHM_Moment_MoonLanding.tex</File>
+    <File>Textures/CHM_Moment_NationalPark.dds</File>
+    <File>Textures/CHM_Moment_NationalPark.tex</File>
     <File>Textures/CHM_Moment_NewContinentCity.dds</File>
     <File>Textures/CHM_Moment_NewContinentCity.tex</File>
     <File>Textures/CHM_Moment_SpyPromoted.dds</File>
