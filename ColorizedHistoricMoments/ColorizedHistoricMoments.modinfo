@@ -26,7 +26,6 @@
     <File>Platforms/Windows/BLPs/ColorizedHistoricMoments.blp</File>
     <File>ArtDefs/ColorizedHistoricMoments.artdef</File>
     <File>SQL/UpdateTextures.sql</File>
-    <File>Textures/bob.dds</File>
     <File>XLPs/ColorizedHistoricMoments.xlp</File>
   </Files>
 </Mod>
