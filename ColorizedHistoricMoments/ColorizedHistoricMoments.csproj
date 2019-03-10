@@ -57,6 +57,7 @@
     <Content Include="Textures\CHM_Moment_CreatedSeasideResort.dds" />
     <Content Include="Textures\CHM_Moment_DiscoverContinent.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltAerodrome.dds" />
+    <Content Include="Textures\CHM_Moment_DistrictBuiltCampus.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltEncampment.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltHarbor.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltHolySite.dds" />
@@ -72,8 +73,11 @@
     <Content Include="Textures\CHM_Moment_EraEntry_Modern.dds" />
     <Content Include="Textures\CHM_Moment_EraEntry_Renaissance.dds" />
     <Content Include="Textures\CHM_Moment_FirstAirUnitLateGame.dds" />
+    <Content Include="Textures\CHM_Moment_FirstArmada.dds" />
+    <Content Include="Textures\CHM_Moment_FirstArmy.dds" />
     <Content Include="Textures\CHM_Moment_FirstCityToReach10Pop.dds" />
     <Content Include="Textures\CHM_Moment_FirstCityToReach15Pop.dds" />
+    <Content Include="Textures\CHM_Moment_FirstCorps.dds" />
     <Content Include="Textures\CHM_Moment_FirstFleet.dds" />
     <Content Include="Textures\CHM_Moment_FirstMarsComponent.dds" />
     <Content Include="Textures\CHM_Moment_FirstSeaUnitEarly.dds" />
@@ -122,6 +126,7 @@
     <None Include="Textures\CHM_Moment_CreatedSeasideResort.tex" />
     <None Include="Textures\CHM_Moment_DiscoverContinent.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltAerodrome.tex" />
+    <None Include="Textures\CHM_Moment_DistrictBuiltCampus.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltEncampment.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltHarbor.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltHolySite.tex" />
@@ -137,8 +142,11 @@
     <None Include="Textures\CHM_Moment_EraEntry_Modern.tex" />
     <None Include="Textures\CHM_Moment_EraEntry_Renaissance.tex" />
     <None Include="Textures\CHM_Moment_FirstAirUnitLateGame.tex" />
+    <None Include="Textures\CHM_Moment_FirstArmada.tex" />
+    <None Include="Textures\CHM_Moment_FirstArmy.tex" />
     <None Include="Textures\CHM_Moment_FirstCityToReach10Pop.tex" />
     <None Include="Textures\CHM_Moment_FirstCityToReach15Pop.tex" />
+    <None Include="Textures\CHM_Moment_FirstCorps.tex" />
     <None Include="Textures\CHM_Moment_FirstFleet.tex" />
     <None Include="Textures\CHM_Moment_FirstMarsComponent.tex" />
     <None Include="Textures\CHM_Moment_FirstSeaUnitEarly.tex" />

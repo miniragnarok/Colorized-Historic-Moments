@@ -730,9 +730,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_DistrictBuiltWaterpark.dds'
 where BackgroundTexture = 'Moment_DistrictBuiltWaterpark.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_DistrictBuiltCampus.dds'
---where BackgroundTexture = 'Moment_DistrictBuiltCampus.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_DistrictBuiltCampus.dds'
+where BackgroundTexture = 'Moment_DistrictBuiltCampus.dds';
 
 --update Moments
 --set BackgroundTexture = 'CHM_Moment_DistrictBuilt_Commercial.dds'
@@ -806,17 +806,17 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_DiscoverContinent.dds'
 where BackgroundTexture = 'Moment_DiscoverContinent.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_FirstArmada.dds'
---where BackgroundTexture = 'Moment_FirstArmada.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_FirstArmada.dds'
+where BackgroundTexture = 'Moment_FirstArmada.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_FirstArmy.dds'
---where BackgroundTexture = 'Moment_FirstArmy.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_FirstArmy.dds'
+where BackgroundTexture = 'Moment_FirstArmy.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_FirstCorps.dds'
---where BackgroundTexture = 'Moment_FirstCorps.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_FirstCorps.dds'
+where BackgroundTexture = 'Moment_FirstCorps.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_FirstFleet.dds'

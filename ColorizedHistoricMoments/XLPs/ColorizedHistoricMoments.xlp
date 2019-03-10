@@ -86,6 +86,10 @@
       <m_ObjectName text="CHM_Moment_DistrictBuiltAerodrome" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_Moment_DistrictBuiltCampus" />
+      <m_ObjectName text="CHM_Moment_DistrictBuiltCampus" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_Moment_DistrictBuiltEncampment" />
       <m_ObjectName text="CHM_Moment_DistrictBuiltEncampment" />
     </Element>
@@ -146,12 +150,24 @@
       <m_ObjectName text="CHM_Moment_FirstAirUnitLateGame" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_Moment_FirstArmada" />
+      <m_ObjectName text="CHM_Moment_FirstArmada" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_FirstArmy" />
+      <m_ObjectName text="CHM_Moment_FirstArmy" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_Moment_FirstCityToReach10Pop" />
       <m_ObjectName text="CHM_Moment_FirstCityToReach10Pop" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_FirstCityToReach15Pop" />
       <m_ObjectName text="CHM_Moment_FirstCityToReach15Pop" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_FirstCorps" />
+      <m_ObjectName text="CHM_Moment_FirstCorps" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_FirstFleet" />
