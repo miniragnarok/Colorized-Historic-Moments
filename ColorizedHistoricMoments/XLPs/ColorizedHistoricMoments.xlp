@@ -26,12 +26,12 @@
       <m_ObjectName text="CHM_MomentXP2_CompleteFirstFutureEraTech" />
     </Element>
     <Element>
-      <m_EntryID text="CHM_MomentXP2_EnterFutureEra" />
-      <m_ObjectName text="CHM_MomentXP2_EnterFutureEra" />
-    </Element>
-    <Element>
       <m_EntryID text="CHM_MomentXP2_ImproveNaturalDisasterYieldTile" />
       <m_ObjectName text="CHM_MomentXP2_ImproveNaturalDisasterYieldTile" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_Project_Founded_Exoplanet" />
+      <m_ObjectName text="CHM_MomentXP2_Project_Founded_Exoplanet" />
     </Element>
     <Element>
       <m_EntryID text="CHM_MomentXP2_Resource_FossilFuel" />
@@ -52,6 +52,10 @@
     <Element>
       <m_EntryID text="CHM_Moment_ClearBarbMedieval6Tiles" />
       <m_ObjectName text="CHM_Moment_ClearBarbMedieval6Tiles" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteTech_Atomic" />
+      <m_ObjectName text="CHM_Moment_CompleteTech_Atomic" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_CompleteTech_Classical" />
@@ -94,6 +98,10 @@
       <m_ObjectName text="CHM_Moment_DistrictBuiltNeighborhood" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_Moment_EarnGreatPersonWithFaith" />
+      <m_ObjectName text="CHM_Moment_EarnGreatPersonWithFaith" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_Moment_EliminatedCiv" />
       <m_ObjectName text="CHM_Moment_EliminatedCiv" />
     </Element>
@@ -126,6 +134,10 @@
       <m_ObjectName text="CHM_Moment_EraEntry_Renaissance" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_Moment_FirstAirUnitLateGame" />
+      <m_ObjectName text="CHM_Moment_FirstAirUnitLateGame" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_Moment_FirstCityToReach10Pop" />
       <m_ObjectName text="CHM_Moment_FirstCityToReach10Pop" />
     </Element>
@@ -138,8 +150,20 @@
       <m_ObjectName text="CHM_Moment_FirstFleet" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_Moment_FirstMarsComponent" />
+      <m_ObjectName text="CHM_Moment_FirstMarsComponent" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_Moment_FirstSeaUnitEarly" />
       <m_ObjectName text="CHM_Moment_FirstSeaUnitEarly" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_FirstSeaUnitMid" />
+      <m_ObjectName text="CHM_Moment_FirstSeaUnitMid" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_FoundedPantheon" />
+      <m_ObjectName text="CHM_Moment_FoundedPantheon" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_Government_Autocracy" />
@@ -198,12 +222,12 @@
       <m_ObjectName text="CHM_Moment_SpyPromoted" />
     </Element>
     <Element>
-      <m_EntryID text="CHM_Moment_Tradepost_AllCities" />
-      <m_ObjectName text="CHM_Moment_Tradepost_AllCities" />
+      <m_EntryID text="CHM_Moment_StrategicResourceUnit" />
+      <m_ObjectName text="CHM_Moment_StrategicResourceUnit" />
     </Element>
     <Element>
-      <m_EntryID text="CHM_PM_FoundedReligion" />
-      <m_ObjectName text="CHM_PM_FoundedReligion" />
+      <m_EntryID text="CHM_Moment_Tradepost_AllCities" />
+      <m_ObjectName text="CHM_Moment_Tradepost_AllCities" />
     </Element>
   </m_Entries>
   <m_AllowedPlatforms>

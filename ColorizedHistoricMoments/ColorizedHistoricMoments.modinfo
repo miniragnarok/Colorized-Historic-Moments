@@ -36,10 +36,10 @@
     <File>Textures/CHM_MomentXP2_ClimateChangeAlert.tex</File>
     <File>Textures/CHM_MomentXP2_CompleteFirstFutureEraTech.dds</File>
     <File>Textures/CHM_MomentXP2_CompleteFirstFutureEraTech.tex</File>
-    <File>Textures/CHM_MomentXP2_EnterFutureEra.dds</File>
-    <File>Textures/CHM_MomentXP2_EnterFutureEra.tex</File>
     <File>Textures/CHM_MomentXP2_ImproveNaturalDisasterYieldTile.dds</File>
     <File>Textures/CHM_MomentXP2_ImproveNaturalDisasterYieldTile.tex</File>
+    <File>Textures/CHM_MomentXP2_Project_Founded_Exoplanet.dds</File>
+    <File>Textures/CHM_MomentXP2_Project_Founded_Exoplanet.tex</File>
     <File>Textures/CHM_MomentXP2_Resource_FossilFuel.dds</File>
     <File>Textures/CHM_MomentXP2_Resource_FossilFuel.tex</File>
     <File>Textures/CHM_MomentXP2_TrainingRenewableEnergyImprovement.dds</File>
@@ -50,6 +50,8 @@
     <File>Textures/CHM_Moment_Circumnavigation.tex</File>
     <File>Textures/CHM_Moment_ClearBarbMedieval6Tiles.dds</File>
     <File>Textures/CHM_Moment_ClearBarbMedieval6Tiles.tex</File>
+    <File>Textures/CHM_Moment_CompleteTech_Atomic.dds</File>
+    <File>Textures/CHM_Moment_CompleteTech_Atomic.tex</File>
     <File>Textures/CHM_Moment_CompleteTech_Classical.dds</File>
     <File>Textures/CHM_Moment_CompleteTech_Classical.tex</File>
     <File>Textures/CHM_Moment_CompleteTech_Information.dds</File>
@@ -70,6 +72,8 @@
     <File>Textures/CHM_Moment_DistrictBuiltHolySite.tex</File>
     <File>Textures/CHM_Moment_DistrictBuiltNeighborhood.dds</File>
     <File>Textures/CHM_Moment_DistrictBuiltNeighborhood.tex</File>
+    <File>Textures/CHM_Moment_EarnGreatPersonWithFaith.dds</File>
+    <File>Textures/CHM_Moment_EarnGreatPersonWithFaith.tex</File>
     <File>Textures/CHM_Moment_EliminatedCiv.dds</File>
     <File>Textures/CHM_Moment_EliminatedCiv.tex</File>
     <File>Textures/CHM_Moment_EraEntry_Atomic.dds</File>
@@ -86,14 +90,22 @@
     <File>Textures/CHM_Moment_EraEntry_Modern.tex</File>
     <File>Textures/CHM_Moment_EraEntry_Renaissance.dds</File>
     <File>Textures/CHM_Moment_EraEntry_Renaissance.tex</File>
+    <File>Textures/CHM_Moment_FirstAirUnitLateGame.dds</File>
+    <File>Textures/CHM_Moment_FirstAirUnitLateGame.tex</File>
     <File>Textures/CHM_Moment_FirstCityToReach10Pop.dds</File>
     <File>Textures/CHM_Moment_FirstCityToReach10Pop.tex</File>
     <File>Textures/CHM_Moment_FirstCityToReach15Pop.dds</File>
     <File>Textures/CHM_Moment_FirstCityToReach15Pop.tex</File>
     <File>Textures/CHM_Moment_FirstFleet.dds</File>
     <File>Textures/CHM_Moment_FirstFleet.tex</File>
+    <File>Textures/CHM_Moment_FirstMarsComponent.dds</File>
+    <File>Textures/CHM_Moment_FirstMarsComponent.tex</File>
     <File>Textures/CHM_Moment_FirstSeaUnitEarly.dds</File>
     <File>Textures/CHM_Moment_FirstSeaUnitEarly.tex</File>
+    <File>Textures/CHM_Moment_FirstSeaUnitMid.dds</File>
+    <File>Textures/CHM_Moment_FirstSeaUnitMid.tex</File>
+    <File>Textures/CHM_Moment_FoundedPantheon.dds</File>
+    <File>Textures/CHM_Moment_FoundedPantheon.tex</File>
     <File>Textures/CHM_Moment_Government_Autocracy.dds</File>
     <File>Textures/CHM_Moment_Government_Autocracy.tex</File>
     <File>Textures/CHM_Moment_Government_ClassicalRepublic.dds</File>
@@ -122,10 +134,10 @@
     <File>Textures/CHM_Moment_NewContinentCity.tex</File>
     <File>Textures/CHM_Moment_SpyPromoted.dds</File>
     <File>Textures/CHM_Moment_SpyPromoted.tex</File>
+    <File>Textures/CHM_Moment_StrategicResourceUnit.dds</File>
+    <File>Textures/CHM_Moment_StrategicResourceUnit.tex</File>
     <File>Textures/CHM_Moment_Tradepost_AllCities.dds</File>
     <File>Textures/CHM_Moment_Tradepost_AllCities.tex</File>
-    <File>Textures/CHM_PM_FoundedReligion.dds</File>
-    <File>Textures/CHM_PM_FoundedReligion.tex</File>
     <File>XLPs/ColorizedHistoricMoments.xlp</File>
   </Files>
 </Mod>

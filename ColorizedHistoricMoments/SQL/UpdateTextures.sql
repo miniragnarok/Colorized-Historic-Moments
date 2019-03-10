@@ -694,9 +694,9 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_EraEntry_Information.dds'
 where Texture = 'Moment_EraEntry_Information.dds';
 
-update MomentIllustrations 
-set Texture = 'CHM_MomentXP2_EnterFutureEra.dds'
-where Texture = 'MomentXP2_EnterFutureEra.dds';
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_EnterFutureEra.dds'
+--where Texture = 'MomentXP2_EnterFutureEra.dds';
 
 -- End Moment Illustrations Textures
 
@@ -822,9 +822,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_FirstFleet.dds'
 where BackgroundTexture = 'Moment_FirstFleet.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_EarnGreatPersonWithFaith.dds'
---where BackgroundTexture = 'Moment_EarnGreatPersonWithFaith.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_EarnGreatPersonWithFaith.dds'
+where BackgroundTexture = 'Moment_EarnGreatPersonWithFaith.dds';
 
 --update Moments
 --set BackgroundTexture = 'CHM_Moment_EarnGreatPersonWithGold.dds'
@@ -842,9 +842,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_NationalPark.dds'
 where BackgroundTexture = 'Moment_NationalPark.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_FoundedPantheon.dds'
---where BackgroundTexture = 'Moment_FoundedPantheon.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_FoundedPantheon.dds'
+where BackgroundTexture = 'Moment_FoundedPantheon.dds';
 
 --update Moments
 --set BackgroundTexture = 'CHM_Moment_FirstSuzerain.dds'
@@ -870,9 +870,9 @@ where BackgroundTexture = 'Moment_MetCivPlayer.dds';
 --set BackgroundTexture = 'CHM_Moment_MetAllCivs.dds'
 --where BackgroundTexture = 'Moment_MetAllCivs.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_FirstMarsComponent.dds'
---where BackgroundTexture = 'Moment_FirstMarsComponent.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_FirstMarsComponent.dds'
+where BackgroundTexture = 'Moment_FirstMarsComponent.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_MoonLanding.dds'
@@ -962,9 +962,9 @@ update Moments
 set BackgroundTexture = 'CHM_MomentXP2_TrainingRenewableEnergyImprovement.dds'
 where BackgroundTexture = 'MomentXP2_TrainingRenewableEnergyImprovement.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_MomentXP2_Project_Founded_Exoplanet.dds'
---where BackgroundTexture = 'MomentXP2_Project_Founded_Exoplanet.dds';
+update Moments
+set BackgroundTexture = 'CHM_MomentXP2_Project_Founded_Exoplanet.dds'
+where BackgroundTexture = 'MomentXP2_Project_Founded_Exoplanet.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_MomentXP2_BuildingRailroadConnecting2Cities.dds'
