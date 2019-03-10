@@ -39,12 +39,14 @@
     <Content Include="Mod.Art.xml" />
     <Content Include="SQL\UpdateTextures.sql" />
     <Content Include="Textures\CHM_MomentXP2_BuildingRailroadConnecting2Cities.dds" />
+    <Content Include="Textures\CHM_MomentXP2_City_Built_Near_FloodableRiver.dds" />
     <Content Include="Textures\CHM_MomentXP2_City_Built_Near_Volcano.dds" />
     <Content Include="Textures\CHM_MomentXP2_ClimateChangeAlert.dds" />
     <Content Include="Textures\CHM_MomentXP2_CompleteFirstFutureEraTech.dds" />
     <Content Include="Textures\CHM_MomentXP2_ImproveNaturalDisasterYieldTile.dds" />
     <Content Include="Textures\CHM_MomentXP2_Project_Founded_Exoplanet.dds" />
     <Content Include="Textures\CHM_MomentXP2_Resource_FossilFuel.dds" />
+    <Content Include="Textures\CHM_MomentXP2_TourismBomb.dds" />
     <Content Include="Textures\CHM_MomentXP2_TrainingRenewableEnergyImprovement.dds" />
     <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
     <Content Include="Textures\CHM_Moment_Circumnavigation.dds" />
@@ -52,6 +54,7 @@
     <Content Include="Textures\CHM_Moment_CompleteTech_Atomic.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Classical.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Information.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteTech_Medieval.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Modern.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Renaissance.dds" />
     <Content Include="Textures\CHM_Moment_CreatedSeasideResort.dds" />
@@ -59,6 +62,7 @@
     <Content Include="Textures\CHM_Moment_DistrictBuiltAerodrome.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltCampus.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltEncampment.dds" />
+    <Content Include="Textures\CHM_Moment_DistrictBuiltEntertainment.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltHarbor.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltHolySite.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltNeighborhood.dds" />
@@ -100,7 +104,6 @@
     <Content Include="Textures\CHM_Moment_SpyPromoted.dds" />
     <Content Include="Textures\CHM_Moment_StrategicResourceUnit.dds" />
     <Content Include="Textures\CHM_Moment_Tradepost_AllCities.dds" />
-    <Content Include="UnmatchedImages\Create or use rock band.dds" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ArtDefs\ColorizedHistoricMoments.artdef" />
@@ -108,12 +111,14 @@
     <None Include="LocateTextures\LocateTextures.modinfo" />
     <None Include="packages.config" />
     <None Include="Textures\CHM_MomentXP2_BuildingRailroadConnecting2Cities.tex" />
+    <None Include="Textures\CHM_MomentXP2_City_Built_Near_FloodableRiver.tex" />
     <None Include="Textures\CHM_MomentXP2_City_Built_Near_Volcano.tex" />
     <None Include="Textures\CHM_MomentXP2_ClimateChangeAlert.tex" />
     <None Include="Textures\CHM_MomentXP2_CompleteFirstFutureEraTech.tex" />
     <None Include="Textures\CHM_MomentXP2_ImproveNaturalDisasterYieldTile.tex" />
     <None Include="Textures\CHM_MomentXP2_Project_Founded_Exoplanet.tex" />
     <None Include="Textures\CHM_MomentXP2_Resource_FossilFuel.tex" />
+    <None Include="Textures\CHM_MomentXP2_TourismBomb.tex" />
     <None Include="Textures\CHM_MomentXP2_TrainingRenewableEnergyImprovement.tex" />
     <None Include="Textures\CHM_MomentXP2_Training_Toa.tex" />
     <None Include="Textures\CHM_Moment_Circumnavigation.tex" />
@@ -121,6 +126,7 @@
     <None Include="Textures\CHM_Moment_CompleteTech_Atomic.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Classical.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Information.tex" />
+    <None Include="Textures\CHM_Moment_CompleteTech_Medieval.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Modern.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Renaissance.tex" />
     <None Include="Textures\CHM_Moment_CreatedSeasideResort.tex" />
@@ -128,6 +134,7 @@
     <None Include="Textures\CHM_Moment_DistrictBuiltAerodrome.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltCampus.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltEncampment.tex" />
+    <None Include="Textures\CHM_Moment_DistrictBuiltEntertainment.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltHarbor.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltHolySite.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltNeighborhood.tex" />
@@ -172,7 +179,9 @@
     <None Include="TextureTemplate.tex" />
     <None Include="XLPs\ColorizedHistoricMoments.xlp" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="UnmatchedImages\" />
+  </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
   </ItemGroup>

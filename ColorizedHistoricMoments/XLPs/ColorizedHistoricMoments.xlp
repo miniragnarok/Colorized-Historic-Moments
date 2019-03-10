@@ -14,6 +14,10 @@
       <m_ObjectName text="CHM_MomentXP2_BuildingRailroadConnecting2Cities" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_MomentXP2_City_Built_Near_FloodableRiver" />
+      <m_ObjectName text="CHM_MomentXP2_City_Built_Near_FloodableRiver" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_MomentXP2_City_Built_Near_Volcano" />
       <m_ObjectName text="CHM_MomentXP2_City_Built_Near_Volcano" />
     </Element>
@@ -36,6 +40,10 @@
     <Element>
       <m_EntryID text="CHM_MomentXP2_Resource_FossilFuel" />
       <m_ObjectName text="CHM_MomentXP2_Resource_FossilFuel" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_TourismBomb" />
+      <m_ObjectName text="CHM_MomentXP2_TourismBomb" />
     </Element>
     <Element>
       <m_EntryID text="CHM_MomentXP2_TrainingRenewableEnergyImprovement" />
@@ -66,6 +74,10 @@
       <m_ObjectName text="CHM_Moment_CompleteTech_Information" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_Moment_CompleteTech_Medieval" />
+      <m_ObjectName text="CHM_Moment_CompleteTech_Medieval" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_Moment_CompleteTech_Modern" />
       <m_ObjectName text="CHM_Moment_CompleteTech_Modern" />
     </Element>
@@ -92,6 +104,10 @@
     <Element>
       <m_EntryID text="CHM_Moment_DistrictBuiltEncampment" />
       <m_ObjectName text="CHM_Moment_DistrictBuiltEncampment" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_DistrictBuiltEntertainment" />
+      <m_ObjectName text="CHM_Moment_DistrictBuiltEntertainment" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_DistrictBuiltHarbor" />

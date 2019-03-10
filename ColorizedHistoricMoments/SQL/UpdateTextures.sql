@@ -206,9 +206,9 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_CompleteTech_Information.dds'
 where Texture = 'Moment_CompleteTech_Information.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteTech_Medieval.dds'
---where Texture = 'Moment_CompleteTech_Medieval.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Medieval.dds'
+where Texture = 'Moment_CompleteTech_Medieval.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_CompleteTech_Renaissance.dds'
@@ -722,9 +722,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_DistrictBuiltEncampment.dds'
 where BackgroundTexture = 'Moment_DistrictBuiltEncampment.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_DistrictBuiltEntertainment.dds'
---where BackgroundTexture = 'Moment_DistrictBuiltEntertainment.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_DistrictBuiltEntertainment.dds'
+where BackgroundTexture = 'Moment_DistrictBuiltEntertainment.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_DistrictBuiltWaterpark.dds'
@@ -882,9 +882,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_LaunchedSatellite.dds'
 where BackgroundTexture = 'Moment_LaunchedSatellite.dds';
 
-update Moments
-set BackgroundTexture = 'CHM_PM_FoundedReligion.dds'
-where BackgroundTexture = 'PM_FoundedReligion.dds';
+--update Moments
+--set BackgroundTexture = 'CHM_PM_FoundedReligion.dds'
+--where BackgroundTexture = 'PM_FoundedReligion.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_SpyPromoted.dds'
@@ -930,9 +930,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_Circumnavigation.dds'
 where BackgroundTexture = 'Moment_Circumnavigation.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_MomentXP2_City_Built_Near_FloodableRiver.dds'
---where BackgroundTexture = 'MomentXP2_City_Built_Near_FloodableRiver.dds';
+update Moments
+set BackgroundTexture = 'CHM_MomentXP2_City_Built_Near_FloodableRiver.dds'
+where BackgroundTexture = 'MomentXP2_City_Built_Near_FloodableRiver.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_MomentXP2_City_Built_Near_Volcano.dds'
@@ -970,8 +970,8 @@ update Moments
 set BackgroundTexture = 'CHM_MomentXP2_BuildingRailroadConnecting2Cities.dds'
 where BackgroundTexture = 'MomentXP2_BuildingRailroadConnecting2Cities.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_MomentXP2_TourismBomb.dds'
---where BackgroundTexture = 'MomentXP2_TourismBomb.dds';
+update Moments
+set BackgroundTexture = 'CHM_MomentXP2_TourismBomb.dds'
+where BackgroundTexture = 'MomentXP2_TourismBomb.dds';
 
 -- End Moments Background Textures
