@@ -88,7 +88,6 @@ namespace ColorizedHistoricMoments
             {
                 "ArtDefs",
                 "SQL",
-                "Textures",
                 "XLPs"
             };
 
