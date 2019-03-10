@@ -86,10 +86,10 @@
     <Content Include="Textures\CHM_Moment_SpyPromoted.dds" />
     <Content Include="Textures\CHM_Moment_Tradepost_AllCities.dds" />
     <Content Include="Textures\CHM_PM_FoundedReligion.dds" />
-    <Content Include="UnmatchedImages\Create your first flying unit, %28with a jet, might be another version for biplane%29.dds" />
+    <Content Include="Textures\Moment_FirstAirUnitLateGame.dds" />
     <Content Include="UnmatchedImages\Entering the information era, %28achieved via researching satellites%29.dds" />
-    <Content Include="UnmatchedImages\First Caravel.dds" />
-    <Content Include="UnmatchedImages\First new type of military unit, first time you build a death robot, jet, knight etc.dds" />
+    <Content Include="Textures\Moment_FirstSeaUnitMid.dds" />
+    <Content Include="Textures\Moment_StrategicResourceUnit.dds" />
     <Content Include="UnmatchedImages\First Prophet.dds" />
     <Content Include="UnmatchedImages\Launch the end game space mission.dds" />
   </ItemGroup>

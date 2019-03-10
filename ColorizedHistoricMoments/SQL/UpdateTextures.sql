@@ -31,32 +31,8 @@
 --where Texture = 'Moment_PromoteGovernor_ResourceManager.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_China.dds'
---where Texture = 'Moment_Infrastructure_China.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Egypt.dds'
---where Texture = 'Moment_Infrastructure_Egypt.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_France.dds'
---where Texture = 'Moment_Infrastructure_France.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_India.dds'
---where Texture = 'Moment_Infrastructure_India.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Scythia.dds'
---where Texture = 'Moment_Infrastructure_Scythia.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Spanish.dds'
---where Texture = 'Moment_Infrastructure_Spanish.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Ziggurat.dds'
---where Texture = 'Moment_Infrastructure_Ziggurat.dds';
+--set Texture = 'CHM_MomentXP2_PromoteGovernor_GrandVizier.dds'
+--where Texture = 'MomentXP2_PromoteGovernor_GrandVizier.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Naturalwonder_BarrierReef.dds'
@@ -107,16 +83,52 @@
 --where Texture = 'Moment_NaturalWonder_Yosemite.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_CompleteCivic_Future.dds'
---where Texture = 'MomentXP2_CompleteCivic_Future.dds';
-
-update MomentIllustrations 
-set Texture = 'CHM_MomentXP2_CompleteFirstFutureEraTech.dds'
-where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
+--set Texture = 'CHM_Moment_NaturalWonder_Ubsunur.dds'
+--where Texture = 'Moment_NaturalWonder_Ubsunur.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_PromoteGovernor_GrandVizier.dds'
---where Texture = 'MomentXP2_PromoteGovernor_GrandVizier.dds';
+--set Texture = 'CHM_Moment_NaturalWonder_Zhangye.dds'
+--where Texture = 'Moment_NaturalWonder_Zhangye.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_NaturalWonder_Roraima.dds'
+--where Texture = 'Moment_NaturalWonder_Roraima.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_NaturalWonder_Matterhorn.dds'
+--where Texture = 'Moment_NaturalWonder_Matterhorn.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Naturalwonder_Retba.dds'
+--where Texture = 'Moment_Naturalwonder_Retba.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_NaturalWonder_EyeoftheSahara.dds'
+--where Texture = 'Moment_NaturalWonder_EyeoftheSahara.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_NaturalWonder_DelicateArch.dds'
+--where Texture = 'Moment_NaturalWonder_DelicateArch.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Naturalwonder_Lyseford.dds'
+--where Texture = 'Moment_Naturalwonder_Lyseford.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Naturalwonder_GiantsCauseway.dds'
+--where Texture = 'Moment_Naturalwonder_GiantsCauseway.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_NaturalWonder_Eyjafjallajokull.dds'
+--where Texture = 'Moment_NaturalWonder_Eyjafjallajokull.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Naturalwonder_HaLongBay.dds'
+--where Texture = 'Moment_Naturalwonder_HaLongBay.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Naturalwonder_Uluru.dds'
+--where Texture = 'Moment_Naturalwonder_Uluru.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_MomentXP2_BuildingTheOpenAirMuseum.dds'
@@ -137,6 +149,30 @@ where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 --update MomentIllustrations 
 --set Texture = 'CHM_MomentXP2_BuildingTheQhapaqNan.dds'
 --where Texture = 'MomentXP2_BuildingTheQhapaqNan.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_BuildingTheGrandBazaar.dds'
+--where Texture = 'MomentXP2_BuildingTheGrandBazaar.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_BuildingTheMarae.dds'
+--where Texture = 'MomentXP2_BuildingTheMarae.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_BuildingBiblioteque.dds'
+--where Texture = 'MomentXP2_BuildingBiblioteque.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_BuildingTheThermalBath.dds'
+--where Texture = 'MomentXP2_BuildingTheThermalBath.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_BuildingTheCothon.dds'
+--where Texture = 'MomentXP2_BuildingTheCothon.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_BuildingSuguba.dds'
+--where Texture = 'MomentXP2_BuildingSuguba.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_MomentXP2_FindingChocolateHills.dds'
@@ -186,6 +222,14 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_CompleteTech_Modern.dds'
 where Texture = 'Moment_CompleteTech_Modern.dds';
 
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Classical.dds'
+where Texture = 'Moment_CompleteTech_Classical.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_CompleteTech_Atomic.dds'
+--where Texture = 'Moment_CompleteTech_Atomic.dds';
+
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_CompleteCivicInformation.dds'
 --where Texture = 'Moment_CompleteCivicInformation.dds';
@@ -207,32 +251,20 @@ where Texture = 'Moment_CompleteTech_Modern.dds';
 --where Texture = 'Moment_CompleteCivicModern.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Ubsunur.dds'
---where Texture = 'Moment_NaturalWonder_Ubsunur.dds';
+--set Texture = 'CHM_MomentXP2_CompleteCivic_Future.dds'
+--where Texture = 'MomentXP2_CompleteCivic_Future.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Zhangye.dds'
---where Texture = 'Moment_NaturalWonder_Zhangye.dds';
+--set Texture = 'CHM_Moment_CompleteCivicClassical.dds'
+--where Texture = 'Moment_CompleteCivicClassical.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Roraima.dds'
---where Texture = 'Moment_NaturalWonder_Roraima.dds';
+--set Texture = 'CHM_Moment_CompleteCivicAtomic.dds'
+--where Texture = 'Moment_CompleteCivicAtomic.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Matterhorn.dds'
---where Texture = 'Moment_NaturalWonder_Matterhorn.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_Retba.dds'
---where Texture = 'Moment_Naturalwonder_Retba.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_EyeoftheSahara.dds'
---where Texture = 'Moment_NaturalWonder_EyeoftheSahara.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_DelicateArch.dds'
---where Texture = 'Moment_NaturalWonder_DelicateArch.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_CompleteFirstFutureEraTech.dds'
+where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Scotland.dds'
@@ -251,10 +283,6 @@ where Texture = 'Moment_CompleteTech_Modern.dds';
 --where Texture = 'Moment_Infrastructure_Cree.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_Uluru.dds'
---where Texture = 'Moment_Naturalwonder_Uluru.dds';
-
---update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Australia.dds'
 --where Texture = 'Moment_Infrastructure_Australia.dds';
 
@@ -265,22 +293,6 @@ where Texture = 'Moment_CompleteTech_Modern.dds';
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Nubia.dds'
 --where Texture = 'Moment_Infrastructure_Nubia.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_Lyseford.dds'
---where Texture = 'Moment_Naturalwonder_Lyseford.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_GiantsCauseway.dds'
---where Texture = 'Moment_Naturalwonder_GiantsCauseway.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Eyjafjallajokull.dds'
---where Texture = 'Moment_NaturalWonder_Eyjafjallajokull.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_HaLongBay.dds'
---where Texture = 'Moment_Naturalwonder_HaLongBay.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Indonesia.dds'
@@ -299,16 +311,8 @@ where Texture = 'Moment_CompleteTech_Modern.dds';
 --where Texture = 'Moment_Infrastructure_America.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheGrandBazaar.dds'
---where Texture = 'MomentXP2_BuildingTheGrandBazaar.dds';
-
---update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Arabia.dds'
 --where Texture = 'Moment_Infrastructure_Arabia.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheMarae.dds'
---where Texture = 'MomentXP2_BuildingTheMarae.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Mongolia.dds'
@@ -319,20 +323,12 @@ where Texture = 'Moment_CompleteTech_Modern.dds';
 --where Texture = 'Moment_Infrastructure_Khmer.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingBiblioteque.dds'
---where Texture = 'MomentXP2_BuildingBiblioteque.dds';
-
---update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Norway.dds'
 --where Texture = 'Moment_Infrastructure_Norway.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Poland.dds'
 --where Texture = 'Moment_Infrastructure_Poland.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheThermalBath.dds'
---where Texture = 'MomentXP2_BuildingTheThermalBath.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Aztec.dds'
@@ -349,10 +345,6 @@ where Texture = 'Moment_CompleteTech_Modern.dds';
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Rome.dds'
 --where Texture = 'Moment_Infrastructure_Rome.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheCothon.dds'
---where Texture = 'MomentXP2_BuildingTheCothon.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Germany.dds'
@@ -383,52 +375,52 @@ where Texture = 'Moment_CompleteTech_Modern.dds';
 --where Texture = 'Moment_Infrastructure_Brazil.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingSuguba.dds'
---where Texture = 'MomentXP2_BuildingSuguba.dds';
-
---update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Brazil.dds'
 --where Texture = 'Moment_Infrastructure_Brazil.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteCivicClassical.dds'
---where Texture = 'Moment_CompleteCivicClassical.dds';
+--set Texture = 'CHM_Moment_Infrastructure_China.dds'
+--where Texture = 'Moment_Infrastructure_China.dds';
 
-update MomentIllustrations 
-set Texture = 'CHM_Moment_CompleteTech_Classical.dds'
-where Texture = 'Moment_CompleteTech_Classical.dds';
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Infrastructure_Egypt.dds'
+--where Texture = 'Moment_Infrastructure_Egypt.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Infrastructure_France.dds'
+--where Texture = 'Moment_Infrastructure_France.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Infrastructure_India.dds'
+--where Texture = 'Moment_Infrastructure_India.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Infrastructure_Scythia.dds'
+--where Texture = 'Moment_Infrastructure_Scythia.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Infrastructure_Spanish.dds'
+--where Texture = 'Moment_Infrastructure_Spanish.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_Infrastructure_Ziggurat.dds'
+--where Texture = 'Moment_Infrastructure_Ziggurat.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_FirstAirUnitEarlyGame.dds'
 --where Texture = 'Moment_FirstAirUnitEarlyGame.dds';
 
 update MomentIllustrations 
+set Texture = 'CHM_Moment_FirstAirUnitLateGame.dds'
+where Texture = 'Moment_FirstAirUnitLateGame.dds';
+
+update MomentIllustrations 
 set Texture = 'CHM_Moment_FirstSeaUnitEarly.dds'
 where Texture = 'Moment_FirstSeaUnitEarly.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_EraEntry_Ancient.dds'
---where Texture = 'Moment_EraEntry_Ancient.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteCivicAtomic.dds'
---where Texture = 'Moment_CompleteCivicAtomic.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteTech_Atomic.dds'
---where Texture = 'Moment_CompleteTech_Atomic.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_FirstAirUnitLateGame.dds'
---where Texture = 'Moment_FirstAirUnitLateGame.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_FirstSeaUnitMid.dds'
---where Texture = 'Moment_FirstSeaUnitMid.dds';
-
 update MomentIllustrations 
-set Texture = 'CHM_Moment_EraEntry_Atomic.dds'
-where Texture = 'Moment_EraEntry_Atomic.dds';
+set Texture = 'CHM_Moment_FirstSeaUnitMid.dds'
+where Texture = 'Moment_FirstSeaUnitMid.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_America_Mustang.dds'
@@ -449,10 +441,6 @@ where Texture = 'Moment_EraEntry_Atomic.dds';
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Brazil.dds'
 --where Texture = 'Moment_UniqueUnit_Brazil.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_TrainingMountie.dds'
---where Texture = 'MomentXP2_TrainingMountie.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_China.dds'
@@ -499,18 +487,6 @@ where Texture = 'Moment_EraEntry_Atomic.dds';
 --where Texture = 'Moment_UniqueUnit_Greece.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_Training_BlackArmy.dds'
---where Texture = 'MomentXP2_Training_BlackArmy.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_TrainingHuzar.dds'
---where Texture = 'MomentXP2_TrainingHuzar.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_TrainingWarakaq.dds'
---where Texture = 'MomentXP2_TrainingWarakaq.dds';
-
---update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_India.dds'
 --where Texture = 'Moment_UniqueUnit_India.dds';
 
@@ -543,14 +519,6 @@ where Texture = 'Moment_EraEntry_Atomic.dds';
 --where Texture = 'Moment_UniqueUnit_Macedon_Hypaspist.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_TrainingMadekalu.dds'
---where Texture = 'MomentXP2_TrainingMadekalu.dds';
-
-update MomentIllustrations 
-set Texture = 'CHM_MomentXP2_Training_Toa.dds'
-where Texture = 'MomentXP2_Training_Toa.dds';
-
---update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Mapuche.dds'
 --where Texture = 'Moment_UniqueUnit_Mapuche.dds';
 
@@ -571,16 +539,8 @@ where Texture = 'MomentXP2_Training_Toa.dds';
 --where Texture = 'Moment_UniqueUnit_Nubia.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_TrainingBarbaryCorsair.dds'
---where Texture = 'MomentXP2_TrainingBarbaryCorsair.dds';
-
---update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Persia.dds'
 --where Texture = 'Moment_UniqueUnit_Persia.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_TrainingBireme.dds'
---where Texture = 'MomentXP2_TrainingBireme.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Poland.dds'
@@ -595,7 +555,7 @@ where Texture = 'MomentXP2_Training_Toa.dds';
 --where Texture = 'Moment_UniqueUnit_Russia.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_.dds'
+--set Texture = 'CHM_Moment_UniqueUnit_Scotland.dds'
 --where Texture = 'Moment_UniqueUnit_Scotland.dds';
 
 --update MomentIllustrations 
@@ -607,20 +567,52 @@ where Texture = 'MomentXP2_Training_Toa.dds';
 --where Texture = 'Moment_UniqueUnit_Spain.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_TrainingJanissary.dds'
---where Texture = 'MomentXP2_TrainingJanissary.dds';
-
---update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Sumerian.dds'
 --where Texture = 'Moment_UniqueUnit_Sumerian.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_UniqueUnit_Zulu.dds'
+--where Texture = 'Moment_UniqueUnit_Zulu.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_TrainingJanissary.dds'
+--where Texture = 'MomentXP2_TrainingJanissary.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_MomentXP2_TrainingCarolean.dds'
 --where Texture = 'MomentXP2_TrainingCarolean.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Zulu.dds'
---where Texture = 'Moment_UniqueUnit_Zulu.dds';
+--set Texture = 'CHM_MomentXP2_TrainingBarbaryCorsair.dds'
+--where Texture = 'MomentXP2_TrainingBarbaryCorsair.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_TrainingMountie.dds'
+--where Texture = 'MomentXP2_TrainingMountie.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_Training_BlackArmy.dds'
+--where Texture = 'MomentXP2_Training_BlackArmy.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_TrainingHuzar.dds'
+--where Texture = 'MomentXP2_TrainingHuzar.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_TrainingWarakaq.dds'
+--where Texture = 'MomentXP2_TrainingWarakaq.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_TrainingMadekalu.dds'
+--where Texture = 'MomentXP2_TrainingMadekalu.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_Training_Toa.dds'
+where Texture = 'MomentXP2_Training_Toa.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_TrainingBireme.dds'
+--where Texture = 'MomentXP2_TrainingBireme.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_Government_Autocracy.dds'
@@ -663,12 +655,16 @@ where Texture = 'Moment_Government_Democracy.dds';
 --where Texture = 'MomentXP2_Government_CorpLibertarianism.dds';
 
 --update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_Government_SyntheticTechnocracy.dds'
+--where Texture = 'MomentXP2_Government_SyntheticTechnocracy.dds';
+
+--update MomentIllustrations 
 --set Texture = 'CHM_MomentXP2_Gorvernment_DigitalDemocracy.dds'
 --where Texture = 'MomentXP2_Gorvernment_DigitalDemocracy.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_Government_SyntheticTechnocracy.dds'
---where Texture = 'MomentXP2_Government_SyntheticTechnocracy.dds';
+--set Texture = 'CHM_Moment_EraEntry_Ancient.dds'
+--where Texture = 'Moment_EraEntry_Ancient.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_EraEntry_Classical.dds'
@@ -689,6 +685,10 @@ where Texture = 'Moment_EraEntry_Industrial.dds';
 update MomentIllustrations 
 set Texture = 'CHM_Moment_EraEntry_Modern.dds'
 where Texture = 'Moment_EraEntry_Modern.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_Moment_EraEntry_Atomic.dds'
+where Texture = 'Moment_EraEntry_Atomic.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_EraEntry_Information.dds'
@@ -731,6 +731,34 @@ where BackgroundTexture = 'Moment_DistrictBuiltEncampment.dds';
 --where BackgroundTexture = 'Moment_DistrictBuiltWaterpark.dds';
 
 --update Moments
+--set BackgroundTexture = 'CHM_Moment_DistrictBuiltCampus.dds'
+--where BackgroundTexture = 'Moment_DistrictBuiltCampus.dds';
+
+--update Moments
+--set BackgroundTexture = 'CHM_Moment_DistrictBuilt_Commercial.dds'
+--where BackgroundTexture = 'Moment_DistrictBuilt_Commercial.dds';
+
+update Moments
+set BackgroundTexture = 'CHM_Moment_DistrictBuiltHarbor.dds'
+where BackgroundTexture = 'Moment_DistrictBuiltHarbor.dds';
+
+update Moments
+set BackgroundTexture = 'CHM_Moment_DistrictBuiltHolySite.dds'
+where BackgroundTexture = 'Moment_DistrictBuiltHolySite.dds';
+
+--update Moments
+--set BackgroundTexture = 'CHM_Moment_DistrictBuiltIndustrial.dds'
+--where BackgroundTexture = 'Moment_DistrictBuiltIndustrial.dds';
+
+--update Moments
+--set BackgroundTexture = 'CHM_Moment_DistrictBuiltTheatre.dds'
+--where BackgroundTexture = 'Moment_DistrictBuiltTheatre.dds';
+
+update Moments
+set BackgroundTexture = 'CHM_Moment_DistrictBuiltNeighborhood.dds'
+where BackgroundTexture = 'Moment_DistrictBuiltNeighborhood.dds';
+
+--update Moments
 --set BackgroundTexture = 'CHM_Moment_3MoreCitiesThanNextPlayer.dds'
 --where BackgroundTexture = 'Moment_3MoreCitiesThanNextPlayer.dds';
 
@@ -770,34 +798,6 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_EliminatedCiv.dds'
 where BackgroundTexture = 'Moment_EliminatedCiv.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_DistrictBuiltCampus.dds'
---where BackgroundTexture = 'Moment_DistrictBuiltCampus.dds';
-
---update Moments
---set BackgroundTexture = 'CHM_Moment_DistrictBuilt_Commercial.dds'
---where BackgroundTexture = 'Moment_DistrictBuilt_Commercial.dds';
-
-update Moments
-set BackgroundTexture = 'CHM_Moment_DistrictBuiltHarbor.dds'
-where BackgroundTexture = 'Moment_DistrictBuiltHarbor.dds';
-
-update Moments
-set BackgroundTexture = 'CHM_Moment_DistrictBuiltHolySite.dds'
-where BackgroundTexture = 'Moment_DistrictBuiltHolySite.dds';
-
---update Moments
---set BackgroundTexture = 'CHM_Moment_DistrictBuiltIndustrial.dds'
---where BackgroundTexture = 'Moment_DistrictBuiltIndustrial.dds';
-
---update Moments
---set BackgroundTexture = 'CHM_Moment_DistrictBuiltTheatre.dds'
---where BackgroundTexture = 'Moment_DistrictBuiltTheatre.dds';
-
-update Moments
-set BackgroundTexture = 'CHM_Moment_DistrictBuiltNeighborhood.dds'
-where BackgroundTexture = 'Moment_DistrictBuiltNeighborhood.dds';
-
 update Moments
 set BackgroundTexture = 'CHM_Moment_JoinEmergency.dds'
 where BackgroundTexture = 'Moment_JoinEmergency.dds';
@@ -821,10 +821,6 @@ where BackgroundTexture = 'Moment_DiscoverContinent.dds';
 update Moments
 set BackgroundTexture = 'CHM_Moment_FirstFleet.dds'
 where BackgroundTexture = 'Moment_FirstFleet.dds';
-
---update Moments
---set BackgroundTexture = 'CHM_Moment_PromoteGovernor_AllGovernors.dds'
---where BackgroundTexture = 'Moment_PromoteGovernor_AllGovernors.dds';
 
 --update Moments
 --set BackgroundTexture = 'CHM_Moment_EarnGreatPersonWithFaith.dds'
@@ -902,9 +898,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_Tradepost_AllCities.dds'
 where BackgroundTexture = 'Moment_Tradepost_AllCities.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_StrategicResourceUnit.dds'
---where BackgroundTexture = 'Moment_StrategicResourceUnit.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_StrategicResourceUnit.dds'
+where BackgroundTexture = 'Moment_StrategicResourceUnit.dds';
 
 --update Moments
 --set BackgroundTexture = 'CHM_Moment_4StarUnit.dds'
@@ -925,6 +921,10 @@ where BackgroundTexture = 'Moment_Tradepost_AllCities.dds';
 --update Moments
 --set BackgroundTexture = 'CHM_Moment_KillEnemyUnit_TwoMorePromos.dds'
 --where BackgroundTexture = 'Moment_KillEnemyUnit_TwoMorePromos.dds';
+
+--update Moments
+--set BackgroundTexture = 'CHM_Moment_PromoteGovernor_AllGovernors.dds'
+--where BackgroundTexture = 'Moment_PromoteGovernor_AllGovernors.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_Circumnavigation.dds'
