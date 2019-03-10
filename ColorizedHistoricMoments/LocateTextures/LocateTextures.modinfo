@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c4889116-eda4-47f0-93ce-02281afdaabf" version="1">
+  <Properties>
+    <Name>LocateTextures</Name>
+    <Description></Description>
+    <Teaser></Teaser>
+    <Authors>
+      MiniRagnarok
+    </Authors>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <FrontEndActions />
+  <InGameActions>
+    <UpdateDatabase id="TestMod">
+      <Properties>
+        <LoadOrder>100</LoadOrder>
+      </Properties>
+      <File priority="10">locatetextures.sql</File>
+    </UpdateDatabase>
+  </InGameActions>
+  <Files>
+    <File>locatetextures.sql</File>
+  </Files>
+</Mod>

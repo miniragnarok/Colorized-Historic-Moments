@@ -35,6 +35,7 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="LocateTextures\locatetextures.sql" />
     <Content Include="Mod.Art.xml" />
     <Content Include="SQL\UpdateTextures.sql" />
     <Content Include="Textures\CHM_MomentXP2_BuildingRailroadConnecting2Cities.dds" />
@@ -96,6 +97,7 @@
   <ItemGroup>
     <None Include="ArtDefs\ColorizedHistoricMoments.artdef" />
     <None Include="ColorizedHistoricMoments.modinfo" />
+    <None Include="LocateTextures\LocateTextures.modinfo" />
     <None Include="packages.config" />
     <None Include="Textures\CHM_MomentXP2_BuildingRailroadConnecting2Cities.tex" />
     <None Include="Textures\CHM_MomentXP2_City_Built_Near_Volcano.tex" />
