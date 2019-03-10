@@ -93,6 +93,10 @@
     <Content Include="Textures\CHM_Moment_SpyPromoted.dds" />
     <Content Include="Textures\CHM_Moment_StrategicResourceUnit.dds" />
     <Content Include="Textures\CHM_Moment_Tradepost_AllCities.dds" />
+    <Content Include="UnmatchedImages\Build sea side resort.dds" />
+    <Content Include="UnmatchedImages\Communism.dds" />
+    <Content Include="UnmatchedImages\Create or use rock band.dds" />
+    <Content Include="UnmatchedImages\Fully upgrade water park.dds" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ArtDefs\ColorizedHistoricMoments.artdef" />
@@ -157,9 +161,7 @@
     <None Include="TextureTemplate.tex" />
     <None Include="XLPs\ColorizedHistoricMoments.xlp" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="UnmatchedImages\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Compile Include="Program.cs" />
   </ItemGroup>
