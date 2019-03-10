@@ -74,6 +74,10 @@
       <m_ObjectName text="CHM_Moment_CompleteTech_Renaissance" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_Moment_CreatedSeasideResort" />
+      <m_ObjectName text="CHM_Moment_CreatedSeasideResort" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_Moment_DiscoverContinent" />
       <m_ObjectName text="CHM_Moment_DiscoverContinent" />
     </Element>
@@ -96,6 +100,10 @@
     <Element>
       <m_EntryID text="CHM_Moment_DistrictBuiltNeighborhood" />
       <m_ObjectName text="CHM_Moment_DistrictBuiltNeighborhood" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_DistrictBuiltWaterpark" />
+      <m_ObjectName text="CHM_Moment_DistrictBuiltWaterpark" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_EarnGreatPersonWithFaith" />
@@ -172,6 +180,10 @@
     <Element>
       <m_EntryID text="CHM_Moment_Government_ClassicalRepublic" />
       <m_ObjectName text="CHM_Moment_Government_ClassicalRepublic" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Government_Communism" />
+      <m_ObjectName text="CHM_Moment_Government_Communism" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_Government_Democracy" />

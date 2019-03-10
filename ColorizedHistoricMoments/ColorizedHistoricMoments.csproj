@@ -54,12 +54,14 @@
     <Content Include="Textures\CHM_Moment_CompleteTech_Information.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Modern.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Renaissance.dds" />
+    <Content Include="Textures\CHM_Moment_CreatedSeasideResort.dds" />
     <Content Include="Textures\CHM_Moment_DiscoverContinent.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltAerodrome.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltEncampment.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltHarbor.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltHolySite.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltNeighborhood.dds" />
+    <Content Include="Textures\CHM_Moment_DistrictBuiltWaterpark.dds" />
     <Content Include="Textures\CHM_Moment_EarnGreatPersonWithFaith.dds" />
     <Content Include="Textures\CHM_Moment_EliminatedCiv.dds" />
     <Content Include="Textures\CHM_Moment_EraEntry_Atomic.dds" />
@@ -79,6 +81,7 @@
     <Content Include="Textures\CHM_Moment_FoundedPantheon.dds" />
     <Content Include="Textures\CHM_Moment_Government_Autocracy.dds" />
     <Content Include="Textures\CHM_Moment_Government_ClassicalRepublic.dds" />
+    <Content Include="Textures\CHM_Moment_Government_Communism.dds" />
     <Content Include="Textures\CHM_Moment_Government_Democracy.dds" />
     <Content Include="Textures\CHM_Moment_Government_Merchant.dds" />
     <Content Include="Textures\CHM_Moment_Government_Monarchy.dds" />
@@ -93,10 +96,7 @@
     <Content Include="Textures\CHM_Moment_SpyPromoted.dds" />
     <Content Include="Textures\CHM_Moment_StrategicResourceUnit.dds" />
     <Content Include="Textures\CHM_Moment_Tradepost_AllCities.dds" />
-    <Content Include="UnmatchedImages\Build sea side resort.dds" />
-    <Content Include="UnmatchedImages\Communism.dds" />
     <Content Include="UnmatchedImages\Create or use rock band.dds" />
-    <Content Include="UnmatchedImages\Fully upgrade water park.dds" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ArtDefs\ColorizedHistoricMoments.artdef" />
@@ -119,12 +119,14 @@
     <None Include="Textures\CHM_Moment_CompleteTech_Information.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Modern.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Renaissance.tex" />
+    <None Include="Textures\CHM_Moment_CreatedSeasideResort.tex" />
     <None Include="Textures\CHM_Moment_DiscoverContinent.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltAerodrome.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltEncampment.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltHarbor.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltHolySite.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltNeighborhood.tex" />
+    <None Include="Textures\CHM_Moment_DistrictBuiltWaterpark.tex" />
     <None Include="Textures\CHM_Moment_EarnGreatPersonWithFaith.tex" />
     <None Include="Textures\CHM_Moment_EliminatedCiv.tex" />
     <None Include="Textures\CHM_Moment_EraEntry_Atomic.tex" />
@@ -144,6 +146,7 @@
     <None Include="Textures\CHM_Moment_FoundedPantheon.tex" />
     <None Include="Textures\CHM_Moment_Government_Autocracy.tex" />
     <None Include="Textures\CHM_Moment_Government_ClassicalRepublic.tex" />
+    <None Include="Textures\CHM_Moment_Government_Communism.tex" />
     <None Include="Textures\CHM_Moment_Government_Democracy.tex" />
     <None Include="Textures\CHM_Moment_Government_Merchant.tex" />
     <None Include="Textures\CHM_Moment_Government_Monarchy.tex" />

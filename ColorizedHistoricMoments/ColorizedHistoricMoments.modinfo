@@ -60,6 +60,8 @@
     <File>Textures/CHM_Moment_CompleteTech_Modern.tex</File>
     <File>Textures/CHM_Moment_CompleteTech_Renaissance.dds</File>
     <File>Textures/CHM_Moment_CompleteTech_Renaissance.tex</File>
+    <File>Textures/CHM_Moment_CreatedSeasideResort.dds</File>
+    <File>Textures/CHM_Moment_CreatedSeasideResort.tex</File>
     <File>Textures/CHM_Moment_DiscoverContinent.dds</File>
     <File>Textures/CHM_Moment_DiscoverContinent.tex</File>
     <File>Textures/CHM_Moment_DistrictBuiltAerodrome.dds</File>
@@ -72,6 +74,8 @@
     <File>Textures/CHM_Moment_DistrictBuiltHolySite.tex</File>
     <File>Textures/CHM_Moment_DistrictBuiltNeighborhood.dds</File>
     <File>Textures/CHM_Moment_DistrictBuiltNeighborhood.tex</File>
+    <File>Textures/CHM_Moment_DistrictBuiltWaterpark.dds</File>
+    <File>Textures/CHM_Moment_DistrictBuiltWaterpark.tex</File>
     <File>Textures/CHM_Moment_EarnGreatPersonWithFaith.dds</File>
     <File>Textures/CHM_Moment_EarnGreatPersonWithFaith.tex</File>
     <File>Textures/CHM_Moment_EliminatedCiv.dds</File>
@@ -110,6 +114,8 @@
     <File>Textures/CHM_Moment_Government_Autocracy.tex</File>
     <File>Textures/CHM_Moment_Government_ClassicalRepublic.dds</File>
     <File>Textures/CHM_Moment_Government_ClassicalRepublic.tex</File>
+    <File>Textures/CHM_Moment_Government_Communism.dds</File>
+    <File>Textures/CHM_Moment_Government_Communism.tex</File>
     <File>Textures/CHM_Moment_Government_Democracy.dds</File>
     <File>Textures/CHM_Moment_Government_Democracy.tex</File>
     <File>Textures/CHM_Moment_Government_Merchant.dds</File>

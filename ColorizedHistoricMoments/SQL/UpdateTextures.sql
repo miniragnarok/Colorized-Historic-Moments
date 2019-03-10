@@ -642,9 +642,9 @@ where Texture = 'Moment_Government_Merchant.dds';
 --set Texture = 'CHM_Moment_Government_Fascism.dds'
 --where Texture = 'Moment_Government_Fascism.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Government_Communism.dds'
---where Texture = 'Moment_Government_Communism.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Government_Communism.dds'
+where Texture = 'Moment_Government_Communism.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_Government_Democracy.dds'
@@ -726,9 +726,9 @@ where BackgroundTexture = 'Moment_DistrictBuiltEncampment.dds';
 --set BackgroundTexture = 'CHM_Moment_DistrictBuiltEntertainment.dds'
 --where BackgroundTexture = 'Moment_DistrictBuiltEntertainment.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_DistrictBuiltWaterpark.dds'
---where BackgroundTexture = 'Moment_DistrictBuiltWaterpark.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_DistrictBuiltWaterpark.dds'
+where BackgroundTexture = 'Moment_DistrictBuiltWaterpark.dds';
 
 --update Moments
 --set BackgroundTexture = 'CHM_Moment_DistrictBuiltCampus.dds'
@@ -830,9 +830,9 @@ where BackgroundTexture = 'Moment_EarnGreatPersonWithFaith.dds';
 --set BackgroundTexture = 'CHM_Moment_EarnGreatPersonWithGold.dds'
 --where BackgroundTexture = 'Moment_EarnGreatPersonWithGold.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_CreatedSeasideResort.dds'
---where BackgroundTexture = 'Moment_CreatedSeasideResort.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_CreatedSeasideResort.dds'
+where BackgroundTexture = 'Moment_CreatedSeasideResort.dds';
 
 --update Moments
 --set BackgroundTexture = 'CHM_Moment_BeganInquisition.dds'
