@@ -2,37 +2,37 @@
 -- DateCreated: 3/6/2019 7:02:21 PM
 --------------------------------------------------------------
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_PromoteGovernor_Ambassador.dds'
---where Texture = 'Moment_PromoteGovernor_Ambassador.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_PromoteGovernor_Ambassador.dds'
+where Texture = 'Moment_PromoteGovernor_Ambassador.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_PromoteGovernor_Builder.dds'
---where Texture = 'Moment_PromoteGovernor_Builder.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_PromoteGovernor_Builder.dds'
+where Texture = 'Moment_PromoteGovernor_Builder.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_PromoteGovernor_Cardinal.dds'
---where Texture = 'Moment_PromoteGovernor_Cardinal.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_PromoteGovernor_Cardinal.dds'
+where Texture = 'Moment_PromoteGovernor_Cardinal.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_PromoteGovernor_Defender.dds'
---where Texture = 'Moment_PromoteGovernor_Defender.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_PromoteGovernor_Defender.dds'
+where Texture = 'Moment_PromoteGovernor_Defender.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_PromoteGovernor_Educator.dds'
---where Texture = 'Moment_PromoteGovernor_Educator.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_PromoteGovernor_Educator.dds'
+where Texture = 'Moment_PromoteGovernor_Educator.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_PromoteGovernor_Merchant.dds'
---where Texture = 'Moment_PromoteGovernor_Merchant.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_PromoteGovernor_Merchant.dds'
+where Texture = 'Moment_PromoteGovernor_Merchant.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_PromoteGovernor_ResourceManager.dds'
---where Texture = 'Moment_PromoteGovernor_ResourceManager.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_PromoteGovernor_ResourceManager.dds'
+where Texture = 'Moment_PromoteGovernor_ResourceManager.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_PromoteGovernor_GrandVizier.dds'
---where Texture = 'MomentXP2_PromoteGovernor_GrandVizier.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_PromoteGovernor_GrandVizier.dds'
+where Texture = 'MomentXP2_PromoteGovernor_GrandVizier.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Naturalwonder_BarrierReef.dds'
@@ -131,6 +131,34 @@
 --where Texture = 'Moment_Naturalwonder_Uluru.dds';
 
 --update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_FindingChocolateHills.dds'
+--where Texture = 'MomentXP2_FindingChocolateHills.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_FindingDevilsTower.dds'
+--where Texture = 'MomentXP2_FindingDevilsTower.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_FindingGobustan.dds'
+--where Texture = 'MomentXP2_FindingGobustan.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_FindingIkKil.dds'
+--where Texture = 'MomentXP2_FindingIkKil.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_FindingPamukkale.dds'
+--where Texture = 'MomentXP2_FindingPamukkale.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_FindingVesuvius.dds'
+--where Texture = 'MomentXP2_FindingVesuvius.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_FindingWhiteDesert.dds'
+--where Texture = 'MomentXP2_FindingWhiteDesert.dds';
+
+--update MomentIllustrations 
 --set Texture = 'CHM_MomentXP2_BuildingTheOpenAirMuseum.dds'
 --where Texture = 'MomentXP2_BuildingTheOpenAirMuseum.dds';
 
@@ -173,34 +201,6 @@
 --update MomentIllustrations 
 --set Texture = 'CHM_MomentXP2_BuildingSuguba.dds'
 --where Texture = 'MomentXP2_BuildingSuguba.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingChocolateHills.dds'
---where Texture = 'MomentXP2_FindingChocolateHills.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingDevilsTower.dds'
---where Texture = 'MomentXP2_FindingDevilsTower.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingGobustan.dds'
---where Texture = 'MomentXP2_FindingGobustan.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingIkKil.dds'
---where Texture = 'MomentXP2_FindingIkKil.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingPamukkale.dds'
---where Texture = 'MomentXP2_FindingPamukkale.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingVesuvius.dds'
---where Texture = 'MomentXP2_FindingVesuvius.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingWhiteDesert.dds'
---where Texture = 'MomentXP2_FindingWhiteDesert.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_CompleteTech_Information.dds'
@@ -694,9 +694,9 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_EraEntry_Information.dds'
 where Texture = 'Moment_EraEntry_Information.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_EnterFutureEra.dds'
---where Texture = 'MomentXP2_EnterFutureEra.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_EnterFutureEra.dds'
+where Texture = 'MomentXP2_EnterFutureEra.dds';
 
 -- End Moment Illustrations Textures
 

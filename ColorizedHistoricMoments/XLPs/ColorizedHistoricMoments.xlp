@@ -30,12 +30,20 @@
       <m_ObjectName text="CHM_MomentXP2_CompleteFirstFutureEraTech" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_MomentXP2_EnterFutureEra" />
+      <m_ObjectName text="CHM_MomentXP2_EnterFutureEra" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_MomentXP2_ImproveNaturalDisasterYieldTile" />
       <m_ObjectName text="CHM_MomentXP2_ImproveNaturalDisasterYieldTile" />
     </Element>
     <Element>
       <m_EntryID text="CHM_MomentXP2_Project_Founded_Exoplanet" />
       <m_ObjectName text="CHM_MomentXP2_Project_Founded_Exoplanet" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_PromoteGovernor_GrandVizier" />
+      <m_ObjectName text="CHM_MomentXP2_PromoteGovernor_GrandVizier" />
     </Element>
     <Element>
       <m_EntryID text="CHM_MomentXP2_Resource_FossilFuel" />
@@ -260,6 +268,34 @@
     <Element>
       <m_EntryID text="CHM_Moment_NewContinentCity" />
       <m_ObjectName text="CHM_Moment_NewContinentCity" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_PromoteGovernor_Ambassador" />
+      <m_ObjectName text="CHM_Moment_PromoteGovernor_Ambassador" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_PromoteGovernor_Builder" />
+      <m_ObjectName text="CHM_Moment_PromoteGovernor_Builder" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_PromoteGovernor_Cardinal" />
+      <m_ObjectName text="CHM_Moment_PromoteGovernor_Cardinal" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_PromoteGovernor_Defender" />
+      <m_ObjectName text="CHM_Moment_PromoteGovernor_Defender" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_PromoteGovernor_Educator" />
+      <m_ObjectName text="CHM_Moment_PromoteGovernor_Educator" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_PromoteGovernor_Merchant" />
+      <m_ObjectName text="CHM_Moment_PromoteGovernor_Merchant" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_PromoteGovernor_ResourceManager" />
+      <m_ObjectName text="CHM_Moment_PromoteGovernor_ResourceManager" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_SpyPromoted" />
