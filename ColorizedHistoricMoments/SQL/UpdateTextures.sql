@@ -158,6 +158,70 @@ where Texture = 'MomentXP2_PromoteGovernor_GrandVizier.dds';
 --set Texture = 'CHM_MomentXP2_FindingWhiteDesert.dds'
 --where Texture = 'MomentXP2_FindingWhiteDesert.dds';
 
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Information.dds'
+where Texture = 'Moment_CompleteTech_Information.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Medieval.dds'
+where Texture = 'Moment_CompleteTech_Medieval.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Renaissance.dds'
+where Texture = 'Moment_CompleteTech_Renaissance.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Industrial.dds'
+where Texture = 'Moment_CompleteTech_Industrial.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Modern.dds'
+where Texture = 'Moment_CompleteTech_Modern.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Classical.dds'
+where Texture = 'Moment_CompleteTech_Classical.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_Moment_CompleteTech_Atomic.dds'
+where Texture = 'Moment_CompleteTech_Atomic.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_CompleteCivicInformation.dds'
+--where Texture = 'Moment_CompleteCivicInformation.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_CompleteCivicMedieval.dds'
+--where Texture = 'Moment_CompleteCivicMedieval.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_CompleteCivicRenaissance.dds'
+--where Texture = 'Moment_CompleteCivicRenaissance.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_CompleteCivicIndustrial.dds'
+--where Texture = 'Moment_CompleteCivicIndustrial.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_CompleteCivicModern.dds'
+--where Texture = 'Moment_CompleteCivicModern.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_MomentXP2_CompleteCivic_Future.dds'
+--where Texture = 'MomentXP2_CompleteCivic_Future.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_CompleteCivicClassical.dds'
+--where Texture = 'Moment_CompleteCivicClassical.dds';
+
+--update MomentIllustrations 
+--set Texture = 'CHM_Moment_CompleteCivicAtomic.dds'
+--where Texture = 'Moment_CompleteCivicAtomic.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_CompleteFirstFutureEraTech.dds'
+where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
+
 --update MomentIllustrations 
 --set Texture = 'CHM_MomentXP2_BuildingTheOpenAirMuseum.dds'
 --where Texture = 'MomentXP2_BuildingTheOpenAirMuseum.dds';
@@ -201,70 +265,6 @@ where Texture = 'MomentXP2_PromoteGovernor_GrandVizier.dds';
 --update MomentIllustrations 
 --set Texture = 'CHM_MomentXP2_BuildingSuguba.dds'
 --where Texture = 'MomentXP2_BuildingSuguba.dds';
-
-update MomentIllustrations 
-set Texture = 'CHM_Moment_CompleteTech_Information.dds'
-where Texture = 'Moment_CompleteTech_Information.dds';
-
-update MomentIllustrations 
-set Texture = 'CHM_Moment_CompleteTech_Medieval.dds'
-where Texture = 'Moment_CompleteTech_Medieval.dds';
-
-update MomentIllustrations 
-set Texture = 'CHM_Moment_CompleteTech_Renaissance.dds'
-where Texture = 'Moment_CompleteTech_Renaissance.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteTech_Industrial.dds'
---where Texture = 'Moment_CompleteTech_Industrial.dds';
-
-update MomentIllustrations 
-set Texture = 'CHM_Moment_CompleteTech_Modern.dds'
-where Texture = 'Moment_CompleteTech_Modern.dds';
-
-update MomentIllustrations 
-set Texture = 'CHM_Moment_CompleteTech_Classical.dds'
-where Texture = 'Moment_CompleteTech_Classical.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteTech_Atomic.dds'
---where Texture = 'Moment_CompleteTech_Atomic.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteCivicInformation.dds'
---where Texture = 'Moment_CompleteCivicInformation.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteCivicMedieval.dds'
---where Texture = 'Moment_CompleteCivicMedieval.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteCivicRenaissance.dds'
---where Texture = 'Moment_CompleteCivicRenaissance.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteCivicIndustrial.dds'
---where Texture = 'Moment_CompleteCivicIndustrial.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteCivicModern.dds'
---where Texture = 'Moment_CompleteCivicModern.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_CompleteCivic_Future.dds'
---where Texture = 'MomentXP2_CompleteCivic_Future.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteCivicClassical.dds'
---where Texture = 'Moment_CompleteCivicClassical.dds';
-
---update MomentIllustrations 
---set Texture = 'CHM_Moment_CompleteCivicAtomic.dds'
---where Texture = 'Moment_CompleteCivicAtomic.dds';
-
-update MomentIllustrations 
-set Texture = 'CHM_MomentXP2_CompleteFirstFutureEraTech.dds'
-where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Scotland.dds'
@@ -375,10 +375,6 @@ where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 --where Texture = 'Moment_Infrastructure_Brazil.dds';
 
 --update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Brazil.dds'
---where Texture = 'Moment_Infrastructure_Brazil.dds';
-
---update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_China.dds'
 --where Texture = 'Moment_Infrastructure_China.dds';
 
@@ -406,9 +402,9 @@ where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 --set Texture = 'CHM_Moment_Infrastructure_Ziggurat.dds'
 --where Texture = 'Moment_Infrastructure_Ziggurat.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_FirstAirUnitEarlyGame.dds'
---where Texture = 'Moment_FirstAirUnitEarlyGame.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_FirstAirUnitEarlyGame.dds'
+where Texture = 'Moment_FirstAirUnitEarlyGame.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_FirstAirUnitLateGame.dds'
@@ -638,9 +634,9 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_Government_Merchant.dds'
 where Texture = 'Moment_Government_Merchant.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Government_Fascism.dds'
---where Texture = 'Moment_Government_Fascism.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Government_Fascism.dds'
+where Texture = 'Moment_Government_Fascism.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_Government_Communism.dds'
@@ -654,17 +650,17 @@ where Texture = 'Moment_Government_Democracy.dds';
 --set Texture = 'CHM_MomentXP2_Government_CorpLibertarianism.dds'
 --where Texture = 'MomentXP2_Government_CorpLibertarianism.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_Government_SyntheticTechnocracy.dds'
---where Texture = 'MomentXP2_Government_SyntheticTechnocracy.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_Government_SyntheticTechnocracy.dds'
+where Texture = 'MomentXP2_Government_SyntheticTechnocracy.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_Gorvernment_DigitalDemocracy.dds'
---where Texture = 'MomentXP2_Gorvernment_DigitalDemocracy.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_Gorvernment_DigitalDemocracy.dds'
+where Texture = 'MomentXP2_Gorvernment_DigitalDemocracy.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_EraEntry_Ancient.dds'
---where Texture = 'Moment_EraEntry_Ancient.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_EraEntry_Ancient.dds'
+where Texture = 'Moment_EraEntry_Ancient.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_EraEntry_Classical.dds'
@@ -702,17 +698,17 @@ where Texture = 'MomentXP2_EnterFutureEra.dds';
 
 -- Moments Background Textures
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_ShipwreckExcavated.dds'
---where BackgroundTexture = 'Moment_ShipwreckExcavated.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_ShipwreckExcavated.dds'
+where BackgroundTexture = 'Moment_ShipwreckExcavated.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_ClearBarbMedieval6Tiles.dds'
 where BackgroundTexture = 'Moment_ClearBarbMedieval6Tiles.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_MaxReligionBeliefs.dds'
---where BackgroundTexture = 'Moment_MaxReligionBeliefs.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_MaxReligionBeliefs.dds'
+where BackgroundTexture = 'Moment_MaxReligionBeliefs.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_DistrictBuiltAerodrome.dds'
@@ -734,9 +730,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_DistrictBuiltCampus.dds'
 where BackgroundTexture = 'Moment_DistrictBuiltCampus.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_DistrictBuilt_Commercial.dds'
---where BackgroundTexture = 'Moment_DistrictBuilt_Commercial.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_DistrictBuilt_Commercial.dds'
+where BackgroundTexture = 'Moment_DistrictBuilt_Commercial.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_DistrictBuiltHarbor.dds'
@@ -746,9 +742,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_DistrictBuiltHolySite.dds'
 where BackgroundTexture = 'Moment_DistrictBuiltHolySite.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_DistrictBuiltIndustrial.dds'
---where BackgroundTexture = 'Moment_DistrictBuiltIndustrial.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_DistrictBuiltIndustrial.dds'
+where BackgroundTexture = 'Moment_DistrictBuiltIndustrial.dds';
 
 --update Moments
 --set BackgroundTexture = 'CHM_Moment_DistrictBuiltTheatre.dds'
@@ -790,9 +786,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_FirstCityToReach10Pop.dds'
 where BackgroundTexture = 'Moment_FirstCityToReach10Pop.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_CityTransferCulturalFromFreeCity.dds'
---where BackgroundTexture = 'Moment_CityTransferCulturalFromFreeCity.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_CityTransferCulturalFromFreeCity.dds'
+where BackgroundTexture = 'Moment_CityTransferCulturalFromFreeCity.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_EliminatedCiv.dds'
@@ -826,17 +822,17 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_EarnGreatPersonWithFaith.dds'
 where BackgroundTexture = 'Moment_EarnGreatPersonWithFaith.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_EarnGreatPersonWithGold.dds'
---where BackgroundTexture = 'Moment_EarnGreatPersonWithGold.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_EarnGreatPersonWithGold.dds'
+where BackgroundTexture = 'Moment_EarnGreatPersonWithGold.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_CreatedSeasideResort.dds'
 where BackgroundTexture = 'Moment_CreatedSeasideResort.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_BeganInquisition.dds'
---where BackgroundTexture = 'Moment_BeganInquisition.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_BeganInquisition.dds'
+where BackgroundTexture = 'Moment_BeganInquisition.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_NationalPark.dds'
@@ -846,9 +842,9 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_FoundedPantheon.dds'
 where BackgroundTexture = 'Moment_FoundedPantheon.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_FirstSuzerain.dds'
---where BackgroundTexture = 'Moment_FirstSuzerain.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_FirstSuzerain.dds'
+where BackgroundTexture = 'Moment_FirstSuzerain.dds';
 
 --update Moments
 --set BackgroundTexture = 'CHM_Moment_CancelledSuzerianLeviedMilitary.dds'
@@ -858,17 +854,17 @@ where BackgroundTexture = 'Moment_FoundedPantheon.dds';
 --set BackgroundTexture = 'CHM_Moment_CancelledSuzerianWar.dds'
 --where BackgroundTexture = 'Moment_CancelledSuzerianWar.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_LevyMilitaryNearEnemy.dds'
---where BackgroundTexture = 'Moment_LevyMilitaryNearEnemy.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_LevyMilitaryNearEnemy.dds'
+where BackgroundTexture = 'Moment_LevyMilitaryNearEnemy.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_MetCivPlayer.dds'
 where BackgroundTexture = 'Moment_MetCivPlayer.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_MetAllCivs.dds'
---where BackgroundTexture = 'Moment_MetAllCivs.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_MetAllCivs.dds'
+where BackgroundTexture = 'Moment_MetAllCivs.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_FirstMarsComponent.dds'
@@ -882,17 +878,17 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_LaunchedSatellite.dds'
 where BackgroundTexture = 'Moment_LaunchedSatellite.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_PM_FoundedReligion.dds'
---where BackgroundTexture = 'PM_FoundedReligion.dds';
+update Moments
+set BackgroundTexture = 'CHM_PM_FoundedReligion.dds'
+where BackgroundTexture = 'PM_FoundedReligion.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_SpyPromoted.dds'
 where BackgroundTexture = 'Moment_SpyPromoted.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_TradePostNewCiv.dds'
---where BackgroundTexture = 'Moment_TradePostNewCiv.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_TradePostNewCiv.dds'
+where BackgroundTexture = 'Moment_TradePostNewCiv.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_Tradepost_AllCities.dds'
@@ -902,29 +898,29 @@ update Moments
 set BackgroundTexture = 'CHM_Moment_StrategicResourceUnit.dds'
 where BackgroundTexture = 'Moment_StrategicResourceUnit.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_4StarUnit.dds'
---where BackgroundTexture = 'Moment_4StarUnit.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_4StarUnit.dds'
+where BackgroundTexture = 'Moment_4StarUnit.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_KillEnemyUnit_AdmiralNearby.dds'
---where BackgroundTexture = 'Moment_KillEnemyUnit_AdmiralNearby.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_KillEnemyUnit_AdmiralNearby.dds'
+where BackgroundTexture = 'Moment_KillEnemyUnit_AdmiralNearby.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_KillEnemy_GreatGeneralNearby.dds'
---where BackgroundTexture = 'Moment_KillEnemy_GreatGeneralNearby.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_KillEnemy_GreatGeneralNearby.dds'
+where BackgroundTexture = 'Moment_KillEnemy_GreatGeneralNearby.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_KillEnemyUnit_HigherFormation.dds'
---where BackgroundTexture = 'Moment_KillEnemyUnit_HigherFormation.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_KillEnemyUnit_HigherFormation.dds'
+where BackgroundTexture = 'Moment_KillEnemyUnit_HigherFormation.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_KillEnemyUnit_TwoMorePromos.dds'
---where BackgroundTexture = 'Moment_KillEnemyUnit_TwoMorePromos.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_KillEnemyUnit_TwoMorePromos.dds'
+where BackgroundTexture = 'Moment_KillEnemyUnit_TwoMorePromos.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_Moment_PromoteGovernor_AllGovernors.dds'
---where BackgroundTexture = 'Moment_PromoteGovernor_AllGovernors.dds';
+update Moments
+set BackgroundTexture = 'CHM_Moment_PromoteGovernor_AllGovernors.dds'
+where BackgroundTexture = 'Moment_PromoteGovernor_AllGovernors.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_Moment_Circumnavigation.dds'
@@ -950,9 +946,9 @@ where BackgroundTexture = 'MomentXP2_ClimateChangeAlert.dds';
 --set BackgroundTexture = 'CHM_MomentXP2_BuildingTheCanal.dds'
 --where BackgroundTexture = 'MomentXP2_BuildingTheCanal.dds';
 
---update Moments
---set BackgroundTexture = 'CHM_MomentXP2_BuildingMountainTunnel.dds'
---where BackgroundTexture = 'MomentXP2_BuildingMountainTunnel.dds';
+update Moments
+set BackgroundTexture = 'CHM_MomentXP2_BuildingMountainTunnel.dds'
+where BackgroundTexture = 'MomentXP2_BuildingMountainTunnel.dds';
 
 update Moments
 set BackgroundTexture = 'CHM_MomentXP2_ImproveNaturalDisasterYieldTile.dds'
