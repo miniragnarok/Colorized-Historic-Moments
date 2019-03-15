@@ -37,15 +37,31 @@
   <ItemGroup>
     <Content Include="LocateTextures\locatetextures.sql" />
     <Content Include="Mod.Art.xml" />
-    <Content Include="SQL\UpdateTextures.sql" />
+    <Content Include="SQL\Moment_Illustrations.sql" />
+    <Content Include="SQL\Moments.sql" />
+    <Content Include="Textures\CHM_MomentSmall_City.dds" />
+    <Content Include="Textures\CHM_MomentSmall_Combat.dds" />
+    <Content Include="Textures\CHM_MomentSmall_Culture.dds" />
+    <Content Include="Textures\CHM_MomentSmall_Diplomacy.dds" />
+    <Content Include="Textures\CHM_MomentSmall_Espionage.dds" />
+    <Content Include="Textures\CHM_MomentSmall_Exploration.dds" />
+    <Content Include="Textures\CHM_MomentSmall_GreatPerson.dds" />
+    <Content Include="Textures\CHM_MomentSmall_Military.dds" />
+    <Content Include="Textures\CHM_MomentSmall_Religion.dds" />
+    <Content Include="Textures\CHM_MomentSmall_Science.dds" />
+    <Content Include="Textures\CHM_MomentSmall_Trade.dds" />
+    <Content Include="Textures\CHM_MomentSmall_Wonder.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingMountainTunnel.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingRailroadConnecting2Cities.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingTheCanal.dds" />
     <Content Include="Textures\CHM_MomentXP2_City_Built_Near_FloodableRiver.dds" />
     <Content Include="Textures\CHM_MomentXP2_City_Built_Near_Volcano.dds" />
     <Content Include="Textures\CHM_MomentXP2_ClimateChangeAlert.dds" />
+    <Content Include="Textures\CHM_MomentXP2_CompleteCivic_Future.dds" />
     <Content Include="Textures\CHM_MomentXP2_CompleteFirstFutureEraTech.dds" />
     <Content Include="Textures\CHM_MomentXP2_EnterFutureEra.dds" />
     <Content Include="Textures\CHM_MomentXP2_Gorvernment_DigitalDemocracy.dds" />
+    <Content Include="Textures\CHM_MomentXP2_Government_CorpLibertarianism.dds" />
     <Content Include="Textures\CHM_MomentXP2_Government_SyntheticTechnocracy.dds" />
     <Content Include="Textures\CHM_MomentXP2_ImproveNaturalDisasterYieldTile.dds" />
     <Content Include="Textures\CHM_MomentXP2_Project_Founded_Exoplanet.dds" />
@@ -54,11 +70,21 @@
     <Content Include="Textures\CHM_MomentXP2_TourismBomb.dds" />
     <Content Include="Textures\CHM_MomentXP2_TrainingRenewableEnergyImprovement.dds" />
     <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
+    <Content Include="Textures\CHM_Moment_3MoreCitiesThanNextPlayer.dds" />
     <Content Include="Textures\CHM_Moment_4StarUnit.dds" />
     <Content Include="Textures\CHM_Moment_BeganInquisition.dds" />
+    <Content Include="Textures\CHM_Moment_CancelledSuzerianLeviedMilitary.dds" />
+    <Content Include="Textures\CHM_Moment_CancelledSuzerianWar.dds" />
     <Content Include="Textures\CHM_Moment_Circumnavigation.dds" />
     <Content Include="Textures\CHM_Moment_CityTransferCulturalFromFreeCity.dds" />
     <Content Include="Textures\CHM_Moment_ClearBarbMedieval6Tiles.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteCivicAtomic.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteCivicClassical.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteCivicIndustrial.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteCivicInformation.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteCivicMedieval.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteCivicModern.dds" />
+    <Content Include="Textures\CHM_Moment_CompleteCivicRenaissance.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Atomic.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Classical.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Industrial.dds" />
@@ -66,6 +92,8 @@
     <Content Include="Textures\CHM_Moment_CompleteTech_Medieval.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Modern.dds" />
     <Content Include="Textures\CHM_Moment_CompleteTech_Renaissance.dds" />
+    <Content Include="Textures\CHM_Moment_ConvertCity.dds" />
+    <Content Include="Textures\CHM_Moment_ConvertEnemyHolyCityDuringWar.dds" />
     <Content Include="Textures\CHM_Moment_CreatedSeasideResort.dds" />
     <Content Include="Textures\CHM_Moment_DiscoverContinent.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltAerodrome.dds" />
@@ -76,6 +104,7 @@
     <Content Include="Textures\CHM_Moment_DistrictBuiltHolySite.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltIndustrial.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltNeighborhood.dds" />
+    <Content Include="Textures\CHM_Moment_DistrictBuiltTheatre.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuiltWaterpark.dds" />
     <Content Include="Textures\CHM_Moment_DistrictBuilt_Commercial.dds" />
     <Content Include="Textures\CHM_Moment_EarnGreatPersonWithFaith.dds" />
@@ -95,6 +124,8 @@
     <Content Include="Textures\CHM_Moment_FirstArmy.dds" />
     <Content Include="Textures\CHM_Moment_FirstCityToReach10Pop.dds" />
     <Content Include="Textures\CHM_Moment_FirstCityToReach15Pop.dds" />
+    <Content Include="Textures\CHM_Moment_FirstCityToReach20Pop.dds" />
+    <Content Include="Textures\CHM_Moment_FirstCityToReach25Pop.dds" />
     <Content Include="Textures\CHM_Moment_FirstCorps.dds" />
     <Content Include="Textures\CHM_Moment_FirstFleet.dds" />
     <Content Include="Textures\CHM_Moment_FirstMarsComponent.dds" />
@@ -141,17 +172,34 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ArtDefs\ColorizedHistoricMoments.artdef" />
-    <None Include="ColorizedHistoricMoments.modinfo" />
+    <None Include="ColorizedHistoricMoments.modinfo">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="LocateTextures\LocateTextures.modinfo" />
     <None Include="packages.config" />
+    <None Include="Textures\CHM_MomentSmall_City.tex" />
+    <None Include="Textures\CHM_MomentSmall_Combat.tex" />
+    <None Include="Textures\CHM_MomentSmall_Culture.tex" />
+    <None Include="Textures\CHM_MomentSmall_Diplomacy.tex" />
+    <None Include="Textures\CHM_MomentSmall_Espionage.tex" />
+    <None Include="Textures\CHM_MomentSmall_Exploration.tex" />
+    <None Include="Textures\CHM_MomentSmall_GreatPerson.tex" />
+    <None Include="Textures\CHM_MomentSmall_Military.tex" />
+    <None Include="Textures\CHM_MomentSmall_Religion.tex" />
+    <None Include="Textures\CHM_MomentSmall_Science.tex" />
+    <None Include="Textures\CHM_MomentSmall_Trade.tex" />
+    <None Include="Textures\CHM_MomentSmall_Wonder.tex" />
     <None Include="Textures\CHM_MomentXP2_BuildingMountainTunnel.tex" />
     <None Include="Textures\CHM_MomentXP2_BuildingRailroadConnecting2Cities.tex" />
+    <None Include="Textures\CHM_MomentXP2_BuildingTheCanal.tex" />
     <None Include="Textures\CHM_MomentXP2_City_Built_Near_FloodableRiver.tex" />
     <None Include="Textures\CHM_MomentXP2_City_Built_Near_Volcano.tex" />
     <None Include="Textures\CHM_MomentXP2_ClimateChangeAlert.tex" />
+    <None Include="Textures\CHM_MomentXP2_CompleteCivic_Future.tex" />
     <None Include="Textures\CHM_MomentXP2_CompleteFirstFutureEraTech.tex" />
     <None Include="Textures\CHM_MomentXP2_EnterFutureEra.tex" />
     <None Include="Textures\CHM_MomentXP2_Gorvernment_DigitalDemocracy.tex" />
+    <None Include="Textures\CHM_MomentXP2_Government_CorpLibertarianism.tex" />
     <None Include="Textures\CHM_MomentXP2_Government_SyntheticTechnocracy.tex" />
     <None Include="Textures\CHM_MomentXP2_ImproveNaturalDisasterYieldTile.tex" />
     <None Include="Textures\CHM_MomentXP2_Project_Founded_Exoplanet.tex" />
@@ -160,11 +208,21 @@
     <None Include="Textures\CHM_MomentXP2_TourismBomb.tex" />
     <None Include="Textures\CHM_MomentXP2_TrainingRenewableEnergyImprovement.tex" />
     <None Include="Textures\CHM_MomentXP2_Training_Toa.tex" />
+    <None Include="Textures\CHM_Moment_3MoreCitiesThanNextPlayer.tex" />
     <None Include="Textures\CHM_Moment_4StarUnit.tex" />
     <None Include="Textures\CHM_Moment_BeganInquisition.tex" />
+    <None Include="Textures\CHM_Moment_CancelledSuzerianLeviedMilitary.tex" />
+    <None Include="Textures\CHM_Moment_CancelledSuzerianWar.tex" />
     <None Include="Textures\CHM_Moment_Circumnavigation.tex" />
     <None Include="Textures\CHM_Moment_CityTransferCulturalFromFreeCity.tex" />
     <None Include="Textures\CHM_Moment_ClearBarbMedieval6Tiles.tex" />
+    <None Include="Textures\CHM_Moment_CompleteCivicAtomic.tex" />
+    <None Include="Textures\CHM_Moment_CompleteCivicClassical.tex" />
+    <None Include="Textures\CHM_Moment_CompleteCivicIndustrial.tex" />
+    <None Include="Textures\CHM_Moment_CompleteCivicInformation.tex" />
+    <None Include="Textures\CHM_Moment_CompleteCivicMedieval.tex" />
+    <None Include="Textures\CHM_Moment_CompleteCivicModern.tex" />
+    <None Include="Textures\CHM_Moment_CompleteCivicRenaissance.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Atomic.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Classical.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Industrial.tex" />
@@ -172,6 +230,8 @@
     <None Include="Textures\CHM_Moment_CompleteTech_Medieval.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Modern.tex" />
     <None Include="Textures\CHM_Moment_CompleteTech_Renaissance.tex" />
+    <None Include="Textures\CHM_Moment_ConvertCity.tex" />
+    <None Include="Textures\CHM_Moment_ConvertEnemyHolyCityDuringWar.tex" />
     <None Include="Textures\CHM_Moment_CreatedSeasideResort.tex" />
     <None Include="Textures\CHM_Moment_DiscoverContinent.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltAerodrome.tex" />
@@ -182,6 +242,7 @@
     <None Include="Textures\CHM_Moment_DistrictBuiltHolySite.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltIndustrial.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltNeighborhood.tex" />
+    <None Include="Textures\CHM_Moment_DistrictBuiltTheatre.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuiltWaterpark.tex" />
     <None Include="Textures\CHM_Moment_DistrictBuilt_Commercial.tex" />
     <None Include="Textures\CHM_Moment_EarnGreatPersonWithFaith.tex" />
@@ -201,6 +262,8 @@
     <None Include="Textures\CHM_Moment_FirstArmy.tex" />
     <None Include="Textures\CHM_Moment_FirstCityToReach10Pop.tex" />
     <None Include="Textures\CHM_Moment_FirstCityToReach15Pop.tex" />
+    <None Include="Textures\CHM_Moment_FirstCityToReach20Pop.tex" />
+    <None Include="Textures\CHM_Moment_FirstCityToReach25Pop.tex" />
     <None Include="Textures\CHM_Moment_FirstCorps.tex" />
     <None Include="Textures\CHM_Moment_FirstFleet.tex" />
     <None Include="Textures\CHM_Moment_FirstMarsComponent.tex" />
@@ -245,7 +308,9 @@
     <None Include="Textures\CHM_Moment_Tradepost_AllCities.tex" />
     <None Include="Textures\CHM_PM_FoundedReligion.tex" />
     <None Include="TextureTemplate.tex" />
-    <None Include="XLPs\ColorizedHistoricMoments.xlp" />
+    <None Include="XLPs\ColorizedHistoricMoments.xlp">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="UnmatchedImages\" />

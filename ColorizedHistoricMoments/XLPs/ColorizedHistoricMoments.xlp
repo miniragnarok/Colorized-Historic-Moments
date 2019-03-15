@@ -10,12 +10,64 @@
   <m_PackageName text="ColorizedHistoricMoments" />
   <m_Entries>
     <Element>
+      <m_EntryID text="CHM_MomentSmall_City" />
+      <m_ObjectName text="CHM_MomentSmall_City" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_Combat" />
+      <m_ObjectName text="CHM_MomentSmall_Combat" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_Culture" />
+      <m_ObjectName text="CHM_MomentSmall_Culture" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_Diplomacy" />
+      <m_ObjectName text="CHM_MomentSmall_Diplomacy" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_Espionage" />
+      <m_ObjectName text="CHM_MomentSmall_Espionage" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_Exploration" />
+      <m_ObjectName text="CHM_MomentSmall_Exploration" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_GreatPerson" />
+      <m_ObjectName text="CHM_MomentSmall_GreatPerson" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_Military" />
+      <m_ObjectName text="CHM_MomentSmall_Military" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_Religion" />
+      <m_ObjectName text="CHM_MomentSmall_Religion" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_Science" />
+      <m_ObjectName text="CHM_MomentSmall_Science" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_Trade" />
+      <m_ObjectName text="CHM_MomentSmall_Trade" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentSmall_Wonder" />
+      <m_ObjectName text="CHM_MomentSmall_Wonder" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_MomentXP2_BuildingMountainTunnel" />
       <m_ObjectName text="CHM_MomentXP2_BuildingMountainTunnel" />
     </Element>
     <Element>
       <m_EntryID text="CHM_MomentXP2_BuildingRailroadConnecting2Cities" />
       <m_ObjectName text="CHM_MomentXP2_BuildingRailroadConnecting2Cities" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_BuildingTheCanal" />
+      <m_ObjectName text="CHM_MomentXP2_BuildingTheCanal" />
     </Element>
     <Element>
       <m_EntryID text="CHM_MomentXP2_City_Built_Near_FloodableRiver" />
@@ -30,6 +82,10 @@
       <m_ObjectName text="CHM_MomentXP2_ClimateChangeAlert" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_MomentXP2_CompleteCivic_Future" />
+      <m_ObjectName text="CHM_MomentXP2_CompleteCivic_Future" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_MomentXP2_CompleteFirstFutureEraTech" />
       <m_ObjectName text="CHM_MomentXP2_CompleteFirstFutureEraTech" />
     </Element>
@@ -40,6 +96,10 @@
     <Element>
       <m_EntryID text="CHM_MomentXP2_Gorvernment_DigitalDemocracy" />
       <m_ObjectName text="CHM_MomentXP2_Gorvernment_DigitalDemocracy" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_Government_CorpLibertarianism" />
+      <m_ObjectName text="CHM_MomentXP2_Government_CorpLibertarianism" />
     </Element>
     <Element>
       <m_EntryID text="CHM_MomentXP2_Government_SyntheticTechnocracy" />
@@ -74,12 +134,24 @@
       <m_ObjectName text="CHM_MomentXP2_Training_Toa" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_Moment_3MoreCitiesThanNextPlayer" />
+      <m_ObjectName text="CHM_Moment_3MoreCitiesThanNextPlayer" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_Moment_4StarUnit" />
       <m_ObjectName text="CHM_Moment_4StarUnit" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_BeganInquisition" />
       <m_ObjectName text="CHM_Moment_BeganInquisition" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CancelledSuzerianLeviedMilitary" />
+      <m_ObjectName text="CHM_Moment_CancelledSuzerianLeviedMilitary" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CancelledSuzerianWar" />
+      <m_ObjectName text="CHM_Moment_CancelledSuzerianWar" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_Circumnavigation" />
@@ -92,6 +164,34 @@
     <Element>
       <m_EntryID text="CHM_Moment_ClearBarbMedieval6Tiles" />
       <m_ObjectName text="CHM_Moment_ClearBarbMedieval6Tiles" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteCivicAtomic" />
+      <m_ObjectName text="CHM_Moment_CompleteCivicAtomic" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteCivicClassical" />
+      <m_ObjectName text="CHM_Moment_CompleteCivicClassical" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteCivicIndustrial" />
+      <m_ObjectName text="CHM_Moment_CompleteCivicIndustrial" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteCivicInformation" />
+      <m_ObjectName text="CHM_Moment_CompleteCivicInformation" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteCivicMedieval" />
+      <m_ObjectName text="CHM_Moment_CompleteCivicMedieval" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteCivicModern" />
+      <m_ObjectName text="CHM_Moment_CompleteCivicModern" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_CompleteCivicRenaissance" />
+      <m_ObjectName text="CHM_Moment_CompleteCivicRenaissance" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_CompleteTech_Atomic" />
@@ -120,6 +220,14 @@
     <Element>
       <m_EntryID text="CHM_Moment_CompleteTech_Renaissance" />
       <m_ObjectName text="CHM_Moment_CompleteTech_Renaissance" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_ConvertCity" />
+      <m_ObjectName text="CHM_Moment_ConvertCity" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_ConvertEnemyHolyCityDuringWar" />
+      <m_ObjectName text="CHM_Moment_ConvertEnemyHolyCityDuringWar" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_CreatedSeasideResort" />
@@ -160,6 +268,10 @@
     <Element>
       <m_EntryID text="CHM_Moment_DistrictBuiltNeighborhood" />
       <m_ObjectName text="CHM_Moment_DistrictBuiltNeighborhood" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_DistrictBuiltTheatre" />
+      <m_ObjectName text="CHM_Moment_DistrictBuiltTheatre" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_DistrictBuiltWaterpark" />
@@ -236,6 +348,14 @@
     <Element>
       <m_EntryID text="CHM_Moment_FirstCityToReach15Pop" />
       <m_ObjectName text="CHM_Moment_FirstCityToReach15Pop" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_FirstCityToReach20Pop" />
+      <m_ObjectName text="CHM_Moment_FirstCityToReach20Pop" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_FirstCityToReach25Pop" />
+      <m_ObjectName text="CHM_Moment_FirstCityToReach25Pop" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_FirstCorps" />
