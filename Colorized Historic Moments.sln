@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorizedHistoricMoments", "ColorizedHistoricMoments\ColorizedHistoricMoments.csproj", "{B19311C2-FB29-496A-808B-CE783A12FD49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocateTextures", "LocateTextures\LocateTextures.csproj", "{329DFCFB-51B8-4076-B993-500123140B34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B19311C2-FB29-496A-808B-CE783A12FD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B19311C2-FB29-496A-808B-CE783A12FD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B19311C2-FB29-496A-808B-CE783A12FD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329DFCFB-51B8-4076-B993-500123140B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329DFCFB-51B8-4076-B993-500123140B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329DFCFB-51B8-4076-B993-500123140B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329DFCFB-51B8-4076-B993-500123140B34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

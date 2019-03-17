@@ -11,6 +11,21 @@
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -35,8 +50,6 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="LocateTextures\locatetextures.sql" />
-    <Content Include="Mod.Art.xml" />
     <Content Include="SQL\Moment_Illustrations.sql" />
     <Content Include="SQL\Moments.sql" />
     <Content Include="Textures\CHM_MomentSmall_City.dds" />
@@ -202,182 +215,25 @@
     <Content Include="Textures\CHM_Moment_FirstCityToReach25Pop.dds" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ArtDefs\ColorizedHistoricMoments.artdef" />
     <None Include="ColorizedHistoricMoments.modinfo">
       <SubType>Designer</SubType>
     </None>
-    <None Include="LocateTextures\LocateTextures.modinfo" />
     <None Include="packages.config" />
-    <None Include="Textures\CHM_MomentSmall_City.tex" />
-    <None Include="Textures\CHM_MomentSmall_Combat.tex" />
-    <None Include="Textures\CHM_MomentSmall_Culture.tex" />
-    <None Include="Textures\CHM_MomentSmall_Diplomacy.tex" />
-    <None Include="Textures\CHM_MomentSmall_Espionage.tex" />
-    <None Include="Textures\CHM_MomentSmall_Exploration.tex" />
-    <None Include="Textures\CHM_MomentSmall_GreatPerson.tex" />
-    <None Include="Textures\CHM_MomentSmall_Military.tex" />
-    <None Include="Textures\CHM_MomentSmall_Religion.tex" />
-    <None Include="Textures\CHM_MomentSmall_Science.tex" />
-    <None Include="Textures\CHM_MomentSmall_Trade.tex" />
-    <None Include="Textures\CHM_MomentSmall_Wonder.tex" />
-    <None Include="Textures\CHM_MomentXP2_BuildingMountainTunnel.tex" />
-    <None Include="Textures\CHM_MomentXP2_BuildingRailroadConnecting2Cities.tex" />
-    <None Include="Textures\CHM_MomentXP2_BuildingTheCanal.tex" />
-    <None Include="Textures\CHM_MomentXP2_City_Built_Near_FloodableRiver.tex" />
-    <None Include="Textures\CHM_MomentXP2_City_Built_Near_Volcano.tex" />
-    <None Include="Textures\CHM_MomentXP2_ClimateChangeAlert.tex" />
-    <None Include="Textures\CHM_MomentXP2_CompleteCivic_Future.tex" />
-    <None Include="Textures\CHM_MomentXP2_CompleteFirstFutureEraTech.tex" />
-    <None Include="Textures\CHM_MomentXP2_EnterFutureEra.tex" />
-    <None Include="Textures\CHM_MomentXP2_FindingChocolateHills.tex" />
-    <None Include="Textures\CHM_MomentXP2_FindingDevilsTower.tex" />
-    <None Include="Textures\CHM_MomentXP2_FindingGobustan.tex" />
-    <None Include="Textures\CHM_MomentXP2_FindingIkKil.tex" />
-    <None Include="Textures\CHM_MomentXP2_FindingPamukkale.tex" />
-    <None Include="Textures\CHM_MomentXP2_FindingVesuvius.tex" />
-    <None Include="Textures\CHM_MomentXP2_FindingWhiteDesert.tex" />
-    <None Include="Textures\CHM_MomentXP2_Gorvernment_DigitalDemocracy.tex" />
-    <None Include="Textures\CHM_MomentXP2_Government_CorpLibertarianism.tex" />
-    <None Include="Textures\CHM_MomentXP2_Government_SyntheticTechnocracy.tex" />
-    <None Include="Textures\CHM_MomentXP2_ImproveNaturalDisasterYieldTile.tex" />
-    <None Include="Textures\CHM_MomentXP2_Project_Founded_Exoplanet.tex" />
-    <None Include="Textures\CHM_MomentXP2_PromoteGovernor_GrandVizier.tex" />
-    <None Include="Textures\CHM_MomentXP2_Resource_FossilFuel.tex" />
-    <None Include="Textures\CHM_MomentXP2_TourismBomb.tex" />
-    <None Include="Textures\CHM_MomentXP2_TrainingRenewableEnergyImprovement.tex" />
-    <None Include="Textures\CHM_MomentXP2_Training_Toa.tex" />
-    <None Include="Textures\CHM_Moment_3MoreCitiesThanNextPlayer.tex" />
-    <None Include="Textures\CHM_Moment_4StarUnit.tex" />
-    <None Include="Textures\CHM_Moment_BeganInquisition.tex" />
-    <None Include="Textures\CHM_Moment_CancelledSuzerianLeviedMilitary.tex" />
-    <None Include="Textures\CHM_Moment_CancelledSuzerianWar.tex" />
-    <None Include="Textures\CHM_Moment_Circumnavigation.tex" />
-    <None Include="Textures\CHM_Moment_CityTransferCulturalFromFreeCity.tex" />
-    <None Include="Textures\CHM_Moment_ClearBarbMedieval6Tiles.tex" />
-    <None Include="Textures\CHM_Moment_CompleteCivicAtomic.tex" />
-    <None Include="Textures\CHM_Moment_CompleteCivicClassical.tex" />
-    <None Include="Textures\CHM_Moment_CompleteCivicIndustrial.tex" />
-    <None Include="Textures\CHM_Moment_CompleteCivicInformation.tex" />
-    <None Include="Textures\CHM_Moment_CompleteCivicMedieval.tex" />
-    <None Include="Textures\CHM_Moment_CompleteCivicModern.tex" />
-    <None Include="Textures\CHM_Moment_CompleteCivicRenaissance.tex" />
-    <None Include="Textures\CHM_Moment_CompleteTech_Atomic.tex" />
-    <None Include="Textures\CHM_Moment_CompleteTech_Classical.tex" />
-    <None Include="Textures\CHM_Moment_CompleteTech_Industrial.tex" />
-    <None Include="Textures\CHM_Moment_CompleteTech_Information.tex" />
-    <None Include="Textures\CHM_Moment_CompleteTech_Medieval.tex" />
-    <None Include="Textures\CHM_Moment_CompleteTech_Modern.tex" />
-    <None Include="Textures\CHM_Moment_CompleteTech_Renaissance.tex" />
-    <None Include="Textures\CHM_Moment_ConvertCity.tex" />
-    <None Include="Textures\CHM_Moment_ConvertEnemyHolyCityDuringWar.tex" />
-    <None Include="Textures\CHM_Moment_CreatedSeasideResort.tex" />
-    <None Include="Textures\CHM_Moment_DiscoverContinent.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuiltAerodrome.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuiltCampus.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuiltEncampment.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuiltEntertainment.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuiltHarbor.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuiltHolySite.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuiltIndustrial.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuiltNeighborhood.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuiltTheatre.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuiltWaterpark.tex" />
-    <None Include="Textures\CHM_Moment_DistrictBuilt_Commercial.tex" />
-    <None Include="Textures\CHM_Moment_EarnGreatPersonWithFaith.tex" />
-    <None Include="Textures\CHM_Moment_EarnGreatPersonWithGold.tex" />
-    <None Include="Textures\CHM_Moment_EliminatedCiv.tex" />
-    <None Include="Textures\CHM_Moment_EraEntry_Ancient.tex" />
-    <None Include="Textures\CHM_Moment_EraEntry_Atomic.tex" />
-    <None Include="Textures\CHM_Moment_EraEntry_Classical.tex" />
-    <None Include="Textures\CHM_Moment_EraEntry_Industrial.tex" />
-    <None Include="Textures\CHM_Moment_EraEntry_Information.tex" />
-    <None Include="Textures\CHM_Moment_EraEntry_Medieval.tex" />
-    <None Include="Textures\CHM_Moment_EraEntry_Modern.tex" />
-    <None Include="Textures\CHM_Moment_EraEntry_Renaissance.tex" />
-    <None Include="Textures\CHM_Moment_FirstAirUnitEarlyGame.tex" />
-    <None Include="Textures\CHM_Moment_FirstAirUnitLateGame.tex" />
-    <None Include="Textures\CHM_Moment_FirstArmada.tex" />
-    <None Include="Textures\CHM_Moment_FirstArmy.tex" />
-    <None Include="Textures\CHM_Moment_FirstCityToReach10Pop.tex" />
-    <None Include="Textures\CHM_Moment_FirstCityToReach15Pop.tex" />
-    <None Include="Textures\CHM_Moment_FirstCityToReach20Pop.tex" />
-    <None Include="Textures\CHM_Moment_FirstCityToReach25Pop.tex" />
-    <None Include="Textures\CHM_Moment_FirstCorps.tex" />
-    <None Include="Textures\CHM_Moment_FirstFleet.tex" />
-    <None Include="Textures\CHM_Moment_FirstMarsComponent.tex" />
-    <None Include="Textures\CHM_Moment_FirstSeaUnitEarly.tex" />
-    <None Include="Textures\CHM_Moment_FirstSeaUnitMid.tex" />
-    <None Include="Textures\CHM_Moment_FirstSuzerain.tex" />
-    <None Include="Textures\CHM_Moment_FoundedPantheon.tex" />
-    <None Include="Textures\CHM_Moment_Government_Autocracy.tex" />
-    <None Include="Textures\CHM_Moment_Government_ClassicalRepublic.tex" />
-    <None Include="Textures\CHM_Moment_Government_Communism.tex" />
-    <None Include="Textures\CHM_Moment_Government_Democracy.tex" />
-    <None Include="Textures\CHM_Moment_Government_Fascism.tex" />
-    <None Include="Textures\CHM_Moment_Government_Merchant.tex" />
-    <None Include="Textures\CHM_Moment_Government_Monarchy.tex" />
-    <None Include="Textures\CHM_Moment_Government_Oligarchy.tex" />
-    <None Include="Textures\CHM_Moment_Government_Theocracy.tex" />
-    <None Include="Textures\CHM_Moment_JoinEmergency.tex" />
-    <None Include="Textures\CHM_Moment_KillEnemyUnit_AdmiralNearby.tex" />
-    <None Include="Textures\CHM_Moment_KillEnemyUnit_HigherFormation.tex" />
-    <None Include="Textures\CHM_Moment_KillEnemyUnit_TwoMorePromos.tex" />
-    <None Include="Textures\CHM_Moment_KillEnemy_GreatGeneralNearby.tex" />
-    <None Include="Textures\CHM_Moment_LaunchedSatellite.tex" />
-    <None Include="Textures\CHM_Moment_LevyMilitaryNearEnemy.tex" />
-    <None Include="Textures\CHM_Moment_MaxReligionBeliefs.tex" />
-    <None Include="Textures\CHM_Moment_MetAllCivs.tex" />
-    <None Include="Textures\CHM_Moment_MetCivPlayer.tex" />
-    <None Include="Textures\CHM_Moment_MoonLanding.tex" />
-    <None Include="Textures\CHM_Moment_NationalPark.tex" />
-    <None Include="Textures\CHM_Moment_Naturalwonder_BarrierReef.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_CliffsOfDover.tex" />
-    <None Include="Textures\CHM_Moment_Naturalwonder_CraterLake.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_DeadSea.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_DelicateArch.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Everest.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_EyeoftheSahara.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Eyjafjallajokull.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Galapagos.tex" />
-    <None Include="Textures\CHM_Moment_Naturalwonder_GiantsCauseway.tex" />
-    <None Include="Textures\CHM_Moment_Naturalwonder_HaLongBay.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Kilimanjaro.tex" />
-    <None Include="Textures\CHM_Moment_Naturalwonder_Lyseford.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Matterhorn.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Pantanal.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Piopiotahi.tex" />
-    <None Include="Textures\CHM_Moment_Naturalwonder_Retba.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Roraima.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Torres.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Tsingy.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Ubsunur.tex" />
-    <None Include="Textures\CHM_Moment_Naturalwonder_Uluru.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Yosemite.tex" />
-    <None Include="Textures\CHM_Moment_NaturalWonder_Zhangye.tex" />
-    <None Include="Textures\CHM_Moment_NewContinentCity.tex" />
-    <None Include="Textures\CHM_Moment_PromoteGovernor_AllGovernors.tex" />
-    <None Include="Textures\CHM_Moment_PromoteGovernor_Ambassador.tex" />
-    <None Include="Textures\CHM_Moment_PromoteGovernor_Builder.tex" />
-    <None Include="Textures\CHM_Moment_PromoteGovernor_Cardinal.tex" />
-    <None Include="Textures\CHM_Moment_PromoteGovernor_Defender.tex" />
-    <None Include="Textures\CHM_Moment_PromoteGovernor_Educator.tex" />
-    <None Include="Textures\CHM_Moment_PromoteGovernor_Merchant.tex" />
-    <None Include="Textures\CHM_Moment_PromoteGovernor_ResourceManager.tex" />
-    <None Include="Textures\CHM_Moment_ShipwreckExcavated.tex" />
-    <None Include="Textures\CHM_Moment_SpyPromoted.tex" />
-    <None Include="Textures\CHM_Moment_StrategicResourceUnit.tex" />
-    <None Include="Textures\CHM_Moment_TradePostNewCiv.tex" />
-    <None Include="Textures\CHM_Moment_Tradepost_AllCities.tex" />
-    <None Include="Textures\CHM_PM_FoundedReligion.tex" />
-    <None Include="TextureTemplate.tex" />
-    <None Include="XLPs\ColorizedHistoricMoments.xlp">
-      <SubType>Designer</SubType>
-    </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="UnmatchedImages\" />
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CopyDirectory.cs" />
     <Compile Include="Program.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -11,65 +11,24 @@ namespace ColorizedHistoricMoments
 {
     class Program
     {
+        private static readonly string modName = "ColorizedHistoricMoments";
         private static readonly string currentDirectory = Path.Combine(Directory.GetCurrentDirectory(), @"..\..\");
-        private static readonly string colorizedHistoricMomentsXlp = "ColorizedHistoricMoments.xlp";
         private static readonly string finishedImagesFolder = Path.Combine(currentDirectory, "Textures");
         private static readonly string colorizedHistoricMomentsModInfo = "ColorizedHistoricMoments.modinfo";
-        private static readonly string textureTemplateFileName = "TextureTemplate.tex";
         private static readonly string imageFileNamePrepend = "CHM_";
         private static readonly string imageFileExtension = ".dds";
-        private static readonly string textureFileExtension = ".tex";
+        private static readonly string civ6ModFolderPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), Path.Combine(@"my games\Sid Meier's Civilization VI\Mods", modName));
+        private static List<string> fileDirectories = new List<string>
+            {
+                "SQL",
+                "Textures"
+            };
 
-        static void Main()
+    static void Main()
         {
-            RenameImageAndTextureFiles();
-            CreateTextureFiles();
-            TransformXlp();
+            RenameImageFiles();
             TransformModInfo();
-        }
-
-        private static void TransformXlp()
-        {
-            var xlpFilepath = Path.Combine(currentDirectory, "XLPs", colorizedHistoricMomentsXlp);
-
-            var xlp = XElement.Load(xlpFilepath);
-            var entries = xlp.Descendants("m_Entries").SingleOrDefault();
-            entries.Elements().Remove();
-
-            var imageNames = GetFinishedImageNames();
-            foreach(var image in imageNames)
-            {
-                var newElement = new XElement("Element");
-
-                newElement.Add(new XElement(
-                    "m_EntryID",
-                    new XAttribute("text", image)
-                ));
-
-                newElement.Add(new XElement(
-                    "m_ObjectName",
-                    new XAttribute("text", image)
-                ));
-
-                entries.Add(newElement);
-            }
-
-            xlp.Save(xlpFilepath);
-        }
-
-        private static List<string> GetFinishedImageNames()
-        {
-            var imageNames = new List<string>();
-            foreach(var file in Directory.EnumerateFiles(finishedImagesFolder, "*" + imageFileExtension))
-            {
-                var fileName = Path.GetFileNameWithoutExtension(file);
-                if (!string.IsNullOrWhiteSpace(fileName))
-                {
-                    imageNames.Add(fileName);
-                }
-            }
-
-            return imageNames;
+            PublishFinishedMod();
         }
 
         private static void TransformModInfo()
@@ -77,19 +36,18 @@ namespace ColorizedHistoricMoments
             var xlpFilepath = Path.Combine(currentDirectory, colorizedHistoricMomentsModInfo);
 
             var xlp = XElement.Load(xlpFilepath);
+
+            var chmTextures = xlp.Descendants("InGameActions")
+                .SingleOrDefault()
+                .Descendants("ImportFiles")
+                .Where(m => m.Attribute("id").Value == "CHM_Textures")
+                .SingleOrDefault();
+            chmTextures.Descendants("File").Remove();
+
             var entries = xlp.Descendants("Files").SingleOrDefault();
-            entries.Elements()
-                .Where(m => !m.Value.EndsWith(".dep")
-                    && !m.Value.EndsWith(".blp")
-                ).Remove();
+            entries.Elements().Remove();
 
             var pathDelimiter = '/';
-            var fileDirectories = new List<string>
-            {
-                "ArtDefs",
-                "SQL",
-                "XLPs"
-            };
 
             foreach (var directoryName in fileDirectories)
             {
@@ -97,6 +55,7 @@ namespace ColorizedHistoricMoments
                 {
                     var fileElement = new XElement("File");
                     fileElement.Add(directoryName + pathDelimiter + Path.GetFileName(file));
+                    chmTextures.Add(fileElement);
                     entries.Add(fileElement);
                 }
             }
@@ -104,7 +63,7 @@ namespace ColorizedHistoricMoments
             xlp.Save(xlpFilepath);
         }
 
-        private static void RenameImageAndTextureFiles()
+        private static void RenameImageFiles()
         {
             foreach (var file in Directory.EnumerateFiles(finishedImagesFolder, "*" + imageFileExtension))
             {
@@ -119,44 +78,22 @@ namespace ColorizedHistoricMoments
 
                     newFileName = imageFileNamePrepend + newFileName;
                     File.Move(Path.Combine(finishedImagesFolder, currentFileName + imageFileExtension), Path.Combine(finishedImagesFolder, newFileName + imageFileExtension));
-
-                    if (File.Exists(Path.Combine(finishedImagesFolder, currentFileName + textureFileExtension)))
-                    {
-                        File.Move(Path.Combine(finishedImagesFolder, currentFileName + textureFileExtension), Path.Combine(finishedImagesFolder, newFileName + textureFileExtension));
-                    }
                 }
             }
         }
 
-        private static void CreateTextureFiles()
+        private static void PublishFinishedMod()
         {
-            foreach (var file in Directory.EnumerateFiles(finishedImagesFolder, "*" + imageFileExtension))
+            var modInfoSource = Path.Combine(currentDirectory, colorizedHistoricMomentsModInfo);
+            var modInfoDestination = Path.Combine(civ6ModFolderPath, colorizedHistoricMomentsModInfo);
+
+            File.Copy(modInfoSource, modInfoDestination);
+
+            foreach (var directoryName in fileDirectories)
             {
-                var textureFileName = Path.GetFileNameWithoutExtension(file) + textureFileExtension;
-                if(!File.Exists(Path.Combine(finishedImagesFolder, textureFileName)))
-                {
-                    var templateFilePath = Path.Combine(currentDirectory, textureTemplateFileName);
-                    var template = XElement.Load(templateFilePath);
-
-                    var sourceFilePathTextAttribute = template.Descendants("m_SourceFilePath")
-                        .SingleOrDefault()
-                        .Attribute("text");
-                    sourceFilePathTextAttribute.Value = sourceFilePathTextAttribute.Value + Path.GetFileName(file);
-
-                    var dataFilesRelativePathTextAttribute = template.Descendants("m_DataFiles")
-                        .SingleOrDefault()
-                        .Descendants("m_RelativePath")
-                        .SingleOrDefault()
-                        .Attribute("text");
-                    dataFilesRelativePathTextAttribute.Value = Path.GetFileName(file);
-
-                    var nameTextAttribute = template.Descendants("m_Name")
-                        .SingleOrDefault()
-                        .Attribute("text");
-                    nameTextAttribute.Value = Path.GetFileNameWithoutExtension(file);
-
-                    template.Save(Path.Combine(finishedImagesFolder, textureFileName));
-                }
+                var source = Path.Combine(currentDirectory, directoryName);
+                var destination = Path.Combine(civ6ModFolderPath, directoryName);
+                CopyDirectory.Copy(source, destination);
             }
         }
     }

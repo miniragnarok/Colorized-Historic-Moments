@@ -272,49 +272,49 @@ set BackgroundTexture = 'CHM_MomentXP2_TourismBomb.dds'
 where BackgroundTexture = 'MomentXP2_TourismBomb.dds';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_City'
+set IconTexture = 'CHM_MomentSmall_City.dds'
 where IconTexture = 'MomentSmall_City';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_Combat'
+set IconTexture = 'CHM_MomentSmall_Combat.dds'
 where IconTexture = 'MomentSmall_Combat';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_Culture'
+set IconTexture = 'CHM_MomentSmall_Culture.dds'
 where IconTexture = 'MomentSmall_Culture';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_Diplomacy'
+set IconTexture = 'CHM_MomentSmall_Diplomacy.dds'
 where IconTexture = 'MomentSmall_Diplomacy';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_Espionage'
+set IconTexture = 'CHM_MomentSmall_Espionage.dds'
 where IconTexture = 'MomentSmall_Espionage';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_Exploration'
+set IconTexture = 'CHM_MomentSmall_Exploration.dds'
 where IconTexture = 'MomentSmall_Exploration';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_GreatPerson'
+set IconTexture = 'CHM_MomentSmall_GreatPerson.dds'
 where IconTexture = 'MomentSmall_GreatPerson';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_Military'
+set IconTexture = 'CHM_MomentSmall_Military.dds'
 where IconTexture = 'MomentSmall_Military';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_Religion'
+set IconTexture = 'CHM_MomentSmall_Religion.dds'
 where IconTexture = 'MomentSmall_Religion';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_Science'
+set IconTexture = 'CHM_MomentSmall_Science.dds'
 where IconTexture = 'MomentSmall_Science';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_Trade'
+set IconTexture = 'CHM_MomentSmall_Trade.dds'
 where IconTexture = 'MomentSmall_Trade';
 
 update Moments 
-set IconTexture = 'CHM_MomentSmall_Wonder'
+set IconTexture = 'CHM_MomentSmall_Wonder.dds'
 where IconTexture = 'MomentSmall_Wonder';
