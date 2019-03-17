@@ -31,129 +31,129 @@ update MomentIllustrations
 set Texture = 'CHM_MomentXP2_PromoteGovernor_GrandVizier.dds'
 where Texture = 'MomentXP2_PromoteGovernor_GrandVizier.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_BarrierReef.dds'
---where Texture = 'Moment_Naturalwonder_BarrierReef.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Naturalwonder_BarrierReef.dds'
+where Texture = 'Moment_Naturalwonder_BarrierReef.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_CliffsOfDover.dds'
---where Texture = 'Moment_NaturalWonder_CliffsOfDover.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_CliffsOfDover.dds'
+where Texture = 'Moment_NaturalWonder_CliffsOfDover.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_CraterLake.dds'
---where Texture = 'Moment_Naturalwonder_CraterLake.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Naturalwonder_CraterLake.dds'
+where Texture = 'Moment_Naturalwonder_CraterLake.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_DeadSea.dds'
---where Texture = 'Moment_NaturalWonder_DeadSea.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_DeadSea.dds'
+where Texture = 'Moment_NaturalWonder_DeadSea.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Everest.dds'
---where Texture = 'Moment_NaturalWonder_Everest.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Everest.dds'
+where Texture = 'Moment_NaturalWonder_Everest.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Galapagos.dds'
---where Texture = 'Moment_NaturalWonder_Galapagos.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Galapagos.dds'
+where Texture = 'Moment_NaturalWonder_Galapagos.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Kilimanjaro.dds'
---where Texture = 'Moment_NaturalWonder_Kilimanjaro.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Kilimanjaro.dds'
+where Texture = 'Moment_NaturalWonder_Kilimanjaro.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Pantanal.dds'
---where Texture = 'Moment_NaturalWonder_Pantanal.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Pantanal.dds'
+where Texture = 'Moment_NaturalWonder_Pantanal.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Piopiotahi.dds'
---where Texture = 'Moment_NaturalWonder_Piopiotahi.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Piopiotahi.dds'
+where Texture = 'Moment_NaturalWonder_Piopiotahi.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Torres.dds'
---where Texture = 'Moment_NaturalWonder_Torres.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Torres.dds'
+where Texture = 'Moment_NaturalWonder_Torres.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Tsingy.dds'
---where Texture = 'Moment_NaturalWonder_Tsingy.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Tsingy.dds'
+where Texture = 'Moment_NaturalWonder_Tsingy.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Yosemite.dds'
---where Texture = 'Moment_NaturalWonder_Yosemite.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Yosemite.dds'
+where Texture = 'Moment_NaturalWonder_Yosemite.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Ubsunur.dds'
---where Texture = 'Moment_NaturalWonder_Ubsunur.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Ubsunur.dds'
+where Texture = 'Moment_NaturalWonder_Ubsunur.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Zhangye.dds'
---where Texture = 'Moment_NaturalWonder_Zhangye.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Zhangye.dds'
+where Texture = 'Moment_NaturalWonder_Zhangye.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Roraima.dds'
---where Texture = 'Moment_NaturalWonder_Roraima.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Roraima.dds'
+where Texture = 'Moment_NaturalWonder_Roraima.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Matterhorn.dds'
---where Texture = 'Moment_NaturalWonder_Matterhorn.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Matterhorn.dds'
+where Texture = 'Moment_NaturalWonder_Matterhorn.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_Retba.dds'
---where Texture = 'Moment_Naturalwonder_Retba.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Naturalwonder_Retba.dds'
+where Texture = 'Moment_Naturalwonder_Retba.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_EyeoftheSahara.dds'
---where Texture = 'Moment_NaturalWonder_EyeoftheSahara.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_EyeoftheSahara.dds'
+where Texture = 'Moment_NaturalWonder_EyeoftheSahara.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_DelicateArch.dds'
---where Texture = 'Moment_NaturalWonder_DelicateArch.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_DelicateArch.dds'
+where Texture = 'Moment_NaturalWonder_DelicateArch.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_Lyseford.dds'
---where Texture = 'Moment_Naturalwonder_Lyseford.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Naturalwonder_Lyseford.dds'
+where Texture = 'Moment_Naturalwonder_Lyseford.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_GiantsCauseway.dds'
---where Texture = 'Moment_Naturalwonder_GiantsCauseway.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Naturalwonder_GiantsCauseway.dds'
+where Texture = 'Moment_Naturalwonder_GiantsCauseway.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_NaturalWonder_Eyjafjallajokull.dds'
---where Texture = 'Moment_NaturalWonder_Eyjafjallajokull.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_NaturalWonder_Eyjafjallajokull.dds'
+where Texture = 'Moment_NaturalWonder_Eyjafjallajokull.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_HaLongBay.dds'
---where Texture = 'Moment_Naturalwonder_HaLongBay.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Naturalwonder_HaLongBay.dds'
+where Texture = 'Moment_Naturalwonder_HaLongBay.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Naturalwonder_Uluru.dds'
---where Texture = 'Moment_Naturalwonder_Uluru.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Naturalwonder_Uluru.dds'
+where Texture = 'Moment_Naturalwonder_Uluru.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingChocolateHills.dds'
---where Texture = 'MomentXP2_FindingChocolateHills.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_FindingChocolateHills.dds'
+where Texture = 'MomentXP2_FindingChocolateHills.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingDevilsTower.dds'
---where Texture = 'MomentXP2_FindingDevilsTower.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_FindingDevilsTower.dds'
+where Texture = 'MomentXP2_FindingDevilsTower.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingGobustan.dds'
---where Texture = 'MomentXP2_FindingGobustan.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_FindingGobustan.dds'
+where Texture = 'MomentXP2_FindingGobustan.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingIkKil.dds'
---where Texture = 'MomentXP2_FindingIkKil.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_FindingIkKil.dds'
+where Texture = 'MomentXP2_FindingIkKil.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingPamukkale.dds'
---where Texture = 'MomentXP2_FindingPamukkale.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_FindingPamukkale.dds'
+where Texture = 'MomentXP2_FindingPamukkale.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingVesuvius.dds'
---where Texture = 'MomentXP2_FindingVesuvius.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_FindingVesuvius.dds'
+where Texture = 'MomentXP2_FindingVesuvius.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_FindingWhiteDesert.dds'
---where Texture = 'MomentXP2_FindingWhiteDesert.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_FindingWhiteDesert.dds'
+where Texture = 'MomentXP2_FindingWhiteDesert.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_CompleteTech_Information.dds'

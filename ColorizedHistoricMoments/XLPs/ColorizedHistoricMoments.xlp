@@ -94,6 +94,34 @@
       <m_ObjectName text="CHM_MomentXP2_EnterFutureEra" />
     </Element>
     <Element>
+      <m_EntryID text="CHM_MomentXP2_FindingChocolateHills" />
+      <m_ObjectName text="CHM_MomentXP2_FindingChocolateHills" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_FindingDevilsTower" />
+      <m_ObjectName text="CHM_MomentXP2_FindingDevilsTower" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_FindingGobustan" />
+      <m_ObjectName text="CHM_MomentXP2_FindingGobustan" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_FindingIkKil" />
+      <m_ObjectName text="CHM_MomentXP2_FindingIkKil" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_FindingPamukkale" />
+      <m_ObjectName text="CHM_MomentXP2_FindingPamukkale" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_FindingVesuvius" />
+      <m_ObjectName text="CHM_MomentXP2_FindingVesuvius" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_MomentXP2_FindingWhiteDesert" />
+      <m_ObjectName text="CHM_MomentXP2_FindingWhiteDesert" />
+    </Element>
+    <Element>
       <m_EntryID text="CHM_MomentXP2_Gorvernment_DigitalDemocracy" />
       <m_ObjectName text="CHM_MomentXP2_Gorvernment_DigitalDemocracy" />
     </Element>
@@ -468,6 +496,102 @@
     <Element>
       <m_EntryID text="CHM_Moment_NationalPark" />
       <m_ObjectName text="CHM_Moment_NationalPark" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Naturalwonder_BarrierReef" />
+      <m_ObjectName text="CHM_Moment_Naturalwonder_BarrierReef" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_CliffsOfDover" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_CliffsOfDover" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Naturalwonder_CraterLake" />
+      <m_ObjectName text="CHM_Moment_Naturalwonder_CraterLake" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_DeadSea" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_DeadSea" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_DelicateArch" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_DelicateArch" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Everest" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Everest" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_EyeoftheSahara" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_EyeoftheSahara" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Eyjafjallajokull" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Eyjafjallajokull" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Galapagos" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Galapagos" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Naturalwonder_GiantsCauseway" />
+      <m_ObjectName text="CHM_Moment_Naturalwonder_GiantsCauseway" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Naturalwonder_HaLongBay" />
+      <m_ObjectName text="CHM_Moment_Naturalwonder_HaLongBay" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Kilimanjaro" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Kilimanjaro" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Naturalwonder_Lyseford" />
+      <m_ObjectName text="CHM_Moment_Naturalwonder_Lyseford" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Matterhorn" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Matterhorn" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Pantanal" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Pantanal" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Piopiotahi" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Piopiotahi" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Naturalwonder_Retba" />
+      <m_ObjectName text="CHM_Moment_Naturalwonder_Retba" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Roraima" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Roraima" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Torres" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Torres" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Tsingy" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Tsingy" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Ubsunur" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Ubsunur" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_Naturalwonder_Uluru" />
+      <m_ObjectName text="CHM_Moment_Naturalwonder_Uluru" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Yosemite" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Yosemite" />
+    </Element>
+    <Element>
+      <m_EntryID text="CHM_Moment_NaturalWonder_Zhangye" />
+      <m_ObjectName text="CHM_Moment_NaturalWonder_Zhangye" />
     </Element>
     <Element>
       <m_EntryID text="CHM_Moment_NewContinentCity" />
