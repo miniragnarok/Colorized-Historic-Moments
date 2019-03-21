@@ -61,6 +61,7 @@
       <File>Textures/CHM_MomentXP2_PromoteGovernor_GrandVizier.dds</File>
       <File>Textures/CHM_MomentXP2_Resource_FossilFuel.dds</File>
       <File>Textures/CHM_MomentXP2_TourismBomb.dds</File>
+      <File>Textures/CHM_MomentXP2_TrainingBireme.dds</File>
       <File>Textures/CHM_MomentXP2_TrainingRenewableEnergyImprovement.dds</File>
       <File>Textures/CHM_MomentXP2_Training_Toa.dds</File>
       <File>Textures/CHM_Moment_3MoreCitiesThanNextPlayer.dds</File>
@@ -185,6 +186,13 @@
       <File>Textures/CHM_Moment_StrategicResourceUnit.dds</File>
       <File>Textures/CHM_Moment_TradePostNewCiv.dds</File>
       <File>Textures/CHM_Moment_Tradepost_AllCities.dds</File>
+      <File>Textures/CHM_Moment_UniqueUnit_Aztec.dds</File>
+      <File>Textures/CHM_Moment_UniqueUnit_Cree.dds</File>
+      <File>Textures/CHM_Moment_UniqueUnit_Egypt.dds</File>
+      <File>Textures/CHM_Moment_UniqueUnit_Greece.dds</File>
+      <File>Textures/CHM_Moment_UniqueUnit_Norway_Longship.dds</File>
+      <File>Textures/CHM_Moment_UniqueUnit_Nubia.dds</File>
+      <File>Textures/CHM_Moment_UniqueUnit_Sumerian.dds</File>
       <File>Textures/CHM_PM_FoundedReligion.dds</File>
     </ImportFiles>
   </InGameActions>
@@ -227,6 +235,7 @@
     <File>Textures/CHM_MomentXP2_PromoteGovernor_GrandVizier.dds</File>
     <File>Textures/CHM_MomentXP2_Resource_FossilFuel.dds</File>
     <File>Textures/CHM_MomentXP2_TourismBomb.dds</File>
+    <File>Textures/CHM_MomentXP2_TrainingBireme.dds</File>
     <File>Textures/CHM_MomentXP2_TrainingRenewableEnergyImprovement.dds</File>
     <File>Textures/CHM_MomentXP2_Training_Toa.dds</File>
     <File>Textures/CHM_Moment_3MoreCitiesThanNextPlayer.dds</File>
@@ -351,6 +360,13 @@
     <File>Textures/CHM_Moment_StrategicResourceUnit.dds</File>
     <File>Textures/CHM_Moment_TradePostNewCiv.dds</File>
     <File>Textures/CHM_Moment_Tradepost_AllCities.dds</File>
+    <File>Textures/CHM_Moment_UniqueUnit_Aztec.dds</File>
+    <File>Textures/CHM_Moment_UniqueUnit_Cree.dds</File>
+    <File>Textures/CHM_Moment_UniqueUnit_Egypt.dds</File>
+    <File>Textures/CHM_Moment_UniqueUnit_Greece.dds</File>
+    <File>Textures/CHM_Moment_UniqueUnit_Norway_Longship.dds</File>
+    <File>Textures/CHM_Moment_UniqueUnit_Nubia.dds</File>
+    <File>Textures/CHM_Moment_UniqueUnit_Sumerian.dds</File>
     <File>Textures/CHM_PM_FoundedReligion.dds</File>
   </Files>
 </Mod>

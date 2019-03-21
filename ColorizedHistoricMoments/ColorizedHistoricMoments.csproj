@@ -88,6 +88,7 @@
     <Content Include="Textures\CHM_MomentXP2_PromoteGovernor_GrandVizier.dds" />
     <Content Include="Textures\CHM_MomentXP2_Resource_FossilFuel.dds" />
     <Content Include="Textures\CHM_MomentXP2_TourismBomb.dds" />
+    <Content Include="Textures\CHM_MomentXP2_TrainingBireme.dds" />
     <Content Include="Textures\CHM_MomentXP2_TrainingRenewableEnergyImprovement.dds" />
     <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
     <Content Include="Textures\CHM_Moment_3MoreCitiesThanNextPlayer.dds" />
@@ -172,7 +173,6 @@
     <Content Include="Textures\CHM_Moment_NaturalWonder_CliffsOfDover.dds" />
     <Content Include="Textures\CHM_Moment_Naturalwonder_CraterLake.dds" />
     <Content Include="Textures\CHM_Moment_NaturalWonder_DeadSea.dds" />
-    <Content Include="Textures\CHM_Moment_NaturalWonder_DelicateArch.dds" />
     <Content Include="Textures\CHM_Moment_NaturalWonder_Everest.dds" />
     <Content Include="Textures\CHM_Moment_NaturalWonder_EyeoftheSahara.dds" />
     <Content Include="Textures\CHM_Moment_NaturalWonder_Eyjafjallajokull.dds" />
@@ -206,6 +206,13 @@
     <Content Include="Textures\CHM_Moment_StrategicResourceUnit.dds" />
     <Content Include="Textures\CHM_Moment_TradePostNewCiv.dds" />
     <Content Include="Textures\CHM_Moment_Tradepost_AllCities.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Aztec.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Cree.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Egypt.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Greece.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Norway_Longship.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Nubia.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Sumerian.dds" />
     <Content Include="Textures\CHM_PM_FoundedReligion.dds" />
     <Content Include="Textures\CHM_Moment_FirstCorps.dds" />
     <Content Include="Textures\CHM_Moment_4StarUnit.dds" />
@@ -213,6 +220,7 @@
     <Content Include="Textures\CHM_Moment_FirstCityToReach10Pop.dds" />
     <Content Include="Textures\CHM_Moment_FirstCityToReach20Pop.dds" />
     <Content Include="Textures\CHM_Moment_FirstCityToReach25Pop.dds" />
+    <Content Include="Textures\CHM_Moment_NaturalWonder_DelicateArch.dds" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ColorizedHistoricMoments.modinfo">

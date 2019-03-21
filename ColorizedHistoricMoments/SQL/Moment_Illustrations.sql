@@ -427,9 +427,9 @@ where Texture = 'Moment_FirstSeaUnitMid.dds';
 --set Texture = 'CHM_Moment_UniqueUnit_Arab.dds'
 --where Texture = 'Moment_UniqueUnit_Arab.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Aztec.dds'
---where Texture = 'Moment_UniqueUnit_Aztec.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Aztec.dds'
+where Texture = 'Moment_UniqueUnit_Aztec.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Brazil.dds'
@@ -439,9 +439,9 @@ where Texture = 'Moment_FirstSeaUnitMid.dds';
 --set Texture = 'CHM_Moment_UniqueUnit_China.dds'
 --where Texture = 'Moment_UniqueUnit_China.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Cree.dds'
---where Texture = 'Moment_UniqueUnit_Cree.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Cree.dds'
+where Texture = 'Moment_UniqueUnit_Cree.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Netherlands.dds'
@@ -451,9 +451,9 @@ where Texture = 'Moment_FirstSeaUnitMid.dds';
 --set Texture = 'CHM_Moment_UniqueUnit_Australia.dds'
 --where Texture = 'Moment_UniqueUnit_Australia.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Egypt.dds'
---where Texture = 'Moment_UniqueUnit_Egypt.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Egypt.dds'
+where Texture = 'Moment_UniqueUnit_Egypt.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_England_Redcoats.dds'
@@ -475,9 +475,9 @@ where Texture = 'Moment_FirstSeaUnitMid.dds';
 --set Texture = 'CHM_Moment_UniqueUnit_Germany_UBoat.dds'
 --where Texture = 'Moment_UniqueUnit_Germany_UBoat.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Greece.dds'
---where Texture = 'Moment_UniqueUnit_Greece.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Greece.dds'
+where Texture = 'Moment_UniqueUnit_Greece.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_India.dds'
@@ -523,13 +523,13 @@ where Texture = 'Moment_FirstSeaUnitMid.dds';
 --set Texture = 'CHM_Moment_UniqueUnit_Norway_Berserker.dds'
 --where Texture = 'Moment_UniqueUnit_Norway_Berserker.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Norway_Longship.dds'
---where Texture = 'Moment_UniqueUnit_Norway_Longship.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Norway_Longship.dds'
+where Texture = 'Moment_UniqueUnit_Norway_Longship.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Nubia.dds'
---where Texture = 'Moment_UniqueUnit_Nubia.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Nubia.dds'
+where Texture = 'Moment_UniqueUnit_Nubia.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Persia.dds'
@@ -559,9 +559,9 @@ where Texture = 'Moment_FirstSeaUnitMid.dds';
 --set Texture = 'CHM_Moment_UniqueUnit_Spain.dds'
 --where Texture = 'Moment_UniqueUnit_Spain.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Sumerian.dds'
---where Texture = 'Moment_UniqueUnit_Sumerian.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Sumerian.dds'
+where Texture = 'Moment_UniqueUnit_Sumerian.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Zulu.dds'
@@ -603,9 +603,9 @@ update MomentIllustrations
 set Texture = 'CHM_MomentXP2_Training_Toa.dds'
 where Texture = 'MomentXP2_Training_Toa.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_TrainingBireme.dds'
---where Texture = 'MomentXP2_TrainingBireme.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_TrainingBireme.dds'
+where Texture = 'MomentXP2_TrainingBireme.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_Government_Autocracy.dds'
