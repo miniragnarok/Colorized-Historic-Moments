@@ -479,9 +479,9 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_UniqueUnit_Greece.dds'
 where Texture = 'Moment_UniqueUnit_Greece.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_India.dds'
---where Texture = 'Moment_UniqueUnit_India.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_India.dds'
+where Texture = 'Moment_UniqueUnit_India.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Indonesia.dds'
@@ -495,21 +495,21 @@ where Texture = 'Moment_UniqueUnit_Greece.dds';
 --set Texture = 'CHM_Moment_UniqueUnit_Khmer.dds'
 --where Texture = 'Moment_UniqueUnit_Khmer.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Konga.dds'
---where Texture = 'Moment_UniqueUnit_Konga.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Konga.dds'
+where Texture = 'Moment_UniqueUnit_Konga.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Korea.dds'
 --where Texture = 'Moment_UniqueUnit_Korea.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Macedon_Hetairoi.dds'
---where Texture = 'Moment_UniqueUnit_Macedon_Hetairoi.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Macedon_Hetairoi.dds'
+where Texture = 'Moment_UniqueUnit_Macedon_Hetairoi.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Macedon_Hypaspist.dds'
---where Texture = 'Moment_UniqueUnit_Macedon_Hypaspist.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Macedon_Hypaspist.dds'
+where Texture = 'Moment_UniqueUnit_Macedon_Hypaspist.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Mapuche.dds'
@@ -531,17 +531,17 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_UniqueUnit_Nubia.dds'
 where Texture = 'Moment_UniqueUnit_Nubia.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Persia.dds'
---where Texture = 'Moment_UniqueUnit_Persia.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Persia.dds'
+where Texture = 'Moment_UniqueUnit_Persia.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Poland.dds'
 --where Texture = 'Moment_UniqueUnit_Poland.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Rome.dds'
---where Texture = 'Moment_UniqueUnit_Rome.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Rome.dds'
+where Texture = 'Moment_UniqueUnit_Rome.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Russia.dds'
@@ -551,9 +551,9 @@ where Texture = 'Moment_UniqueUnit_Nubia.dds';
 --set Texture = 'CHM_Moment_UniqueUnit_Scotland.dds'
 --where Texture = 'Moment_UniqueUnit_Scotland.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Scythia.dds'
---where Texture = 'Moment_UniqueUnit_Scythia.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Scythia.dds'
+where Texture = 'Moment_UniqueUnit_Scythia.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_UniqueUnit_Spain.dds'

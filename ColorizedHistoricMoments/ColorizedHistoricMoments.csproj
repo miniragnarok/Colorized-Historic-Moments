@@ -90,7 +90,6 @@
     <Content Include="Textures\CHM_MomentXP2_TourismBomb.dds" />
     <Content Include="Textures\CHM_MomentXP2_TrainingBireme.dds" />
     <Content Include="Textures\CHM_MomentXP2_TrainingRenewableEnergyImprovement.dds" />
-    <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
     <Content Include="Textures\CHM_Moment_3MoreCitiesThanNextPlayer.dds" />
     <Content Include="Textures\CHM_Moment_BeganInquisition.dds" />
     <Content Include="Textures\CHM_Moment_CancelledSuzerianWar.dds" />
@@ -210,8 +209,15 @@
     <Content Include="Textures\CHM_Moment_UniqueUnit_Cree.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Egypt.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Greece.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_India.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Konga.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Macedon_Hetairoi.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Macedon_Hypaspist.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Norway_Longship.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Nubia.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Persia.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Rome.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Scythia.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Sumerian.dds" />
     <Content Include="Textures\CHM_PM_FoundedReligion.dds" />
     <Content Include="Textures\CHM_Moment_FirstCorps.dds" />
@@ -221,6 +227,7 @@
     <Content Include="Textures\CHM_Moment_FirstCityToReach20Pop.dds" />
     <Content Include="Textures\CHM_Moment_FirstCityToReach25Pop.dds" />
     <Content Include="Textures\CHM_Moment_NaturalWonder_DelicateArch.dds" />
+    <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ColorizedHistoricMoments.modinfo">
