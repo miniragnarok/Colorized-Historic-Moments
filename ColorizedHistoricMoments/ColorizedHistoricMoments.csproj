@@ -90,6 +90,8 @@
     <Content Include="Textures\CHM_MomentXP2_TourismBomb.dds" />
     <Content Include="Textures\CHM_MomentXP2_TrainingBarbaryCorsair.dds" />
     <Content Include="Textures\CHM_MomentXP2_TrainingBireme.dds" />
+    <Content Include="Textures\CHM_MomentXP2_TrainingCarolean.dds" />
+    <Content Include="Textures\CHM_MomentXP2_TrainingJanissary.dds" />
     <Content Include="Textures\CHM_MomentXP2_TrainingMadekalu.dds" />
     <Content Include="Textures\CHM_MomentXP2_TrainingRenewableEnergyImprovement.dds" />
     <Content Include="Textures\CHM_MomentXP2_TrainingWarakaq.dds" />
@@ -214,6 +216,7 @@
     <Content Include="Textures\CHM_Moment_UniqueUnit_China.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Cree.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Egypt.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_England_Seadog.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Georgia.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Greece.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_India.dds" />
@@ -221,9 +224,12 @@
     <Content Include="Textures\CHM_Moment_UniqueUnit_Japan.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Khmer.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Konga.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Korea.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Macedon_Hetairoi.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Macedon_Hypaspist.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Mapuche.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Mongolia.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Netherlands.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Norway_Berserker.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Norway_Longship.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Nubia.dds" />
@@ -231,6 +237,7 @@
     <Content Include="Textures\CHM_Moment_UniqueUnit_Poland.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Rome.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Scythia.dds" />
+    <Content Include="Textures\CHM_Moment_UniqueUnit_Spain.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Sumerian.dds" />
     <Content Include="Textures\CHM_Moment_UniqueUnit_Zulu.dds" />
     <Content Include="Textures\CHM_PM_FoundedReligion.dds" />
