@@ -415,13 +415,13 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_FirstSeaUnitMid.dds'
 where Texture = 'Moment_FirstSeaUnitMid.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_America_Mustang.dds'
---where Texture = 'Moment_UniqueUnit_America_Mustang.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_America_Mustang.dds'
+where Texture = 'Moment_UniqueUnit_America_Mustang.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_America_Roughrider.dds'
---where Texture = 'Moment_UniqueUnit_America_Roughrider.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_America_Roughrider.dds'
+where Texture = 'Moment_UniqueUnit_America_Roughrider.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_UniqueUnit_Arab.dds'
@@ -431,9 +431,9 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_UniqueUnit_Aztec.dds'
 where Texture = 'Moment_UniqueUnit_Aztec.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Brazil.dds'
---where Texture = 'Moment_UniqueUnit_Brazil.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Brazil.dds'
+where Texture = 'Moment_UniqueUnit_Brazil.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_UniqueUnit_China.dds'
@@ -447,33 +447,33 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_UniqueUnit_Netherlands.dds'
 where Texture = 'Moment_UniqueUnit_Netherlands.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Australia.dds'
---where Texture = 'Moment_UniqueUnit_Australia.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Australia.dds'
+where Texture = 'Moment_UniqueUnit_Australia.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_UniqueUnit_Egypt.dds'
 where Texture = 'Moment_UniqueUnit_Egypt.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_England_Redcoats.dds'
---where Texture = 'Moment_UniqueUnit_England_Redcoats.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_England_Redcoats.dds'
+where Texture = 'Moment_UniqueUnit_England_Redcoats.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_UniqueUnit_England_Seadog.dds'
 where Texture = 'Moment_UniqueUnit_England_Seadog.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_France_GardeImperiale.dds'
---where Texture = 'Moment_UniqueUnit_France_GardeImperiale.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_France_GardeImperiale.dds'
+where Texture = 'Moment_UniqueUnit_France_GardeImperiale.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_UniqueUnit_Georgia.dds'
 where Texture = 'Moment_UniqueUnit_Georgia.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Germany_UBoat.dds'
---where Texture = 'Moment_UniqueUnit_Germany_UBoat.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Germany_UBoat.dds'
+where Texture = 'Moment_UniqueUnit_Germany_UBoat.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_UniqueUnit_Greece.dds'
@@ -543,13 +543,13 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_UniqueUnit_Rome.dds'
 where Texture = 'Moment_UniqueUnit_Rome.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Russia.dds'
---where Texture = 'Moment_UniqueUnit_Russia.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Russia.dds'
+where Texture = 'Moment_UniqueUnit_Russia.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_UniqueUnit_Scotland.dds'
---where Texture = 'Moment_UniqueUnit_Scotland.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_UniqueUnit_Scotland.dds'
+where Texture = 'Moment_UniqueUnit_Scotland.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_UniqueUnit_Scythia.dds'
@@ -579,17 +579,17 @@ update MomentIllustrations
 set Texture = 'CHM_MomentXP2_TrainingBarbaryCorsair.dds'
 where Texture = 'MomentXP2_TrainingBarbaryCorsair.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_TrainingMountie.dds'
---where Texture = 'MomentXP2_TrainingMountie.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_TrainingMountie.dds'
+where Texture = 'MomentXP2_TrainingMountie.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_MomentXP2_Training_BlackArmy.dds'
 where Texture = 'MomentXP2_Training_BlackArmy.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_TrainingHuzar.dds'
---where Texture = 'MomentXP2_TrainingHuzar.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_TrainingHuzar.dds'
+where Texture = 'MomentXP2_TrainingHuzar.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_MomentXP2_TrainingWarakaq.dds'
