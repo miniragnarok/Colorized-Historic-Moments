@@ -144,6 +144,22 @@
       <File>Textures/CHM_Moment_Government_Monarchy.dds</File>
       <File>Textures/CHM_Moment_Government_Oligarchy.dds</File>
       <File>Textures/CHM_Moment_Government_Theocracy.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_America.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Arabia.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Australia.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Aztec.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Brazil.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_China.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Cree.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Egypt.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_England.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_France.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Georgia.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Germany.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Greece.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_India.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Indonesia.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Japan.dds</File>
       <File>Textures/CHM_Moment_JoinEmergency.dds</File>
       <File>Textures/CHM_Moment_KillEnemyUnit_AdmiralNearby.dds</File>
       <File>Textures/CHM_Moment_KillEnemyUnit_HigherFormation.dds</File>
@@ -357,6 +373,22 @@
     <File>Textures/CHM_Moment_Government_Monarchy.dds</File>
     <File>Textures/CHM_Moment_Government_Oligarchy.dds</File>
     <File>Textures/CHM_Moment_Government_Theocracy.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_America.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Arabia.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Australia.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Aztec.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Brazil.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_China.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Cree.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Egypt.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_England.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_France.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Georgia.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Germany.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Greece.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_India.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Indonesia.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Japan.dds</File>
     <File>Textures/CHM_Moment_JoinEmergency.dds</File>
     <File>Textures/CHM_Moment_KillEnemyUnit_AdmiralNearby.dds</File>
     <File>Textures/CHM_Moment_KillEnemyUnit_HigherFormation.dds</File>

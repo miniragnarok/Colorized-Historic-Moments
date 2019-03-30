@@ -275,13 +275,13 @@ where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 --set Texture = 'CHM_Moment_Infrastructure_Mapuche.dds'
 --where Texture = 'Moment_Infrastructure_Mapuche.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Cree.dds'
---where Texture = 'Moment_Infrastructure_Cree.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Cree.dds'
+where Texture = 'Moment_Infrastructure_Cree.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Australia.dds'
---where Texture = 'Moment_Infrastructure_Australia.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Australia.dds'
+where Texture = 'Moment_Infrastructure_Australia.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Persia.dds'
@@ -291,25 +291,25 @@ where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 --set Texture = 'CHM_Moment_Infrastructure_Nubia.dds'
 --where Texture = 'Moment_Infrastructure_Nubia.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Indonesia.dds'
---where Texture = 'Moment_Infrastructure_Indonesia.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Indonesia.dds'
+where Texture = 'Moment_Infrastructure_Indonesia.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Macedon.dds'
 --where Texture = 'Moment_Infrastructure_Macedon.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Japan.dds'
---where Texture = 'Moment_Infrastructure_Japan.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Japan.dds'
+where Texture = 'Moment_Infrastructure_Japan.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_America.dds'
---where Texture = 'Moment_Infrastructure_America.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_America.dds'
+where Texture = 'Moment_Infrastructure_America.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Arabia.dds'
---where Texture = 'Moment_Infrastructure_Arabia.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Arabia.dds'
+where Texture = 'Moment_Infrastructure_Arabia.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Mongolia.dds'
@@ -327,25 +327,25 @@ where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 --set Texture = 'CHM_Moment_Infrastructure_Poland.dds'
 --where Texture = 'Moment_Infrastructure_Poland.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Aztec.dds'
---where Texture = 'Moment_Infrastructure_Aztec.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Aztec.dds'
+where Texture = 'Moment_Infrastructure_Aztec.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Georgia.dds'
---where Texture = 'Moment_Infrastructure_Georgia.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Georgia.dds'
+where Texture = 'Moment_Infrastructure_Georgia.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Greece.dds'
---where Texture = 'Moment_Infrastructure_Greece.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Greece.dds'
+where Texture = 'Moment_Infrastructure_Greece.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Rome.dds'
 --where Texture = 'Moment_Infrastructure_Rome.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Germany.dds'
---where Texture = 'Moment_Infrastructure_Germany.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Germany.dds'
+where Texture = 'Moment_Infrastructure_Germany.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Zulu.dds'
@@ -359,33 +359,33 @@ where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 --set Texture = 'CHM_Moment_Infrastructure_Kongo.dds'
 --where Texture = 'Moment_Infrastructure_Kongo.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_England.dds'
---where Texture = 'Moment_Infrastructure_England.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_England.dds'
+where Texture = 'Moment_Infrastructure_England.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Korea.dds'
 --where Texture = 'Moment_Infrastructure_Korea.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Brazil.dds'
---where Texture = 'Moment_Infrastructure_Brazil.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Brazil.dds'
+where Texture = 'Moment_Infrastructure_Brazil.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_China.dds'
---where Texture = 'Moment_Infrastructure_China.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_China.dds'
+where Texture = 'Moment_Infrastructure_China.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Egypt.dds'
---where Texture = 'Moment_Infrastructure_Egypt.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Egypt.dds'
+where Texture = 'Moment_Infrastructure_Egypt.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_France.dds'
---where Texture = 'Moment_Infrastructure_France.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_France.dds'
+where Texture = 'Moment_Infrastructure_France.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_India.dds'
---where Texture = 'Moment_Infrastructure_India.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_India.dds'
+where Texture = 'Moment_Infrastructure_India.dds';
 
 --update MomentIllustrations 
 --set Texture = 'CHM_Moment_Infrastructure_Scythia.dds'
