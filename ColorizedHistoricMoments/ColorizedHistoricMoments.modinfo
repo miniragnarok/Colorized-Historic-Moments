@@ -160,6 +160,22 @@
       <File>Textures/CHM_Moment_Infrastructure_India.dds</File>
       <File>Textures/CHM_Moment_Infrastructure_Indonesia.dds</File>
       <File>Textures/CHM_Moment_Infrastructure_Japan.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Khmer.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Kongo.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Korea.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Macedon.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Mapuche.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Mongolia.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Netherlands.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Norway.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Nubia.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Persia.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Poland.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Rome.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Russia.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Scotland.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Scythia.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Spanish.dds</File>
       <File>Textures/CHM_Moment_JoinEmergency.dds</File>
       <File>Textures/CHM_Moment_KillEnemyUnit_AdmiralNearby.dds</File>
       <File>Textures/CHM_Moment_KillEnemyUnit_HigherFormation.dds</File>
@@ -389,6 +405,22 @@
     <File>Textures/CHM_Moment_Infrastructure_India.dds</File>
     <File>Textures/CHM_Moment_Infrastructure_Indonesia.dds</File>
     <File>Textures/CHM_Moment_Infrastructure_Japan.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Khmer.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Kongo.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Korea.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Macedon.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Mapuche.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Mongolia.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Netherlands.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Norway.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Nubia.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Persia.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Poland.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Rome.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Russia.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Scotland.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Scythia.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Spanish.dds</File>
     <File>Textures/CHM_Moment_JoinEmergency.dds</File>
     <File>Textures/CHM_Moment_KillEnemyUnit_AdmiralNearby.dds</File>
     <File>Textures/CHM_Moment_KillEnemyUnit_HigherFormation.dds</File>
