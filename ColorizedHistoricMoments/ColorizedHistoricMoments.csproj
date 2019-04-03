@@ -52,6 +52,7 @@
   <ItemGroup>
     <Content Include="SQL\Moment_Illustrations.sql" />
     <Content Include="SQL\Moments.sql" />
+    <Content Include="TestFolder\readme.txt" />
     <Content Include="Textures\CHM_MomentSmall_City.dds" />
     <Content Include="Textures\CHM_MomentSmall_Combat.dds" />
     <Content Include="Textures\CHM_MomentSmall_Culture.dds" />
