@@ -37,9 +37,20 @@
       <File>Textures/CHM_MomentSmall_Science.dds</File>
       <File>Textures/CHM_MomentSmall_Trade.dds</File>
       <File>Textures/CHM_MomentSmall_Wonder.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingBiblioteque.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingIceHockeyRink.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingMountainTunnel.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingRailroadConnecting2Cities.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingSuguba.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingTheCanal.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingTheCothon.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingTheGrandBazaar.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingTheMarae.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingTheOpenAirMuseum.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingThePa.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingTheQhapaqNan.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingTheTerraceFarm.dds</File>
+      <File>Textures/CHM_MomentXP2_BuildingTheThermalBath.dds</File>
       <File>Textures/CHM_MomentXP2_City_Built_Near_FloodableRiver.dds</File>
       <File>Textures/CHM_MomentXP2_City_Built_Near_Volcano.dds</File>
       <File>Textures/CHM_MomentXP2_ClimateChangeAlert.dds</File>
@@ -176,6 +187,8 @@
       <File>Textures/CHM_Moment_Infrastructure_Scotland.dds</File>
       <File>Textures/CHM_Moment_Infrastructure_Scythia.dds</File>
       <File>Textures/CHM_Moment_Infrastructure_Spanish.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Ziggurat.dds</File>
+      <File>Textures/CHM_Moment_Infrastructure_Zulu.dds</File>
       <File>Textures/CHM_Moment_JoinEmergency.dds</File>
       <File>Textures/CHM_Moment_KillEnemyUnit_AdmiralNearby.dds</File>
       <File>Textures/CHM_Moment_KillEnemyUnit_HigherFormation.dds</File>
@@ -282,9 +295,20 @@
     <File>Textures/CHM_MomentSmall_Science.dds</File>
     <File>Textures/CHM_MomentSmall_Trade.dds</File>
     <File>Textures/CHM_MomentSmall_Wonder.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingBiblioteque.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingIceHockeyRink.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingMountainTunnel.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingRailroadConnecting2Cities.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingSuguba.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingTheCanal.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingTheCothon.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingTheGrandBazaar.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingTheMarae.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingTheOpenAirMuseum.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingThePa.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingTheQhapaqNan.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingTheTerraceFarm.dds</File>
+    <File>Textures/CHM_MomentXP2_BuildingTheThermalBath.dds</File>
     <File>Textures/CHM_MomentXP2_City_Built_Near_FloodableRiver.dds</File>
     <File>Textures/CHM_MomentXP2_City_Built_Near_Volcano.dds</File>
     <File>Textures/CHM_MomentXP2_ClimateChangeAlert.dds</File>
@@ -421,6 +445,8 @@
     <File>Textures/CHM_Moment_Infrastructure_Scotland.dds</File>
     <File>Textures/CHM_Moment_Infrastructure_Scythia.dds</File>
     <File>Textures/CHM_Moment_Infrastructure_Spanish.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Ziggurat.dds</File>
+    <File>Textures/CHM_Moment_Infrastructure_Zulu.dds</File>
     <File>Textures/CHM_Moment_JoinEmergency.dds</File>
     <File>Textures/CHM_Moment_KillEnemyUnit_AdmiralNearby.dds</File>
     <File>Textures/CHM_Moment_KillEnemyUnit_HigherFormation.dds</File>

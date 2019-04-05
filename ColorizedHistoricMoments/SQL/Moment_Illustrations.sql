@@ -219,49 +219,49 @@ update MomentIllustrations
 set Texture = 'CHM_MomentXP2_CompleteFirstFutureEraTech.dds'
 where Texture = 'MomentXP2_CompleteFirstFutureEraTech.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheOpenAirMuseum.dds'
---where Texture = 'MomentXP2_BuildingTheOpenAirMuseum.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingTheOpenAirMuseum.dds'
+where Texture = 'MomentXP2_BuildingTheOpenAirMuseum.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingIceHockeyRink.dds'
---where Texture = 'MomentXP2_BuildingIceHockeyRink.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingIceHockeyRink.dds'
+where Texture = 'MomentXP2_BuildingIceHockeyRink.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheTerraceFarm.dds'
---where Texture = 'MomentXP2_BuildingTheTerraceFarm.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingTheTerraceFarm.dds'
+where Texture = 'MomentXP2_BuildingTheTerraceFarm.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingThePa.dds'
---where Texture = 'MomentXP2_BuildingThePa.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingThePa.dds'
+where Texture = 'MomentXP2_BuildingThePa.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheQhapaqNan.dds'
---where Texture = 'MomentXP2_BuildingTheQhapaqNan.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingTheQhapaqNan.dds'
+where Texture = 'MomentXP2_BuildingTheQhapaqNan.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheGrandBazaar.dds'
---where Texture = 'MomentXP2_BuildingTheGrandBazaar.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingTheGrandBazaar.dds'
+where Texture = 'MomentXP2_BuildingTheGrandBazaar.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheMarae.dds'
---where Texture = 'MomentXP2_BuildingTheMarae.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingTheMarae.dds'
+where Texture = 'MomentXP2_BuildingTheMarae.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingBiblioteque.dds'
---where Texture = 'MomentXP2_BuildingBiblioteque.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingBiblioteque.dds'
+where Texture = 'MomentXP2_BuildingBiblioteque.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheThermalBath.dds'
---where Texture = 'MomentXP2_BuildingTheThermalBath.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingTheThermalBath.dds'
+where Texture = 'MomentXP2_BuildingTheThermalBath.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingTheCothon.dds'
---where Texture = 'MomentXP2_BuildingTheCothon.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingTheCothon.dds'
+where Texture = 'MomentXP2_BuildingTheCothon.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_MomentXP2_BuildingSuguba.dds'
---where Texture = 'MomentXP2_BuildingSuguba.dds';
+update MomentIllustrations 
+set Texture = 'CHM_MomentXP2_BuildingSuguba.dds'
+where Texture = 'MomentXP2_BuildingSuguba.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_Infrastructure_Scotland.dds'
@@ -395,9 +395,9 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_Infrastructure_Spanish.dds'
 where Texture = 'Moment_Infrastructure_Spanish.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Ziggurat.dds'
---where Texture = 'Moment_Infrastructure_Ziggurat.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Ziggurat.dds'
+where Texture = 'Moment_Infrastructure_Ziggurat.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_FirstAirUnitEarlyGame.dds'

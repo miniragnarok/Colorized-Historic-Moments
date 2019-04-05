@@ -52,6 +52,7 @@
   <ItemGroup>
     <Content Include="SQL\Moment_Illustrations.sql" />
     <Content Include="SQL\Moments.sql" />
+    <Content Include="TestFolder\CHM_Moment_CompleteTech_Industrial_Test.dds" />
     <Content Include="TestFolder\readme.txt" />
     <Content Include="Textures\CHM_MomentSmall_City.dds" />
     <Content Include="Textures\CHM_MomentSmall_Combat.dds" />
@@ -65,9 +66,20 @@
     <Content Include="Textures\CHM_MomentSmall_Science.dds" />
     <Content Include="Textures\CHM_MomentSmall_Trade.dds" />
     <Content Include="Textures\CHM_MomentSmall_Wonder.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingBiblioteque.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingIceHockeyRink.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingMountainTunnel.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingRailroadConnecting2Cities.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingSuguba.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingTheCanal.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingTheCothon.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingTheGrandBazaar.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingTheMarae.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingTheOpenAirMuseum.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingThePa.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingTheQhapaqNan.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingTheTerraceFarm.dds" />
+    <Content Include="Textures\CHM_MomentXP2_BuildingTheThermalBath.dds" />
     <Content Include="Textures\CHM_MomentXP2_City_Built_Near_FloodableRiver.dds" />
     <Content Include="Textures\CHM_MomentXP2_City_Built_Near_Volcano.dds" />
     <Content Include="Textures\CHM_MomentXP2_ClimateChangeAlert.dds" />
@@ -197,6 +209,8 @@
     <Content Include="Textures\CHM_Moment_Infrastructure_Scotland.dds" />
     <Content Include="Textures\CHM_Moment_Infrastructure_Scythia.dds" />
     <Content Include="Textures\CHM_Moment_Infrastructure_Spanish.dds" />
+    <Content Include="Textures\CHM_Moment_Infrastructure_Ziggurat.dds" />
+    <Content Include="Textures\CHM_Moment_Infrastructure_Zulu.dds" />
     <Content Include="Textures\CHM_Moment_JoinEmergency.dds" />
     <Content Include="Textures\CHM_Moment_KillEnemyUnit_AdmiralNearby.dds" />
     <Content Include="Textures\CHM_Moment_KillEnemyUnit_HigherFormation.dds" />
