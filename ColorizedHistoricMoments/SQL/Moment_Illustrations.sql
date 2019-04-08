@@ -347,9 +347,9 @@ update MomentIllustrations
 set Texture = 'CHM_Moment_Infrastructure_Germany.dds'
 where Texture = 'Moment_Infrastructure_Germany.dds';
 
---update MomentIllustrations 
---set Texture = 'CHM_Moment_Infrastructure_Zulu.dds'
---where Texture = 'Moment_Infrastructure_Zulu.dds';
+update MomentIllustrations 
+set Texture = 'CHM_Moment_Infrastructure_Zulu.dds'
+where Texture = 'Moment_Infrastructure_Zulu.dds';
 
 update MomentIllustrations 
 set Texture = 'CHM_Moment_Infrastructure_Russia.dds'

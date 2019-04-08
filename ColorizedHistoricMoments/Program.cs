@@ -77,6 +77,13 @@ namespace ColorizedHistoricMoments
                     newFileName = regex.Replace(newFileName, string.Empty);
 
                     newFileName = imageFileNamePrepend + newFileName;
+
+                    var finalLocation = Path.Combine(finishedImagesFolder, newFileName + imageFileExtension);
+                    if (File.Exists(finalLocation))
+                    {
+                        File.Delete(finalLocation);
+                    }
+
                     File.Move(Path.Combine(finishedImagesFolder, currentFileName + imageFileExtension), Path.Combine(finishedImagesFolder, newFileName + imageFileExtension));
                 }
             }
