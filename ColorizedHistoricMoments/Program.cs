@@ -2,9 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using System.Xml.Linq;
 
 namespace ColorizedHistoricMoments
@@ -18,13 +16,13 @@ namespace ColorizedHistoricMoments
         private static readonly string imageFileNamePrepend = "CHM_";
         private static readonly string imageFileExtension = ".dds";
         private static readonly string civ6ModFolderPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), Path.Combine(@"my games\Sid Meier's Civilization VI\Mods", modName));
-        private static List<string> fileDirectories = new List<string>
+        private static readonly List<string> fileDirectories = new List<string>
             {
                 "SQL",
                 "Textures"
             };
 
-    static void Main()
+        static void Main()
         {
             RenameImageFiles();
             TransformModInfo();
@@ -33,27 +31,27 @@ namespace ColorizedHistoricMoments
 
         private static void TransformModInfo()
         {
-            var xlpFilepath = Path.Combine(currentDirectory, colorizedHistoricMomentsModInfo);
+            string xlpFilepath = Path.Combine(currentDirectory, colorizedHistoricMomentsModInfo);
 
-            var xlp = XElement.Load(xlpFilepath);
+            XElement xlp = XElement.Load(xlpFilepath);
 
-            var chmTextures = xlp.Descendants("InGameActions")
+            XElement chmTextures = xlp.Descendants("InGameActions")
                 .SingleOrDefault()
                 .Descendants("ImportFiles")
                 .Where(m => m.Attribute("id").Value == "CHM_Textures")
                 .SingleOrDefault();
             chmTextures.Descendants("File").Remove();
 
-            var entries = xlp.Descendants("Files").SingleOrDefault();
+            XElement entries = xlp.Descendants("Files").SingleOrDefault();
             entries.Elements().Remove();
 
-            var pathDelimiter = '/';
+            char pathDelimiter = '/';
 
-            foreach (var directoryName in fileDirectories)
+            foreach (string directoryName in fileDirectories)
             {
-                foreach(var file in Directory.EnumerateFiles(Path.Combine(currentDirectory, directoryName)))
+                foreach (string file in Directory.EnumerateFiles(Path.Combine(currentDirectory, directoryName)))
                 {
-                    var fileElement = new XElement("File");
+                    XElement fileElement = new XElement("File");
                     fileElement.Add(directoryName + pathDelimiter + Path.GetFileName(file));
                     chmTextures.Add(fileElement);
                     entries.Add(fileElement);
@@ -65,20 +63,20 @@ namespace ColorizedHistoricMoments
 
         private static void RenameImageFiles()
         {
-            foreach (var file in Directory.EnumerateFiles(finishedImagesFolder, "*" + imageFileExtension))
+            foreach (string file in Directory.EnumerateFiles(finishedImagesFolder, "*" + imageFileExtension))
             {
-                var currentFileName = Path.GetFileNameWithoutExtension(file);
+                string currentFileName = Path.GetFileNameWithoutExtension(file);
                 if (!currentFileName.StartsWith(imageFileNamePrepend))
                 {
-                    var newFileName = currentFileName;
+                    string newFileName = currentFileName;
                     newFileName = newFileName.Trim().Replace(' ', '_');
 
-                    var regex = new Regex("[^a-zA-Z0-9_]");
+                    Regex regex = new Regex("[^a-zA-Z0-9_]");
                     newFileName = regex.Replace(newFileName, string.Empty);
 
                     newFileName = imageFileNamePrepend + newFileName;
 
-                    var finalLocation = Path.Combine(finishedImagesFolder, newFileName + imageFileExtension);
+                    string finalLocation = Path.Combine(finishedImagesFolder, newFileName + imageFileExtension);
                     if (File.Exists(finalLocation))
                     {
                         File.Delete(finalLocation);
@@ -91,15 +89,15 @@ namespace ColorizedHistoricMoments
 
         private static void PublishFinishedMod()
         {
-            var modInfoSource = Path.Combine(currentDirectory, colorizedHistoricMomentsModInfo);
-            var modInfoDestination = Path.Combine(civ6ModFolderPath, colorizedHistoricMomentsModInfo);
+            string modInfoSource = Path.Combine(currentDirectory, colorizedHistoricMomentsModInfo);
+            string modInfoDestination = Path.Combine(civ6ModFolderPath, colorizedHistoricMomentsModInfo);
 
             File.Copy(modInfoSource, modInfoDestination);
 
-            foreach (var directoryName in fileDirectories)
+            foreach (string directoryName in fileDirectories)
             {
-                var source = Path.Combine(currentDirectory, directoryName);
-                var destination = Path.Combine(civ6ModFolderPath, directoryName);
+                string source = Path.Combine(currentDirectory, directoryName);
+                string destination = Path.Combine(civ6ModFolderPath, directoryName);
                 CopyDirectory.Copy(source, destination);
             }
         }
