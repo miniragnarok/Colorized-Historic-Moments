@@ -37,6 +37,14 @@
       <File>Textures/CHM_MomentSmall_Science.dds</File>
       <File>Textures/CHM_MomentSmall_Trade.dds</File>
       <File>Textures/CHM_MomentSmall_Wonder.dds</File>
+      <File>Textures/CHM_MomentSTK_BermudaTriangle.dds</File>
+      <File>Textures/CHM_MomentSTK_ComandanteGeneral.dds</File>
+      <File>Textures/CHM_MomentSTK_FountainOfYouth.dds</File>
+      <File>Textures/CHM_MomentSTK_Hacienda.dds</File>
+      <File>Textures/CHM_MomentSTK_Hulche.dds</File>
+      <File>Textures/CHM_MomentSTK_Llanero.dds</File>
+      <File>Textures/CHM_MomentSTK_Observatory.dds</File>
+      <File>Textures/CHM_MomentSTK_Paititi.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingBiblioteque.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingIceHockeyRink.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingMountainTunnel.dds</File>
@@ -295,6 +303,14 @@
     <File>Textures/CHM_MomentSmall_Science.dds</File>
     <File>Textures/CHM_MomentSmall_Trade.dds</File>
     <File>Textures/CHM_MomentSmall_Wonder.dds</File>
+    <File>Textures/CHM_MomentSTK_BermudaTriangle.dds</File>
+    <File>Textures/CHM_MomentSTK_ComandanteGeneral.dds</File>
+    <File>Textures/CHM_MomentSTK_FountainOfYouth.dds</File>
+    <File>Textures/CHM_MomentSTK_Hacienda.dds</File>
+    <File>Textures/CHM_MomentSTK_Hulche.dds</File>
+    <File>Textures/CHM_MomentSTK_Llanero.dds</File>
+    <File>Textures/CHM_MomentSTK_Observatory.dds</File>
+    <File>Textures/CHM_MomentSTK_Paititi.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingBiblioteque.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingIceHockeyRink.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingMountainTunnel.dds</File>

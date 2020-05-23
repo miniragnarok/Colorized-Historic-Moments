@@ -690,3 +690,35 @@ where Texture = 'Moment_EraEntry_Information.dds';
 update MomentIllustrations 
 set Texture = 'CHM_MomentXP2_EnterFutureEra.dds'
 where Texture = 'MomentXP2_EnterFutureEra.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_BermudaTriangle.dds.dds'
+where Texture = 'MomentSTK_BermudaTriangle.dds.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_ComandanteGeneral.dds.dds'
+where Texture = 'MomentSTK_ComandanteGeneral.dds.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_FountainOfYouth.dds.dds'
+where Texture = 'MomentSTK_FountainOfYouth.dds.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Hacienda.dds.dds'
+where Texture = 'MomentSTK_Hacienda.dds.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Hulche.dds.dds'
+where Texture = 'MomentSTK_Hulche.dds.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Llanero.dds.dds'
+where Texture = 'MomentSTK_Llanero.dds.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Observatory.dds.dds'
+where Texture = 'MomentSTK_Observatory.dds.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Paititi.dds.dds'
+where Texture = 'MomentSTK_Paititi.dds.dds';

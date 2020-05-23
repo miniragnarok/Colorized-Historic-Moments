@@ -66,6 +66,14 @@
     <Content Include="Textures\CHM_MomentSmall_Science.dds" />
     <Content Include="Textures\CHM_MomentSmall_Trade.dds" />
     <Content Include="Textures\CHM_MomentSmall_Wonder.dds" />
+    <Content Include="Textures\CHM_MomentSTK_BermudaTriangle.dds" />
+    <Content Include="Textures\CHM_MomentSTK_ComandanteGeneral.dds" />
+    <Content Include="Textures\CHM_MomentSTK_FountainOfYouth.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Hacienda.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Hulche.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Llanero.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Observatory.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Paititi.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingBiblioteque.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingIceHockeyRink.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingMountainTunnel.dds" />
@@ -307,6 +315,7 @@
     <Content Include="Textures\CHM_Moment_FirstCityToReach25Pop.dds" />
     <Content Include="Textures\CHM_Moment_NaturalWonder_DelicateArch.dds" />
     <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
+    <Content Include="Workshop Images\Main Image - Maya.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ColorizedHistoricMoments.modinfo">
@@ -335,5 +344,6 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
