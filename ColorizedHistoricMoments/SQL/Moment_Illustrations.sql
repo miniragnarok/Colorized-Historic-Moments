@@ -692,33 +692,33 @@ set Texture = 'CHM_MomentXP2_EnterFutureEra.dds'
 where Texture = 'MomentXP2_EnterFutureEra.dds';
 
 update MomentIllustrations 
-set Texture = 'CHM_MomentSTK_BermudaTriangle.dds.dds'
-where Texture = 'MomentSTK_BermudaTriangle.dds.dds';
+set Texture = 'CHM_MomentSTK_BermudaTriangle.dds'
+where Texture = 'MomentSTK_BermudaTriangle.dds';
 
 update MomentIllustrations 
-set Texture = 'CHM_MomentSTK_ComandanteGeneral.dds.dds'
-where Texture = 'MomentSTK_ComandanteGeneral.dds.dds';
+set Texture = 'CHM_MomentSTK_ComandanteGeneral.dds'
+where Texture = 'MomentSTK_ComandanteGeneral.dds';
 
 update MomentIllustrations 
-set Texture = 'CHM_MomentSTK_FountainOfYouth.dds.dds'
-where Texture = 'MomentSTK_FountainOfYouth.dds.dds';
+set Texture = 'CHM_MomentSTK_FountainOfYouth.dds'
+where Texture = 'MomentSTK_FountainOfYouth.dds';
 
 update MomentIllustrations 
-set Texture = 'CHM_MomentSTK_Hacienda.dds.dds'
-where Texture = 'MomentSTK_Hacienda.dds.dds';
+set Texture = 'CHM_MomentSTK_Hacienda.dds'
+where Texture = 'MomentSTK_Hacienda.dds';
 
 update MomentIllustrations 
-set Texture = 'CHM_MomentSTK_Hulche.dds.dds'
-where Texture = 'MomentSTK_Hulche.dds.dds';
+set Texture = 'CHM_MomentSTK_Hulche.dds'
+where Texture = 'MomentSTK_Hulche.dds';
 
 update MomentIllustrations 
-set Texture = 'CHM_MomentSTK_Llanero.dds.dds'
-where Texture = 'MomentSTK_Llanero.dds.dds';
+set Texture = 'CHM_MomentSTK_Llanero.dds'
+where Texture = 'MomentSTK_Llanero.dds';
 
 update MomentIllustrations 
-set Texture = 'CHM_MomentSTK_Observatory.dds.dds'
-where Texture = 'MomentSTK_Observatory.dds.dds';
+set Texture = 'CHM_MomentSTK_Observatory.dds'
+where Texture = 'MomentSTK_Observatory.dds';
 
 update MomentIllustrations 
-set Texture = 'CHM_MomentSTK_Paititi.dds.dds'
-where Texture = 'MomentSTK_Paititi.dds.dds';
+set Texture = 'CHM_MomentSTK_Paititi.dds'
+where Texture = 'MomentSTK_Paititi.dds';
