@@ -722,3 +722,11 @@ where Texture = 'MomentSTK_Observatory.dds';
 update MomentIllustrations 
 set Texture = 'CHM_MomentSTK_Paititi.dds'
 where Texture = 'MomentSTK_Paititi.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_RockHewnChurch.dds'
+where Texture = 'MomentSTK_RockHewnChurch.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_OromoCavalry.dds'
+where Texture = 'MomentSTK_OromoCavalry.dds';

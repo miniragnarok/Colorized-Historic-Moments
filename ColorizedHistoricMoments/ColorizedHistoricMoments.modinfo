@@ -44,7 +44,9 @@
       <File>Textures/CHM_MomentSTK_Hulche.dds</File>
       <File>Textures/CHM_MomentSTK_Llanero.dds</File>
       <File>Textures/CHM_MomentSTK_Observatory.dds</File>
+      <File>Textures/CHM_MomentSTK_OromoCavalry.dds</File>
       <File>Textures/CHM_MomentSTK_Paititi.dds</File>
+      <File>Textures/CHM_MomentSTK_RockHewnChurch.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingBiblioteque.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingIceHockeyRink.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingMountainTunnel.dds</File>
@@ -310,7 +312,9 @@
     <File>Textures/CHM_MomentSTK_Hulche.dds</File>
     <File>Textures/CHM_MomentSTK_Llanero.dds</File>
     <File>Textures/CHM_MomentSTK_Observatory.dds</File>
+    <File>Textures/CHM_MomentSTK_OromoCavalry.dds</File>
     <File>Textures/CHM_MomentSTK_Paititi.dds</File>
+    <File>Textures/CHM_MomentSTK_RockHewnChurch.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingBiblioteque.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingIceHockeyRink.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingMountainTunnel.dds</File>

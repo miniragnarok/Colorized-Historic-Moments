@@ -315,6 +315,8 @@
     <Content Include="Textures\CHM_Moment_FirstCityToReach25Pop.dds" />
     <Content Include="Textures\CHM_Moment_NaturalWonder_DelicateArch.dds" />
     <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
+    <Content Include="Textures\CHM_MomentSTK_OromoCavalry.dds" />
+    <Content Include="Textures\CHM_MomentSTK_RockHewnChurch.dds" />
     <Content Include="Workshop Images\Collage.png" />
     <Content Include="Workshop Images\Main Image - Maya.png" />
   </ItemGroup>
