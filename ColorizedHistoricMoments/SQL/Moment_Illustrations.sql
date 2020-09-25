@@ -730,3 +730,25 @@ where Texture = 'MomentSTK_RockHewnChurch.dds';
 update MomentIllustrations 
 set Texture = 'CHM_MomentSTK_OromoCavalry.dds'
 where Texture = 'MomentSTK_OromoCavalry.dds';
+
+
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_DromonShip.dds'
+where Texture = 'MomentSTK_DromonShip.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Gaestae.dds'
+where Texture = 'MomentSTK_Gaestae.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Hippodrome.dds'
+where Texture = 'MomentSTK_Hippodrome.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Oppidum.dds'
+where Texture = 'MomentSTK_Oppidum.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Tagma.dds'
+where Texture = 'MomentSTK_Tagma.dds';

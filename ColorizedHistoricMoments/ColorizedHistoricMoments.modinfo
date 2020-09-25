@@ -23,6 +23,7 @@
       <Properties>
         <LoadOrder>100</LoadOrder>
       </Properties>
+      <File>SQL/DebugGameplay.sqlite</File>
       <File>SQL/Moments.sql</File>
       <File>SQL/Moment_Illustrations.sql</File>
       <File>Textures/CHM_MomentSmall_City.dds</File>
@@ -39,14 +40,19 @@
       <File>Textures/CHM_MomentSmall_Wonder.dds</File>
       <File>Textures/CHM_MomentSTK_BermudaTriangle.dds</File>
       <File>Textures/CHM_MomentSTK_ComandanteGeneral.dds</File>
+      <File>Textures/CHM_MomentSTK_DromonShip.dds</File>
       <File>Textures/CHM_MomentSTK_FountainOfYouth.dds</File>
+      <File>Textures/CHM_MomentSTK_Gaestae.dds</File>
       <File>Textures/CHM_MomentSTK_Hacienda.dds</File>
+      <File>Textures/CHM_MomentSTK_Hippodrome.dds</File>
       <File>Textures/CHM_MomentSTK_Hulche.dds</File>
       <File>Textures/CHM_MomentSTK_Llanero.dds</File>
       <File>Textures/CHM_MomentSTK_Observatory.dds</File>
+      <File>Textures/CHM_MomentSTK_Oppidum.dds</File>
       <File>Textures/CHM_MomentSTK_OromoCavalry.dds</File>
       <File>Textures/CHM_MomentSTK_Paititi.dds</File>
       <File>Textures/CHM_MomentSTK_RockHewnChurch.dds</File>
+      <File>Textures/CHM_MomentSTK_Tagma.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingBiblioteque.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingIceHockeyRink.dds</File>
       <File>Textures/CHM_MomentXP2_BuildingMountainTunnel.dds</File>
@@ -291,6 +297,7 @@
     </ImportFiles>
   </InGameActions>
   <Files>
+    <File>SQL/DebugGameplay.sqlite</File>
     <File>SQL/Moments.sql</File>
     <File>SQL/Moment_Illustrations.sql</File>
     <File>Textures/CHM_MomentSmall_City.dds</File>
@@ -307,14 +314,19 @@
     <File>Textures/CHM_MomentSmall_Wonder.dds</File>
     <File>Textures/CHM_MomentSTK_BermudaTriangle.dds</File>
     <File>Textures/CHM_MomentSTK_ComandanteGeneral.dds</File>
+    <File>Textures/CHM_MomentSTK_DromonShip.dds</File>
     <File>Textures/CHM_MomentSTK_FountainOfYouth.dds</File>
+    <File>Textures/CHM_MomentSTK_Gaestae.dds</File>
     <File>Textures/CHM_MomentSTK_Hacienda.dds</File>
+    <File>Textures/CHM_MomentSTK_Hippodrome.dds</File>
     <File>Textures/CHM_MomentSTK_Hulche.dds</File>
     <File>Textures/CHM_MomentSTK_Llanero.dds</File>
     <File>Textures/CHM_MomentSTK_Observatory.dds</File>
+    <File>Textures/CHM_MomentSTK_Oppidum.dds</File>
     <File>Textures/CHM_MomentSTK_OromoCavalry.dds</File>
     <File>Textures/CHM_MomentSTK_Paititi.dds</File>
     <File>Textures/CHM_MomentSTK_RockHewnChurch.dds</File>
+    <File>Textures/CHM_MomentSTK_Tagma.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingBiblioteque.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingIceHockeyRink.dds</File>
     <File>Textures/CHM_MomentXP2_BuildingMountainTunnel.dds</File>

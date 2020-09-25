@@ -317,6 +317,11 @@
     <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
     <Content Include="Textures\CHM_MomentSTK_OromoCavalry.dds" />
     <Content Include="Textures\CHM_MomentSTK_RockHewnChurch.dds" />
+    <Content Include="Textures\MomentSTK_DromonShip.dds" />
+    <Content Include="Textures\MomentSTK_Gaestae.dds" />
+    <Content Include="Textures\MomentSTK_Hippodrome.dds" />
+    <Content Include="Textures\MomentSTK_Oppidum.dds" />
+    <Content Include="Textures\MomentSTK_Tagma.dds" />
     <Content Include="Workshop Images\Collage.png" />
     <Content Include="Workshop Images\Main Image - Maya.png" />
   </ItemGroup>
