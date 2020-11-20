@@ -731,8 +731,6 @@ update MomentIllustrations
 set Texture = 'CHM_MomentSTK_OromoCavalry.dds'
 where Texture = 'MomentSTK_OromoCavalry.dds';
 
-
-
 update MomentIllustrations 
 set Texture = 'CHM_MomentSTK_DromonShip.dds'
 where Texture = 'MomentSTK_DromonShip.dds';
@@ -752,3 +750,11 @@ where Texture = 'MomentSTK_Oppidum.dds';
 update MomentIllustrations 
 set Texture = 'CHM_MomentSTK_Tagma.dds'
 where Texture = 'MomentSTK_Tagma.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Sabum.dds'
+where Texture = 'MomentSTK_Sabum.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Palgum.dds'
+where Texture = 'MomentSTK_Palgum.dds';

@@ -272,6 +272,18 @@ set BackgroundTexture = 'CHM_MomentXP2_TourismBomb.dds'
 where BackgroundTexture = 'MomentXP2_TourismBomb.dds';
 
 update Moments 
+set BackgroundTexture = 'CHM_MomentSTK_HeroClaimed.dds'
+where BackgroundTexture = 'MomentSTK_HeroClaimed.dds';
+
+update Moments 
+set BackgroundTexture = 'CHM_MomentSTK_HeroLost.dds'
+where BackgroundTexture = 'MomentSTK_HeroLost.dds';
+
+update Moments 
+set BackgroundTexture = 'CHM_MomentSTK_HeroRecalled.dds'
+where BackgroundTexture = 'MomentSTK_HeroRecalled.dds';
+
+update Moments 
 set IconTexture = 'CHM_MomentSmall_City.dds'
 where IconTexture = 'MomentSmall_City';
 
@@ -311,10 +323,3 @@ update Moments
 set IconTexture = 'CHM_MomentSmall_Science.dds'
 where IconTexture = 'MomentSmall_Science';
 
-update Moments 
-set IconTexture = 'CHM_MomentSmall_Trade.dds'
-where IconTexture = 'MomentSmall_Trade';
-
-update Moments 
-set IconTexture = 'CHM_MomentSmall_Wonder.dds'
-where IconTexture = 'MomentSmall_Wonder';

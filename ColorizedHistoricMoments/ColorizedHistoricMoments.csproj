@@ -68,12 +68,22 @@
     <Content Include="Textures\CHM_MomentSmall_Wonder.dds" />
     <Content Include="Textures\CHM_MomentSTK_BermudaTriangle.dds" />
     <Content Include="Textures\CHM_MomentSTK_ComandanteGeneral.dds" />
+    <Content Include="Textures\CHM_MomentSTK_DromonShip.dds" />
     <Content Include="Textures\CHM_MomentSTK_FountainOfYouth.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Gaestae.dds" />
     <Content Include="Textures\CHM_MomentSTK_Hacienda.dds" />
+    <Content Include="Textures\CHM_MomentSTK_HeroClaimed.dds" />
+    <Content Include="Textures\CHM_MomentSTK_HeroLost.dds" />
+    <Content Include="Textures\CHM_MomentSTK_HeroRecalled.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Hippodrome.dds" />
     <Content Include="Textures\CHM_MomentSTK_Hulche.dds" />
     <Content Include="Textures\CHM_MomentSTK_Llanero.dds" />
     <Content Include="Textures\CHM_MomentSTK_Observatory.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Oppidum.dds" />
     <Content Include="Textures\CHM_MomentSTK_Paititi.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Palgum.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Sabum.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Tagma.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingBiblioteque.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingIceHockeyRink.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingMountainTunnel.dds" />
@@ -317,11 +327,6 @@
     <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
     <Content Include="Textures\CHM_MomentSTK_OromoCavalry.dds" />
     <Content Include="Textures\CHM_MomentSTK_RockHewnChurch.dds" />
-    <Content Include="Textures\MomentSTK_DromonShip.dds" />
-    <Content Include="Textures\MomentSTK_Gaestae.dds" />
-    <Content Include="Textures\MomentSTK_Hippodrome.dds" />
-    <Content Include="Textures\MomentSTK_Oppidum.dds" />
-    <Content Include="Textures\MomentSTK_Tagma.dds" />
     <Content Include="Workshop Images\Collage.png" />
     <Content Include="Workshop Images\Main Image - Maya.png" />
   </ItemGroup>
