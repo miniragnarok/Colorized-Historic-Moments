@@ -276,12 +276,12 @@ set BackgroundTexture = 'CHM_MomentSTK_HeroClaimed.dds'
 where BackgroundTexture = 'MomentSTK_HeroClaimed.dds';
 
 update Moments 
-set BackgroundTexture = 'CHM_MomentSTK_HeroLost.dds'
-where BackgroundTexture = 'MomentSTK_HeroLost.dds';
+set BackgroundTexture = 'CHM_MomentSTK_HeroRecalled.dds'
+where BackgroundTexture = 'MomentSTK_HeroClaimed.dds';
 
 update Moments 
-set BackgroundTexture = 'CHM_MomentSTK_HeroRecalled.dds'
-where BackgroundTexture = 'MomentSTK_HeroRecalled.dds';
+set BackgroundTexture = 'CHM_MomentSTK_HeroLost.dds'
+where BackgroundTexture = 'MomentSTK_HeroLost.dds';
 
 update Moments 
 set IconTexture = 'CHM_MomentSmall_City.dds'
@@ -330,3 +330,7 @@ where IconTexture = 'MomentSmall_Trade';
 update Moments 
 set IconTexture = 'CHM_MomentSmall_Wonder.dds'
 where IconTexture = 'MomentSmall_Wonder';
+
+update Moments 
+set IconTexture = 'CHM_MomentSmall_HeroRecalled.dds'
+where IconTexture = 'MomentSmall_Heroes';

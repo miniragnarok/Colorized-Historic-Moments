@@ -32,6 +32,7 @@
       <File>Textures/CHM_MomentSmall_Espionage.dds</File>
       <File>Textures/CHM_MomentSmall_Exploration.dds</File>
       <File>Textures/CHM_MomentSmall_GreatPerson.dds</File>
+      <File>Textures/CHM_MomentSmall_HeroRecalled.dds</File>
       <File>Textures/CHM_MomentSmall_Military.dds</File>
       <File>Textures/CHM_MomentSmall_Religion.dds</File>
       <File>Textures/CHM_MomentSmall_Science.dds</File>
@@ -45,7 +46,6 @@
       <File>Textures/CHM_MomentSTK_Hacienda.dds</File>
       <File>Textures/CHM_MomentSTK_HeroClaimed.dds</File>
       <File>Textures/CHM_MomentSTK_HeroLost.dds</File>
-      <File>Textures/CHM_MomentSTK_HeroRecalled.dds</File>
       <File>Textures/CHM_MomentSTK_Hippodrome.dds</File>
       <File>Textures/CHM_MomentSTK_Hulche.dds</File>
       <File>Textures/CHM_MomentSTK_Llanero.dds</File>
@@ -310,6 +310,7 @@
     <File>Textures/CHM_MomentSmall_Espionage.dds</File>
     <File>Textures/CHM_MomentSmall_Exploration.dds</File>
     <File>Textures/CHM_MomentSmall_GreatPerson.dds</File>
+    <File>Textures/CHM_MomentSmall_HeroRecalled.dds</File>
     <File>Textures/CHM_MomentSmall_Military.dds</File>
     <File>Textures/CHM_MomentSmall_Religion.dds</File>
     <File>Textures/CHM_MomentSmall_Science.dds</File>
@@ -323,7 +324,6 @@
     <File>Textures/CHM_MomentSTK_Hacienda.dds</File>
     <File>Textures/CHM_MomentSTK_HeroClaimed.dds</File>
     <File>Textures/CHM_MomentSTK_HeroLost.dds</File>
-    <File>Textures/CHM_MomentSTK_HeroRecalled.dds</File>
     <File>Textures/CHM_MomentSTK_Hippodrome.dds</File>
     <File>Textures/CHM_MomentSTK_Hulche.dds</File>
     <File>Textures/CHM_MomentSTK_Llanero.dds</File>
