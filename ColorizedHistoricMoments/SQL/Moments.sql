@@ -323,3 +323,10 @@ update Moments
 set IconTexture = 'CHM_MomentSmall_Science.dds'
 where IconTexture = 'MomentSmall_Science';
 
+update Moments 
+set IconTexture = 'CHM_MomentSmall_Trade.dds'
+where IconTexture = 'MomentSmall_Trade';
+
+update Moments 
+set IconTexture = 'CHM_MomentSmall_Wonder.dds'
+where IconTexture = 'MomentSmall_Wonder';
