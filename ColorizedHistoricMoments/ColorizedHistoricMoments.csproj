@@ -61,6 +61,7 @@
     <Content Include="Textures\CHM_MomentSmall_Espionage.dds" />
     <Content Include="Textures\CHM_MomentSmall_Exploration.dds" />
     <Content Include="Textures\CHM_MomentSmall_GreatPerson.dds" />
+    <Content Include="Textures\CHM_MomentSmall_HeroRecalled.dds" />
     <Content Include="Textures\CHM_MomentSmall_Military.dds" />
     <Content Include="Textures\CHM_MomentSmall_Religion.dds" />
     <Content Include="Textures\CHM_MomentSmall_Science.dds" />
@@ -74,7 +75,7 @@
     <Content Include="Textures\CHM_MomentSTK_Hacienda.dds" />
     <Content Include="Textures\CHM_MomentSTK_HeroClaimed.dds" />
     <Content Include="Textures\CHM_MomentSTK_HeroLost.dds" />
-    <Content Include="Textures\MomentSmall_HeroRecalled.dds" />
+    <Content Include="Textures\CHM_MomentSTK_HeroRecalled.dds" />
     <Content Include="Textures\CHM_MomentSTK_Hippodrome.dds" />
     <Content Include="Textures\CHM_MomentSTK_Hulche.dds" />
     <Content Include="Textures\CHM_MomentSTK_Llanero.dds" />

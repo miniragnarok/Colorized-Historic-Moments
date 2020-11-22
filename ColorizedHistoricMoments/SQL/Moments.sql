@@ -277,7 +277,7 @@ where BackgroundTexture = 'MomentSTK_HeroClaimed.dds';
 
 update Moments 
 set BackgroundTexture = 'CHM_MomentSTK_HeroRecalled.dds'
-where BackgroundTexture = 'MomentSTK_HeroClaimed.dds';
+where BackgroundTexture = 'MomentSTK_HeroRecalled.dds';
 
 update Moments 
 set BackgroundTexture = 'CHM_MomentSTK_HeroLost.dds'

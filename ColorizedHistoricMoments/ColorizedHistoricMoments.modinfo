@@ -46,6 +46,7 @@
       <File>Textures/CHM_MomentSTK_Hacienda.dds</File>
       <File>Textures/CHM_MomentSTK_HeroClaimed.dds</File>
       <File>Textures/CHM_MomentSTK_HeroLost.dds</File>
+      <File>Textures/CHM_MomentSTK_HeroRecalled.dds</File>
       <File>Textures/CHM_MomentSTK_Hippodrome.dds</File>
       <File>Textures/CHM_MomentSTK_Hulche.dds</File>
       <File>Textures/CHM_MomentSTK_Llanero.dds</File>
@@ -324,6 +325,7 @@
     <File>Textures/CHM_MomentSTK_Hacienda.dds</File>
     <File>Textures/CHM_MomentSTK_HeroClaimed.dds</File>
     <File>Textures/CHM_MomentSTK_HeroLost.dds</File>
+    <File>Textures/CHM_MomentSTK_HeroRecalled.dds</File>
     <File>Textures/CHM_MomentSTK_Hippodrome.dds</File>
     <File>Textures/CHM_MomentSTK_Hulche.dds</File>
     <File>Textures/CHM_MomentSTK_Llanero.dds</File>
