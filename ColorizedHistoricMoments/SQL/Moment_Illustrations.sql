@@ -758,3 +758,15 @@ where Texture = 'MomentSTK_Sabum.dds';
 update MomentIllustrations 
 set Texture = 'CHM_MomentSTK_Palgum.dds'
 where Texture = 'MomentSTK_Palgum.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_Thanh.dds'
+where Texture = 'MomentSTK_Thanh.dds';
+
+update MomentIllustrations 
+set Texture = 'CHM_MomentSTK_VoiChien.dds'
+where Texture = 'MomentSTK_VoiChien.dds';
+
+update MomentIllustrations 
+set Texture = 'MomentSTK_Preserve.dds'
+where Texture = 'MomentSTK_Preserve.dds';

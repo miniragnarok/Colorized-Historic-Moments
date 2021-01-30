@@ -85,6 +85,8 @@
     <Content Include="Textures\CHM_MomentSTK_Palgum.dds" />
     <Content Include="Textures\CHM_MomentSTK_Sabum.dds" />
     <Content Include="Textures\CHM_MomentSTK_Tagma.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Thanh.dds" />
+    <Content Include="Textures\CHM_MomentSTK_VoiChien.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingBiblioteque.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingIceHockeyRink.dds" />
     <Content Include="Textures\CHM_MomentXP2_BuildingMountainTunnel.dds" />
