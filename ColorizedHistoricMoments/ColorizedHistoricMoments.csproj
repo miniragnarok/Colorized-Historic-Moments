@@ -70,6 +70,9 @@
     <Content Include="Textures\CHM_MomentSTK_BermudaTriangle.dds" />
     <Content Include="Textures\CHM_MomentSTK_ComandanteGeneral.dds" />
     <Content Include="Textures\CHM_MomentSTK_DromonShip.dds" />
+    <Content Include="Textures\CHM_MomentSTK_FirstCorporation.dds" />
+    <Content Include="Textures\CHM_MomentSTK_FirstIndustry.dds" />
+    <Content Include="Textures\CHM_MomentSTK_FirstMonopoly.dds" />
     <Content Include="Textures\CHM_MomentSTK_FountainOfYouth.dds" />
     <Content Include="Textures\CHM_MomentSTK_Gaestae.dds" />
     <Content Include="Textures\CHM_MomentSTK_Hacienda.dds" />
@@ -330,9 +333,6 @@
     <Content Include="Textures\CHM_MomentXP2_Training_Toa.dds" />
     <Content Include="Textures\CHM_MomentSTK_OromoCavalry.dds" />
     <Content Include="Textures\CHM_MomentSTK_RockHewnChurch.dds" />
-    <Content Include="Textures\MomentSTK_FirstCorporation.dds" />
-    <Content Include="Textures\MomentSTK_FirstIndustry.dds" />
-    <Content Include="Textures\MomentSTK_FirstMonopoly.dds" />
     <Content Include="Workshop Images\Collage.png" />
     <Content Include="Workshop Images\Main Image - Maya.png" />
   </ItemGroup>
