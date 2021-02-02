@@ -23,7 +23,6 @@
       <Properties>
         <LoadOrder>100</LoadOrder>
       </Properties>
-      <File>SQL/DebugGameplay.sqlite</File>
       <File>SQL/Moments.sql</File>
       <File>SQL/Moment_Illustrations.sql</File>
       <File>Textures/CHM_MomentSmall_City.dds</File>
@@ -42,6 +41,9 @@
       <File>Textures/CHM_MomentSTK_BermudaTriangle.dds</File>
       <File>Textures/CHM_MomentSTK_ComandanteGeneral.dds</File>
       <File>Textures/CHM_MomentSTK_DromonShip.dds</File>
+      <File>Textures/CHM_MomentSTK_FirstCorporation.dds</File>
+      <File>Textures/CHM_MomentSTK_FirstIndustry.dds</File>
+      <File>Textures/CHM_MomentSTK_FirstMonopoly.dds</File>
       <File>Textures/CHM_MomentSTK_FountainOfYouth.dds</File>
       <File>Textures/CHM_MomentSTK_Gaestae.dds</File>
       <File>Textures/CHM_MomentSTK_Hacienda.dds</File>
@@ -305,7 +307,6 @@
     </ImportFiles>
   </InGameActions>
   <Files>
-    <File>SQL/DebugGameplay.sqlite</File>
     <File>SQL/Moments.sql</File>
     <File>SQL/Moment_Illustrations.sql</File>
     <File>Textures/CHM_MomentSmall_City.dds</File>
@@ -324,6 +325,9 @@
     <File>Textures/CHM_MomentSTK_BermudaTriangle.dds</File>
     <File>Textures/CHM_MomentSTK_ComandanteGeneral.dds</File>
     <File>Textures/CHM_MomentSTK_DromonShip.dds</File>
+    <File>Textures/CHM_MomentSTK_FirstCorporation.dds</File>
+    <File>Textures/CHM_MomentSTK_FirstIndustry.dds</File>
+    <File>Textures/CHM_MomentSTK_FirstMonopoly.dds</File>
     <File>Textures/CHM_MomentSTK_FountainOfYouth.dds</File>
     <File>Textures/CHM_MomentSTK_Gaestae.dds</File>
     <File>Textures/CHM_MomentSTK_Hacienda.dds</File>
