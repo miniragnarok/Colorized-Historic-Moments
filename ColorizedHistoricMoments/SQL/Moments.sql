@@ -284,6 +284,18 @@ set BackgroundTexture = 'CHM_MomentSTK_HeroLost.dds'
 where BackgroundTexture = 'MomentSTK_HeroLost.dds';
 
 update Moments 
+set BackgroundTexture = 'CHM_MomentSTK_FirstCorporation.dds'
+where BackgroundTexture = 'MomentSTK_FirstCorporation.dds';
+
+update Moments 
+set BackgroundTexture = 'CHM_MomentSTK_FirstIndustry.dds'
+where BackgroundTexture = 'MomentSTK_FirstIndustry.dds';
+
+update Moments 
+set BackgroundTexture = 'CHM_MomentSTK_FirstMonopoly.dds'
+where BackgroundTexture = 'MomentSTK_FirstMonopoly.dds';
+
+update Moments 
 set IconTexture = 'CHM_MomentSmall_City.dds'
 where IconTexture = 'MomentSmall_City';
 
@@ -334,15 +346,3 @@ where IconTexture = 'MomentSmall_Wonder';
 update Moments 
 set IconTexture = 'CHM_MomentSmall_HeroRecalled.dds'
 where IconTexture = 'MomentSmall_Heroes';
-
-update Moments 
-set IconTexture = 'CHM_MomentSTK_FirstCorporation.dds'
-where IconTexture = 'MomentSTK_FirstCorporation.dds';
-
-update Moments 
-set IconTexture = 'CHM_MomentSTK_FirstIndustry.dds'
-where IconTexture = 'MomentSTK_FirstIndustry.dds';
-
-update Moments 
-set IconTexture = 'CHM_MomentSTK_FirstMonopoly.dds'
-where IconTexture = 'MomentSTK_FirstMonopoly.dds';
