@@ -23,6 +23,7 @@
       <Properties>
         <LoadOrder>100</LoadOrder>
       </Properties>
+      <File>SQL/DebugGameplay.sqlite</File>
       <File>SQL/Moments.sql</File>
       <File>SQL/Moment_Illustrations.sql</File>
       <File>Textures/CHM_MomentSmall_City.dds</File>
@@ -307,6 +308,7 @@
     </ImportFiles>
   </InGameActions>
   <Files>
+    <File>SQL/DebugGameplay.sqlite</File>
     <File>SQL/Moments.sql</File>
     <File>SQL/Moment_Illustrations.sql</File>
     <File>Textures/CHM_MomentSmall_City.dds</File>
