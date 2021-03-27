@@ -96,23 +96,23 @@ create temp table temp.TempSmallMoments(ExistingName text);
 
 insert into temp.TempSmallMoments (ExistingName)
 values
-	('MomentSmall_City.dds')
-	,('MomentSmall_Combat.dds')
-	,('MomentSmall_Culture.dds')
-	,('MomentSmall_Diplomacy.dds')
-	,('MomentSmall_Espionage.dds')
-	,('MomentSmall_Exploration.dds')
-	,('MomentSmall_GreatPerson.dds')
-	,('MomentSmall_Military.dds')
-	,('MomentSmall_Religion.dds')
-	,('MomentSmall_Science.dds')
-	,('MomentSmall_Trade.dds')
-	,('MomentSmall_Wonder.dds')
-	,('MomentSmall_Wonder.dds')
-	,('MomentSmall_Heroes.dds');
+	('MomentSmall_City')
+	,('MomentSmall_Combat')
+	,('MomentSmall_Culture')
+	,('MomentSmall_Diplomacy')
+	,('MomentSmall_Espionage')
+	,('MomentSmall_Exploration')
+	,('MomentSmall_GreatPerson')
+	,('MomentSmall_Military')
+	,('MomentSmall_Religion')
+	,('MomentSmall_Science')
+	,('MomentSmall_Trade')
+	,('MomentSmall_Wonder')
+	,('MomentSmall_Wonder')
+	,('MomentSmall_Heroes');
 
 update Moments
-set IconTexture = 'CHM_' || IconTexture
+set IconTexture = 'CHM_' || IconTexture || '.dds'
 where IconTexture in (
 	select ExistingName from temp.TempSmallMoments
 );

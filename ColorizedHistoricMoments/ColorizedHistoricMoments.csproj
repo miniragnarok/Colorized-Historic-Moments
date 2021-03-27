@@ -70,6 +70,7 @@
     <Content Include="Textures\CHM_MomentSTK_BermudaTriangle.dds" />
     <Content Include="Textures\CHM_MomentSTK_ComandanteGeneral.dds" />
     <Content Include="Textures\CHM_MomentSTK_DromonShip.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Feitoria.dds" />
     <Content Include="Textures\CHM_MomentSTK_FirstCorporation.dds" />
     <Content Include="Textures\CHM_MomentSTK_FirstIndustry.dds" />
     <Content Include="Textures\CHM_MomentSTK_FirstMonopoly.dds" />
@@ -82,6 +83,8 @@
     <Content Include="Textures\CHM_MomentSTK_Hippodrome.dds" />
     <Content Include="Textures\CHM_MomentSTK_Hulche.dds" />
     <Content Include="Textures\CHM_MomentSTK_Llanero.dds" />
+    <Content Include="Textures\CHM_MomentSTK_Nau.dds" />
+    <Content Include="Textures\CHM_MomentSTK_NavigationSchool.dds" />
     <Content Include="Textures\CHM_MomentSTK_Observatory.dds" />
     <Content Include="Textures\CHM_MomentSTK_Oppidum.dds" />
     <Content Include="Textures\CHM_MomentSTK_Paititi.dds" />
